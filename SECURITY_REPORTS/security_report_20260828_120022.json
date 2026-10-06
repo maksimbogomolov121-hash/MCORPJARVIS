@@ -1,0 +1,41 @@
+{
+    "created_at": "2026-08-28T12:00:22.017130",
+    "scan_path": "C:\\Test",
+    "statistics": {
+        "total": 3,
+        "low": 1,
+        "medium": 0,
+        "suspicious": 1,
+        "high": 1
+    },
+    "files": [
+        {
+            "name": "test_safe.py",
+            "path": "C:\\Test\\test_safe.py",
+            "score": 5,
+            "level": "НИЗКИЙ",
+            "reasons": [
+                "Обычный Python-файл."
+            ]
+        },
+        {
+            "name": "test_suspicious.exe",
+            "path": "C:\\Test\\test_suspicious.exe",
+            "score": 45,
+            "level": "ПОДОЗРИТЕЛЬНЫЙ",
+            "reasons": [
+                "Неизвестный исполняемый файл.",
+                "Подозрительное расположение."
+            ]
+        },
+        {
+            "name": "test_high.exe",
+            "path": "C:\\Test\\test_high.exe",
+            "score": 80,
+            "level": "ВЫСОКИЙ",
+            "reasons": [
+                "Высокий Risk Score."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+========================================
+        JARVIS SECURITY REPORT
+========================================
+
+Дата: 2026-08-28T12:20:23.935995
+Путь сканирования: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST
+
+СТАТИСТИКА
+----------------------------------------
+Всего: 11
+Низкий риск: 11
+Средний риск: 0
+Подозрительных: 0
+Высокий риск: 0
+
+ОБЪЕКТЫ
+----------------------------------------
+
+[1] quarantine_test.txt
+Путь: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\quarantine_test.txt
+Risk Score: 0
+Уровень: НИЗКИЙ
+
+[2] test
+Путь: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test
+Risk Score: 3
+Уровень: НИЗКИЙ
+Причины:
+ - У файла отсутствует расширение.
+
+[3] test.py
+Путь: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test.py
+Risk Score: 0
+Уровень: НИЗКИЙ
+
+[4] test_process_scanner.py
+Путь: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_process_scanner.py
+Risk Score: 0
+Уровень: НИЗКИЙ
+
+[5] test_quarantine.py
+Путь: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_quarantine.py
+Risk Score: 0
+Уровень: НИЗКИЙ
+
+[6] test_security.py
+Путь: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_security.py
+Risk Score: 0
+Уровень: НИЗКИЙ
+
+[7] test_security_core_v1.py
+Путь: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_security_core_v1.py
+Risk Score: 0
+Уровень: НИЗКИЙ
+
+[8] test_security_logger.py
+Путь: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_security_logger.py
+Risk Score: 0
+Уровень: НИЗКИЙ
+
+[9] test_security_report.py
+Путь: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_security_report.py
+Risk Score: 0
+Уровень: НИЗКИЙ
+
+[10] test_startup_scanner.py
+Путь: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_startup_scanner.py
+Risk Score: 0
+Уровень: НИЗКИЙ
+
+[11] test_usb_scanner.py
+Путь: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_usb_scanner.py
+Risk Score: 0
+Уровень: НИЗКИЙ
+
+========================================
+        КОНЕЦ ОТЧЁТА
+========================================

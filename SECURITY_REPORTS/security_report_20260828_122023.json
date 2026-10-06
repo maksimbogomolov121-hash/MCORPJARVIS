@@ -1,0 +1,103 @@
+{
+    "created_at": "2026-08-28T12:20:23.935995",
+    "scan_path": "C:\\Users\\User\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_TEST",
+    "statistics": {
+        "total": 11,
+        "low": 11,
+        "medium": 0,
+        "suspicious": 0,
+        "high": 0
+    },
+    "files": [
+        {
+            "path": "C:\\Users\\User\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_TEST\\quarantine_test.txt",
+            "name": "quarantine_test.txt",
+            "score": 0,
+            "level": "НИЗКИЙ",
+            "reasons": [],
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "path": "C:\\Users\\User\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_TEST\\test",
+            "name": "test",
+            "score": 3,
+            "level": "НИЗКИЙ",
+            "reasons": [
+                "У файла отсутствует расширение."
+            ],
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "path": "C:\\Users\\User\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_TEST\\test.py",
+            "name": "test.py",
+            "score": 0,
+            "level": "НИЗКИЙ",
+            "reasons": [],
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "path": "C:\\Users\\User\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_TEST\\test_process_scanner.py",
+            "name": "test_process_scanner.py",
+            "score": 0,
+            "level": "НИЗКИЙ",
+            "reasons": [],
+            "sha256": "fda4bfbc207570dd2e68ef4ca819698803bac6398b1286e16efbf05c631166c3"
+        },
+        {
+            "path": "C:\\Users\\User\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_TEST\\test_quarantine.py",
+            "name": "test_quarantine.py",
+            "score": 0,
+            "level": "НИЗКИЙ",
+            "reasons": [],
+            "sha256": "858940382fc68397958af1c072e9396c90334700ca21868fdcc1761e17667cfe"
+        },
+        {
+            "path": "C:\\Users\\User\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_TEST\\test_security.py",
+            "name": "test_security.py",
+            "score": 0,
+            "level": "НИЗКИЙ",
+            "reasons": [],
+            "sha256": "a56d47c30ecdabbc212ed0283657aaa03d37ccde4ec39b24a923297476940918"
+        },
+        {
+            "path": "C:\\Users\\User\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_TEST\\test_security_core_v1.py",
+            "name": "test_security_core_v1.py",
+            "score": 0,
+            "level": "НИЗКИЙ",
+            "reasons": [],
+            "sha256": "14d6ae1e70dd7c258f1633276ffb72aafd9c1c6ba3f4652971a0f454ae987d5f"
+        },
+        {
+            "path": "C:\\Users\\User\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_TEST\\test_security_logger.py",
+            "name": "test_security_logger.py",
+            "score": 0,
+            "level": "НИЗКИЙ",
+            "reasons": [],
+            "sha256": "3efe9373c75ba9137a1df781f3178d0d79821e4eea95c52be03da45a48fd70e3"
+        },
+        {
+            "path": "C:\\Users\\User\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_TEST\\test_security_report.py",
+            "name": "test_security_report.py",
+            "score": 0,
+            "level": "НИЗКИЙ",
+            "reasons": [],
+            "sha256": "cc4dbfaeac8d0eab4222a816e625edb1e567af0ad6ef61e2511e2e54da206cba"
+        },
+        {
+            "path": "C:\\Users\\User\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_TEST\\test_startup_scanner.py",
+            "name": "test_startup_scanner.py",
+            "score": 0,
+            "level": "НИЗКИЙ",
+            "reasons": [],
+            "sha256": "e431654a510bb287c4d92210d2992dcf740babd9af4add462cf6b9e5f82dcbd8"
+        },
+        {
+            "path": "C:\\Users\\User\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_TEST\\test_usb_scanner.py",
+            "name": "test_usb_scanner.py",
+            "score": 0,
+            "level": "НИЗКИЙ",
+            "reasons": [],
+            "sha256": "f23be4aa4cf71aec9d69d3fdda3a43a77bab9fdfaa809955c982547b385fe6b6"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "7bea09e2-269a-45e6-8d9f-622eb517476a",
+        "original_path": "C:\\Users\\User\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_TEST\\quarantine_test.txt",
+        "quarantine_path": "C:\\Users\\User\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_QUARANTINE\\7bea09e2-269a-45e6-8d9f-622eb517476a_quarantine_test.txt",
+        "original_name": "quarantine_test.txt",
+        "reason": "Тестовая проверка карантина",
+        "score": 50,
+        "quarantined_at": "2026-08-28T11:48:55.640886",
+        "restored_path": "C:\\Users\\User\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_TEST\\quarantine_test.txt",
+        "restored_at": "2026-08-28T11:48:55.686748"
+    }
+]

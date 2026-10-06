@@ -1,0 +1,2227 @@
+[28.08.2026 12:07:40] [INFO] Security Logger инициализирован.
+[28.08.2026 12:07:40] [INFO] Тестовое информационное событие.
+[28.08.2026 12:07:40] [WARNING] Тестовое предупреждение.
+[28.08.2026 12:07:40] [ERROR] Тестовая ошибка.
+[28.08.2026 12:07:40] [CRITICAL] Тестическое критическое событие.
+[28.08.2026 12:20:16] [INFO] Security Logger инициализирован.
+[28.08.2026 12:20:17] [INFO] Карантин готов: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[28.08.2026 12:20:17] [INFO] Security Report готов: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[28.08.2026 12:20:17] [INFO] Security Core инициализирован.
+[28.08.2026 12:20:17] [INFO] Начало сканирования: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST
+[28.08.2026 12:20:17] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\quarantine_test.txt
+[28.08.2026 12:20:17] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test
+[28.08.2026 12:20:17] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test.py
+[28.08.2026 12:20:17] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_process_scanner.py
+[28.08.2026 12:20:17] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_quarantine.py
+[28.08.2026 12:20:17] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_security.py
+[28.08.2026 12:20:17] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_security_core_v1.py
+[28.08.2026 12:20:17] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_security_logger.py
+[28.08.2026 12:20:18] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_security_report.py
+[28.08.2026 12:20:18] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_startup_scanner.py
+[28.08.2026 12:20:18] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_usb_scanner.py
+[28.08.2026 12:20:18] [INFO] Сканирование завершено: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST. Найдено файлов: 11
+[28.08.2026 12:20:18] [INFO] Анализ: quarantine_test.txt | Risk Score: 0 | Уровень: НИЗКИЙ
+[28.08.2026 12:20:18] [INFO] Анализ: test | Risk Score: 3 | Уровень: НИЗКИЙ
+[28.08.2026 12:20:18] [INFO] Анализ: test.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[28.08.2026 12:20:18] [INFO] Анализ: test_process_scanner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[28.08.2026 12:20:18] [INFO] Анализ: test_quarantine.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[28.08.2026 12:20:18] [INFO] Анализ: test_security.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[28.08.2026 12:20:18] [INFO] Анализ: test_security_core_v1.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[28.08.2026 12:20:18] [INFO] Анализ: test_security_logger.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[28.08.2026 12:20:18] [INFO] Анализ: test_security_report.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[28.08.2026 12:20:18] [INFO] Анализ: test_startup_scanner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[28.08.2026 12:20:18] [INFO] Анализ: test_usb_scanner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[28.08.2026 12:20:18] [INFO] Сканирование завершено: 11 файлов.
+[28.08.2026 12:20:18] [INFO] Начало сканирования процессов.
+[28.08.2026 12:20:18] [INFO] Начало сканирования процессов...
+[28.08.2026 12:20:22] [INFO] Сканирование процессов завершено. Найдено процессов: 148
+[28.08.2026 12:20:22] [INFO] Сканирование процессов завершено. Найдено процессов: 148
+[28.08.2026 12:20:22] [INFO] Начало сканирования автозагрузки.
+[28.08.2026 12:20:22] [INFO] Начало сканирования автозагрузки...
+[28.08.2026 12:20:22] [INFO] Найдена автозагрузка: Opera Stable -> C:\Users\User\AppData\Local\Programs\Opera\opera.exe
+[28.08.2026 12:20:22] [INFO] Найдена автозагрузка: Wargaming.net Game Center -> "C:\ProgramData\Wargaming.net\GameCenter\wgc.exe" --background
+[28.08.2026 12:20:22] [INFO] Найдена автозагрузка: ut -> "C:\Users\User\AppData\Roaming\uTorrent\uTorrent.exe"  /MINIMIZED
+[28.08.2026 12:20:22] [INFO] Найдена автозагрузка: Discord -> "C:\Users\User\AppData\Local\Discord\Update.exe" --processStart Discord.exe
+[28.08.2026 12:20:22] [INFO] Найдена автозагрузка: Gaijin.Net Updater -> "C:\Users\User\AppData\Local\Gaijin\Program Files (x86)\NetAgent\gjagent.exe"
+[28.08.2026 12:20:22] [INFO] Найдена автозагрузка: OneDrive -> "C:\Users\User\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+[28.08.2026 12:20:22] [INFO] Найдена автозагрузка: YandexBrowserAutoLaunch_B64B7D5D07784CD66F00CA43360BB68B -> "C:\Program Files\Yandex\YandexBrowser\Application\browser.exe" --no-startup-window --atlogin-bgr-mark /prefetch:5
+[28.08.2026 12:20:22] [INFO] Найдена автозагрузка: MicrosoftEdgeAutoLaunch_C46CFC0629905CC775E70B50EA8A519C -> "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --win-session-start
+[28.08.2026 12:20:22] [INFO] Найдена автозагрузка: Proton VPN -> C:\Program Files\Proton\VPN\ProtonVPN.Launcher.exe "----ms-protocol:ms-encodedlaunch:App?ContractId=Windows.StartupTask&TaskId=Proton%20VPN"
+[28.08.2026 12:20:22] [INFO] Найдена автозагрузка: SecurityHealth -> %windir%\system32\SecurityHealthSystray.exe
+[28.08.2026 12:20:22] [INFO] Найдена автозагрузка: SpIDerAgent -> "C:\Program Files\DrWeb\spideragent.exe"
+[28.08.2026 12:20:22] [INFO] Найдена автозагрузка: Application Restart #1 -> C:\Program Files\Google\Chrome\Application\chrome.exe  --app-id=cagnfolfediceojffkphfledgehomcki --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --profile-directory="Profile 2" --source-shortcut="C:\Users\User\Desktop\MovieLab.lnk" --restore-last-session --restart
+[28.08.2026 12:20:22] [INFO] Найден объект автозагрузки: C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini
+[28.08.2026 12:20:22] [INFO] Сканирование автозагрузки завершено. Найдено объектов: 13
+[28.08.2026 12:20:22] [INFO] Сканирование автозагрузки завершено. Найдено объектов: 13
+[28.08.2026 12:20:22] [INFO] Начало сканирования USB.
+[28.08.2026 12:20:22] [INFO] Начало сканирования USB-накопителей...
+[28.08.2026 12:20:23] [INFO] Сканирование USB завершено. Найдено накопителей: 0
+[28.08.2026 12:20:23] [INFO] Сканирование USB завершено. Найдено накопителей: 0
+[28.08.2026 12:20:23] [INFO] Отчёт создан. Объектов: 11
+[28.08.2026 12:20:23] [INFO] JSON-отчёт сохранён: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS\security_report_20260828_122023.json
+[28.08.2026 12:20:23] [INFO] TXT-отчёт сохранён: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS\security_report_20260828_122023.txt
+[28.08.2026 12:24:15] [INFO] Security Logger инициализирован.
+[28.08.2026 12:24:15] [INFO] Карантин готов: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[28.08.2026 12:24:15] [INFO] Security Report готов: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[28.08.2026 12:24:15] [INFO] Security Core инициализирован.
+[28.08.2026 12:24:15] [INFO] Начало сканирования: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST
+[28.08.2026 12:24:15] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\quarantine_test.txt
+[28.08.2026 12:24:15] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test
+[28.08.2026 12:24:15] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test.py
+[28.08.2026 12:24:15] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_process_scanner.py
+[28.08.2026 12:24:15] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_quarantine.py
+[28.08.2026 12:24:15] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_security.py
+[28.08.2026 12:24:15] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_security_core_v1.py
+[28.08.2026 12:24:15] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_security_logger.py
+[28.08.2026 12:24:15] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_security_report.py
+[28.08.2026 12:24:16] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_startup_scanner.py
+[28.08.2026 12:24:16] [INFO] Просканирован файл: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST\test_usb_scanner.py
+[28.08.2026 12:24:16] [INFO] Сканирование завершено: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_TEST. Найдено файлов: 11
+[28.08.2026 12:24:16] [INFO] Анализ: quarantine_test.txt | Risk Score: 0 | Уровень: НИЗКИЙ
+[28.08.2026 12:24:16] [INFO] Анализ: test | Risk Score: 3 | Уровень: НИЗКИЙ
+[28.08.2026 12:24:16] [INFO] Анализ: test.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[28.08.2026 12:24:16] [INFO] Анализ: test_process_scanner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[28.08.2026 12:24:16] [INFO] Анализ: test_quarantine.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[28.08.2026 12:24:16] [INFO] Анализ: test_security.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[28.08.2026 12:24:16] [INFO] Анализ: test_security_core_v1.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[28.08.2026 12:24:16] [INFO] Анализ: test_security_logger.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[28.08.2026 12:24:16] [INFO] Анализ: test_security_report.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[28.08.2026 12:24:16] [INFO] Анализ: test_startup_scanner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[28.08.2026 12:24:16] [INFO] Анализ: test_usb_scanner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[28.08.2026 12:24:16] [INFO] Сканирование завершено: 11 файлов.
+[28.08.2026 12:24:16] [INFO] Начало сканирования процессов.
+[28.08.2026 12:24:16] [INFO] Начало сканирования процессов...
+[28.08.2026 15:56:42] [INFO] Security Logger инициализирован.
+[28.08.2026 15:56:42] [INFO] Карантин готов: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[28.08.2026 15:56:42] [INFO] Security Report готов: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[28.08.2026 15:56:42] [INFO] Process Behavior Monitor инициализирован.
+[28.08.2026 15:56:42] [INFO] Startup Behavior Monitor инициализирован.
+[28.08.2026 15:56:42] [INFO] Security Core V2.3 инициализирован.
+[28.08.2026 15:56:42] [INFO] Начало сканирования процессов.
+[28.08.2026 15:56:42] [INFO] Начало сканирования процессов...
+[28.08.2026 15:56:47] [INFO] Сканирование процессов завершено. Найдено процессов: 149
+[28.08.2026 15:56:47] [INFO] Сканирование процессов завершено. Найдено процессов: 149
+[28.08.2026 15:56:47] [INFO] Начало сканирования автозагрузки.
+[28.08.2026 15:56:47] [INFO] Начало сканирования автозагрузки...
+[28.08.2026 15:56:47] [INFO] Найдена автозагрузка: Opera Stable -> C:\Users\User\AppData\Local\Programs\Opera\opera.exe
+[28.08.2026 15:56:47] [INFO] Найдена автозагрузка: Wargaming.net Game Center -> "C:\ProgramData\Wargaming.net\GameCenter\wgc.exe" --background
+[28.08.2026 15:56:47] [INFO] Найдена автозагрузка: ut -> "C:\Users\User\AppData\Roaming\uTorrent\uTorrent.exe"  /MINIMIZED
+[28.08.2026 15:56:47] [INFO] Найдена автозагрузка: Discord -> "C:\Users\User\AppData\Local\Discord\Update.exe" --processStart Discord.exe
+[28.08.2026 15:56:47] [INFO] Найдена автозагрузка: Gaijin.Net Updater -> "C:\Users\User\AppData\Local\Gaijin\Program Files (x86)\NetAgent\gjagent.exe"
+[28.08.2026 15:56:47] [INFO] Найдена автозагрузка: OneDrive -> "C:\Users\User\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+[28.08.2026 15:56:47] [INFO] Найдена автозагрузка: YandexBrowserAutoLaunch_B64B7D5D07784CD66F00CA43360BB68B -> "C:\Program Files\Yandex\YandexBrowser\Application\browser.exe" --no-startup-window --atlogin-bgr-mark /prefetch:5
+[28.08.2026 15:56:47] [INFO] Найдена автозагрузка: MicrosoftEdgeAutoLaunch_C46CFC0629905CC775E70B50EA8A519C -> "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --win-session-start
+[28.08.2026 15:56:47] [INFO] Найдена автозагрузка: Proton VPN -> C:\Program Files\Proton\VPN\ProtonVPN.Launcher.exe "----ms-protocol:ms-encodedlaunch:App?ContractId=Windows.StartupTask&TaskId=Proton%20VPN"
+[28.08.2026 15:56:47] [INFO] Найдена автозагрузка: SecurityHealth -> %windir%\system32\SecurityHealthSystray.exe
+[28.08.2026 15:56:47] [INFO] Найдена автозагрузка: SpIDerAgent -> "C:\Program Files\DrWeb\spideragent.exe"
+[28.08.2026 15:56:47] [INFO] Найдена автозагрузка: Application Restart #1 -> C:\Program Files\Google\Chrome\Application\chrome.exe  --app-id=cagnfolfediceojffkphfledgehomcki --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --profile-directory="Profile 2" --source-shortcut="C:\Users\User\Desktop\MovieLab.lnk" --restore-last-session --restart
+[28.08.2026 15:56:47] [INFO] Найден объект автозагрузки: C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini
+[28.08.2026 15:56:47] [INFO] Сканирование автозагрузки завершено. Найдено объектов: 13
+[28.08.2026 15:56:47] [INFO] Сканирование автозагрузки завершено. Найдено объектов: 13
+[28.08.2026 15:56:47] [INFO] Начало сканирования USB.
+[28.08.2026 15:56:47] [INFO] Начало сканирования USB-накопителей...
+[28.08.2026 15:56:48] [INFO] Сканирование USB завершено. Найдено накопителей: 0
+[28.08.2026 15:56:48] [INFO] Сканирование USB завершено. Найдено накопителей: 0
+[28.08.2026 16:53:07] [INFO] Security Logger инициализирован.
+[28.08.2026 16:53:07] [INFO] Карантин готов: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[28.08.2026 16:53:07] [INFO] Security Report готов: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[28.08.2026 16:53:07] [INFO] Process Behavior Monitor инициализирован.
+[28.08.2026 16:53:07] [INFO] Startup Behavior Monitor инициализирован.
+[28.08.2026 16:53:07] [INFO] Security Core V2.3 инициализирован.
+[28.08.2026 16:53:07] [INFO] Начало сканирования процессов.
+[28.08.2026 16:53:07] [INFO] Начало сканирования процессов...
+[28.08.2026 16:53:13] [INFO] Сканирование процессов завершено. Найдено процессов: 150
+[28.08.2026 16:53:13] [INFO] Сканирование процессов завершено. Найдено процессов: 150
+[28.08.2026 16:53:13] [INFO] Начало сканирования автозагрузки.
+[28.08.2026 16:53:13] [INFO] Начало сканирования автозагрузки...
+[28.08.2026 16:53:13] [INFO] Найдена автозагрузка: Opera Stable -> C:\Users\User\AppData\Local\Programs\Opera\opera.exe
+[28.08.2026 16:53:13] [INFO] Найдена автозагрузка: Wargaming.net Game Center -> "C:\ProgramData\Wargaming.net\GameCenter\wgc.exe" --background
+[28.08.2026 16:53:13] [INFO] Найдена автозагрузка: ut -> "C:\Users\User\AppData\Roaming\uTorrent\uTorrent.exe"  /MINIMIZED
+[28.08.2026 16:53:13] [INFO] Найдена автозагрузка: Discord -> "C:\Users\User\AppData\Local\Discord\Update.exe" --processStart Discord.exe
+[28.08.2026 16:53:13] [INFO] Найдена автозагрузка: Gaijin.Net Updater -> "C:\Users\User\AppData\Local\Gaijin\Program Files (x86)\NetAgent\gjagent.exe"
+[28.08.2026 16:53:13] [INFO] Найдена автозагрузка: OneDrive -> "C:\Users\User\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+[28.08.2026 16:53:13] [INFO] Найдена автозагрузка: YandexBrowserAutoLaunch_B64B7D5D07784CD66F00CA43360BB68B -> "C:\Program Files\Yandex\YandexBrowser\Application\browser.exe" --no-startup-window --atlogin-bgr-mark /prefetch:5
+[28.08.2026 16:53:13] [INFO] Найдена автозагрузка: MicrosoftEdgeAutoLaunch_C46CFC0629905CC775E70B50EA8A519C -> "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --win-session-start
+[28.08.2026 16:53:13] [INFO] Найдена автозагрузка: Proton VPN -> C:\Program Files\Proton\VPN\ProtonVPN.Launcher.exe "----ms-protocol:ms-encodedlaunch:App?ContractId=Windows.StartupTask&TaskId=Proton%20VPN"
+[28.08.2026 16:53:13] [INFO] Найдена автозагрузка: SecurityHealth -> %windir%\system32\SecurityHealthSystray.exe
+[28.08.2026 16:53:13] [INFO] Найдена автозагрузка: SpIDerAgent -> "C:\Program Files\DrWeb\spideragent.exe"
+[28.08.2026 16:53:13] [INFO] Найдена автозагрузка: Application Restart #1 -> C:\Program Files\Google\Chrome\Application\chrome.exe  --app-id=cagnfolfediceojffkphfledgehomcki --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --profile-directory="Profile 2" --source-shortcut="C:\Users\User\Desktop\MovieLab.lnk" --restore-last-session --restart
+[28.08.2026 16:53:13] [INFO] Найден объект автозагрузки: C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini
+[28.08.2026 16:53:13] [INFO] Сканирование автозагрузки завершено. Найдено объектов: 13
+[28.08.2026 16:53:13] [INFO] Сканирование автозагрузки завершено. Найдено объектов: 13
+[28.08.2026 16:53:13] [INFO] Начало сканирования USB.
+[28.08.2026 16:53:13] [INFO] Начало сканирования USB-накопителей...
+[28.08.2026 16:53:14] [INFO] Сканирование USB завершено. Найдено накопителей: 0
+[28.08.2026 16:53:14] [INFO] Сканирование USB завершено. Найдено накопителей: 0
+[28.08.2026 16:58:01] [INFO] Security Logger инициализирован.
+[28.08.2026 16:58:01] [INFO] Карантин готов: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[28.08.2026 16:58:01] [INFO] Security Report готов: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[28.08.2026 16:58:01] [INFO] Process Behavior Monitor инициализирован.
+[28.08.2026 16:58:01] [INFO] Startup Behavior Monitor инициализирован.
+[28.08.2026 16:58:01] [INFO] Security Core V2.3 инициализирован.
+[28.08.2026 16:58:01] [INFO] Начало сканирования процессов.
+[28.08.2026 16:58:01] [INFO] Начало сканирования процессов...
+[28.08.2026 16:58:04] [INFO] Сканирование процессов завершено. Найдено процессов: 151
+[28.08.2026 16:58:04] [INFO] Сканирование процессов завершено. Найдено процессов: 151
+[28.08.2026 16:58:04] [INFO] Начало сканирования автозагрузки.
+[28.08.2026 16:58:04] [INFO] Начало сканирования автозагрузки...
+[28.08.2026 16:58:04] [INFO] Найдена автозагрузка: Opera Stable -> C:\Users\User\AppData\Local\Programs\Opera\opera.exe
+[28.08.2026 16:58:04] [INFO] Найдена автозагрузка: Wargaming.net Game Center -> "C:\ProgramData\Wargaming.net\GameCenter\wgc.exe" --background
+[28.08.2026 16:58:04] [INFO] Найдена автозагрузка: ut -> "C:\Users\User\AppData\Roaming\uTorrent\uTorrent.exe"  /MINIMIZED
+[28.08.2026 16:58:04] [INFO] Найдена автозагрузка: Discord -> "C:\Users\User\AppData\Local\Discord\Update.exe" --processStart Discord.exe
+[28.08.2026 16:58:04] [INFO] Найдена автозагрузка: Gaijin.Net Updater -> "C:\Users\User\AppData\Local\Gaijin\Program Files (x86)\NetAgent\gjagent.exe"
+[28.08.2026 16:58:04] [INFO] Найдена автозагрузка: OneDrive -> "C:\Users\User\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+[28.08.2026 16:58:04] [INFO] Найдена автозагрузка: YandexBrowserAutoLaunch_B64B7D5D07784CD66F00CA43360BB68B -> "C:\Program Files\Yandex\YandexBrowser\Application\browser.exe" --no-startup-window --atlogin-bgr-mark /prefetch:5
+[28.08.2026 16:58:04] [INFO] Найдена автозагрузка: MicrosoftEdgeAutoLaunch_C46CFC0629905CC775E70B50EA8A519C -> "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --win-session-start
+[28.08.2026 16:58:04] [INFO] Найдена автозагрузка: Proton VPN -> C:\Program Files\Proton\VPN\ProtonVPN.Launcher.exe "----ms-protocol:ms-encodedlaunch:App?ContractId=Windows.StartupTask&TaskId=Proton%20VPN"
+[28.08.2026 16:58:04] [INFO] Найдена автозагрузка: SecurityHealth -> %windir%\system32\SecurityHealthSystray.exe
+[28.08.2026 16:58:04] [INFO] Найдена автозагрузка: SpIDerAgent -> "C:\Program Files\DrWeb\spideragent.exe"
+[28.08.2026 16:58:04] [INFO] Найдена автозагрузка: Application Restart #1 -> C:\Program Files\Google\Chrome\Application\chrome.exe  --app-id=cagnfolfediceojffkphfledgehomcki --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --profile-directory="Profile 2" --source-shortcut="C:\Users\User\Desktop\MovieLab.lnk" --restore-last-session --restart
+[28.08.2026 16:58:04] [INFO] Найден объект автозагрузки: C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini
+[28.08.2026 16:58:04] [INFO] Сканирование автозагрузки завершено. Найдено объектов: 13
+[28.08.2026 16:58:04] [INFO] Сканирование автозагрузки завершено. Найдено объектов: 13
+[28.08.2026 16:58:04] [INFO] Начало сканирования USB.
+[28.08.2026 16:58:04] [INFO] Начало сканирования USB-накопителей...
+[28.08.2026 16:58:06] [INFO] Сканирование USB завершено. Найдено накопителей: 0
+[28.08.2026 16:58:06] [INFO] Сканирование USB завершено. Найдено накопителей: 0
+[28.08.2026 16:58:06] [INFO] Network Scanner V2.7 инициализирован.
+[28.08.2026 16:58:06] [INFO] Начало сетевого сканирования.
+[28.08.2026 16:58:21] [INFO] Сетевое сканирование завершено. Соединений: 82, портов: 29
+[28.08.2026 17:04:37] [INFO] Security Logger инициализирован.
+[28.08.2026 17:04:37] [INFO] Карантин готов: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[28.08.2026 17:04:37] [INFO] Security Report готов: C:\Users\User\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[28.08.2026 17:04:37] [INFO] Process Behavior Monitor инициализирован.
+[28.08.2026 17:04:37] [INFO] Startup Behavior Monitor инициализирован.
+[28.08.2026 17:04:37] [INFO] Security Core V2.3 инициализирован.
+[28.08.2026 17:04:37] [INFO] Начало сканирования процессов.
+[28.08.2026 17:04:37] [INFO] Начало сканирования процессов...
+[28.08.2026 17:04:40] [INFO] Сканирование процессов завершено. Найдено процессов: 153
+[28.08.2026 17:04:40] [INFO] Сканирование процессов завершено. Найдено процессов: 153
+[28.08.2026 17:04:40] [INFO] Начало сканирования автозагрузки.
+[28.08.2026 17:04:40] [INFO] Начало сканирования автозагрузки...
+[28.08.2026 17:04:40] [INFO] Найдена автозагрузка: Opera Stable -> C:\Users\User\AppData\Local\Programs\Opera\opera.exe
+[28.08.2026 17:04:40] [INFO] Найдена автозагрузка: Wargaming.net Game Center -> "C:\ProgramData\Wargaming.net\GameCenter\wgc.exe" --background
+[28.08.2026 17:04:40] [INFO] Найдена автозагрузка: ut -> "C:\Users\User\AppData\Roaming\uTorrent\uTorrent.exe"  /MINIMIZED
+[28.08.2026 17:04:40] [INFO] Найдена автозагрузка: Discord -> "C:\Users\User\AppData\Local\Discord\Update.exe" --processStart Discord.exe
+[28.08.2026 17:04:40] [INFO] Найдена автозагрузка: Gaijin.Net Updater -> "C:\Users\User\AppData\Local\Gaijin\Program Files (x86)\NetAgent\gjagent.exe"
+[28.08.2026 17:04:40] [INFO] Найдена автозагрузка: OneDrive -> "C:\Users\User\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+[28.08.2026 17:04:40] [INFO] Найдена автозагрузка: YandexBrowserAutoLaunch_B64B7D5D07784CD66F00CA43360BB68B -> "C:\Program Files\Yandex\YandexBrowser\Application\browser.exe" --no-startup-window --atlogin-bgr-mark /prefetch:5
+[28.08.2026 17:04:40] [INFO] Найдена автозагрузка: MicrosoftEdgeAutoLaunch_C46CFC0629905CC775E70B50EA8A519C -> "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --win-session-start
+[28.08.2026 17:04:40] [INFO] Найдена автозагрузка: Proton VPN -> C:\Program Files\Proton\VPN\ProtonVPN.Launcher.exe "----ms-protocol:ms-encodedlaunch:App?ContractId=Windows.StartupTask&TaskId=Proton%20VPN"
+[28.08.2026 17:04:40] [INFO] Найдена автозагрузка: SecurityHealth -> %windir%\system32\SecurityHealthSystray.exe
+[28.08.2026 17:04:40] [INFO] Найдена автозагрузка: SpIDerAgent -> "C:\Program Files\DrWeb\spideragent.exe"
+[28.08.2026 17:04:40] [INFO] Найдена автозагрузка: Application Restart #1 -> C:\Program Files\Google\Chrome\Application\chrome.exe  --app-id=cagnfolfediceojffkphfledgehomcki --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --profile-directory="Profile 2" --source-shortcut="C:\Users\User\Desktop\MovieLab.lnk" --restore-last-session --restart
+[28.08.2026 17:04:40] [INFO] Найден объект автозагрузки: C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini
+[28.08.2026 17:04:40] [INFO] Сканирование автозагрузки завершено. Найдено объектов: 13
+[28.08.2026 17:04:40] [INFO] Сканирование автозагрузки завершено. Найдено объектов: 13
+[28.08.2026 17:04:40] [INFO] Начало сканирования USB.
+[28.08.2026 17:04:40] [INFO] Начало сканирования USB-накопителей...
+[28.08.2026 17:04:40] [INFO] Сканирование USB завершено. Найдено накопителей: 0
+[28.08.2026 17:04:40] [INFO] Сканирование USB завершено. Найдено накопителей: 0
+[28.08.2026 17:04:40] [INFO] Network Scanner V2.7 инициализирован.
+[28.08.2026 17:04:40] [INFO] Начало сетевого сканирования.
+[28.08.2026 17:04:41] [INFO] Сетевое сканирование завершено. Соединений: 79, портов: 29
+[28.08.2026 17:04:41] [INFO] Firewall Scanner V2.8 инициализирован.
+[28.08.2026 17:04:41] [INFO] Начало сканирования Windows Firewall.
+[28.08.2026 17:05:13] [INFO] Сканирование Firewall превысило лимит времени.
+[28.08.2026 17:05:13] [INFO] Сканирование Firewall завершено. Правил: 0
+[28.08.2026 17:05:13] [INFO] DNS Scanner V2.9 инициализирован.
+[28.08.2026 17:05:13] [INFO] Начало сканирования DNS.
+[28.08.2026 17:05:43] [INFO] Сканирование DNS превысило лимит времени.
+[28.08.2026 17:05:43] [INFO] Сканирование DNS завершено. Интерфейсов: 0
+[28.08.2026 17:05:43] [INFO] DNS Scanner V2.9 инициализирован.
+[04.09.2026 22:00:40] [INFO] Security Logger инициализирован.
+[04.09.2026 22:00:40] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[04.09.2026 22:00:40] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[04.09.2026 22:00:40] [INFO] Process Behavior Monitor инициализирован.
+[04.09.2026 22:00:40] [INFO] Startup Behavior Monitor инициализирован.
+[04.09.2026 22:00:40] [INFO] Security Core V2.3 инициализирован.
+[05.09.2026 17:08:25] [INFO] Security Logger инициализирован.
+[05.09.2026 17:08:25] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[05.09.2026 17:08:25] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[05.09.2026 17:08:25] [INFO] Process Behavior Monitor инициализирован.
+[05.09.2026 17:08:25] [INFO] Startup Behavior Monitor инициализирован.
+[05.09.2026 17:08:25] [INFO] Security Core V2.3 инициализирован.
+[05.09.2026 17:11:44] [INFO] Security Logger инициализирован.
+[05.09.2026 17:11:44] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[05.09.2026 17:11:44] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[05.09.2026 17:11:44] [INFO] Process Behavior Monitor инициализирован.
+[05.09.2026 17:11:44] [INFO] Startup Behavior Monitor инициализирован.
+[05.09.2026 17:11:44] [INFO] Security Core V2.3 инициализирован.
+[05.09.2026 17:37:31] [INFO] Security Logger инициализирован.
+[05.09.2026 17:37:31] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[05.09.2026 17:37:31] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[05.09.2026 17:37:31] [INFO] Process Behavior Monitor инициализирован.
+[05.09.2026 17:37:31] [INFO] Startup Behavior Monitor инициализирован.
+[05.09.2026 17:37:31] [INFO] Security Core V2.3 инициализирован.
+[05.09.2026 17:37:31] [INFO] Начало сканирования: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\auto_response.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\behavior_engine.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\correlation_engine.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\decision_engine.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\detection_engine.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\dns_scanner.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\firewall_scanner.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\incident_manager.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\ioc_engine.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\jarvis_security_bridge.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\network_scanner.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\process_behavior.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\process_scanner.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\quarantine.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\recovery_manager.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\remediation_engine.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\response_engine.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\risk_engine.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\sandbox_environment.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\sandbox_filesystem.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\sandbox_manager.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\sandbox_monitor.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\sandbox_network.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\sandbox_process.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\sandbox_report.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\sandbox_runner.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\scanner.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_alert_manager.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_api.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_automation.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_bootstrap.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_command_handler.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_controller.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_core.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_dashboard.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_event_store.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_interface.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_logger.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_notifications.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_orchestrator.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_pipeline.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_policy.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_report.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_scheduler.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_voice_interface.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\startup_behavior.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\startup_scanner.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\threat_analyzer.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\threat_chain.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\usb_scanner.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__init__.py
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\behavior_engine.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\correlation_engine.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\detection_engine.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\dns_scanner.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\firewall_scanner.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\incident_manager.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\ioc_engine.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\network_scanner.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\process_behavior.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\process_scanner.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\quarantine.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\risk_engine.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\scanner.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\security_api.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\security_core.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\security_event_store.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\security_interface.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\security_logger.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\security_report.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\startup_behavior.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\startup_scanner.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\threat_analyzer.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\threat_chain.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\usb_scanner.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\__init__.cpython-312.pyc
+[05.09.2026 17:37:31] [INFO] Сканирование завершено: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY. Найдено файлов: 76
+[05.09.2026 17:37:31] [INFO] Анализ: auto_response.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: behavior_engine.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: correlation_engine.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: decision_engine.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: detection_engine.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: dns_scanner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: firewall_scanner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: incident_manager.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: ioc_engine.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: jarvis_security_bridge.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: network_scanner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: process_behavior.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: process_scanner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: quarantine.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: recovery_manager.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: remediation_engine.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: response_engine.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: risk_engine.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: sandbox_environment.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: sandbox_filesystem.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: sandbox_manager.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: sandbox_monitor.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: sandbox_network.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: sandbox_process.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: sandbox_report.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: sandbox_runner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: scanner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_alert_manager.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_api.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_automation.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_bootstrap.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_command_handler.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_controller.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_core.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_dashboard.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_event_store.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_interface.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_logger.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_notifications.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_orchestrator.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_pipeline.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_policy.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_report.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_scheduler.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_voice_interface.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: startup_behavior.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: startup_scanner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: threat_analyzer.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: threat_chain.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: usb_scanner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: __init__.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: behavior_engine.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: correlation_engine.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: detection_engine.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: dns_scanner.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: firewall_scanner.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: incident_manager.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: ioc_engine.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: network_scanner.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: process_behavior.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: process_scanner.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: quarantine.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: risk_engine.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: scanner.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_api.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_core.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_event_store.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_interface.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_logger.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: security_report.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: startup_behavior.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: startup_scanner.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: threat_analyzer.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: threat_chain.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: usb_scanner.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Анализ: __init__.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:37:31] [INFO] Сканирование завершено: 76 файлов.
+[05.09.2026 17:41:41] [INFO] Security Logger инициализирован.
+[05.09.2026 17:41:41] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[05.09.2026 17:41:41] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[05.09.2026 17:41:41] [INFO] Process Behavior Monitor инициализирован.
+[05.09.2026 17:41:41] [INFO] Startup Behavior Monitor инициализирован.
+[05.09.2026 17:41:41] [INFO] Security Core V2.3 инициализирован.
+[05.09.2026 17:41:42] [INFO] Начало сканирования: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\auto_response.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\behavior_engine.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\correlation_engine.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\decision_engine.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\detection_engine.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\dns_scanner.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\firewall_scanner.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\incident_manager.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\ioc_engine.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\jarvis_security_bridge.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\network_scanner.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\process_behavior.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\process_scanner.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\quarantine.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\recovery_manager.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\remediation_engine.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\response_engine.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\risk_engine.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\sandbox_environment.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\sandbox_filesystem.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\sandbox_manager.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\sandbox_monitor.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\sandbox_network.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\sandbox_process.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\sandbox_report.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\sandbox_runner.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\scanner.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_alert_manager.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_api.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_automation.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_bootstrap.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_command_handler.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_controller.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_core.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_dashboard.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_event_store.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_interface.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_logger.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_notifications.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_orchestrator.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_pipeline.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_policy.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_report.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_scheduler.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_voice_interface.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\startup_behavior.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\startup_scanner.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\threat_analyzer.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\threat_chain.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\usb_scanner.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__init__.py
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\behavior_engine.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\correlation_engine.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\detection_engine.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\dns_scanner.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\firewall_scanner.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\incident_manager.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\ioc_engine.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\network_scanner.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\process_behavior.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\process_scanner.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\quarantine.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\risk_engine.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\scanner.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\security_api.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\security_core.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\security_event_store.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\security_interface.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\security_logger.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\security_report.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\startup_behavior.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\startup_scanner.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\threat_analyzer.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\threat_chain.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\usb_scanner.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Просканирован файл: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\__pycache__\__init__.cpython-312.pyc
+[05.09.2026 17:41:42] [INFO] Сканирование завершено: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY. Найдено файлов: 76
+[05.09.2026 17:41:42] [INFO] Анализ: auto_response.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: behavior_engine.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: correlation_engine.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: decision_engine.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: detection_engine.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: dns_scanner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: firewall_scanner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: incident_manager.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: ioc_engine.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: jarvis_security_bridge.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: network_scanner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: process_behavior.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: process_scanner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: quarantine.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: recovery_manager.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: remediation_engine.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: response_engine.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: risk_engine.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: sandbox_environment.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: sandbox_filesystem.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: sandbox_manager.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: sandbox_monitor.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: sandbox_network.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: sandbox_process.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: sandbox_report.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: sandbox_runner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: scanner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_alert_manager.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_api.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_automation.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_bootstrap.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_command_handler.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_controller.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_core.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_dashboard.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_event_store.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_interface.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_logger.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_notifications.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_orchestrator.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_pipeline.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_policy.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_report.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_scheduler.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_voice_interface.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: startup_behavior.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: startup_scanner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: threat_analyzer.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: threat_chain.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: usb_scanner.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: __init__.py | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: behavior_engine.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: correlation_engine.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: detection_engine.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: dns_scanner.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: firewall_scanner.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: incident_manager.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: ioc_engine.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: network_scanner.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: process_behavior.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: process_scanner.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: quarantine.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: risk_engine.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: scanner.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_api.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_core.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_event_store.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_interface.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_logger.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: security_report.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: startup_behavior.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: startup_scanner.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: threat_analyzer.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: threat_chain.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: usb_scanner.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Анализ: __init__.cpython-312.pyc | Risk Score: 0 | Уровень: НИЗКИЙ
+[05.09.2026 17:41:42] [INFO] Сканирование завершено: 76 файлов.
+[05.09.2026 23:21:06] [INFO] Security Logger инициализирован.
+[05.09.2026 23:21:06] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[05.09.2026 23:21:06] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[05.09.2026 23:21:06] [INFO] Process Behavior Monitor инициализирован.
+[05.09.2026 23:21:06] [INFO] Startup Behavior Monitor инициализирован.
+[05.09.2026 23:21:06] [INFO] Security Core V2.3 инициализирован.
+[05.09.2026 23:21:06] [INFO] Security Orchestrator V2.4 инициализирован.
+[05.09.2026 23:21:06] [INFO] Detection Engine V3.6 инициализирован.
+[05.09.2026 23:21:06] [INFO] IOC Engine V3.5 инициализирован.
+[05.09.2026 23:21:06] [INFO] Correlation Engine V3.0 инициализирован.
+[05.09.2026 23:21:06] [INFO] Threat Chain V3.2 инициализирован.
+[05.09.2026 23:21:06] [INFO] Risk Engine V3.1 инициализирован.
+[05.09.2026 23:21:06] [INFO] Incident Manager V3.3 инициализирован.
+[05.09.2026 23:21:06] [INFO] Security Event Store V3.4 инициализирован.
+[05.09.2026 23:21:06] [INFO] Security Pipeline V4.0 инициализирован.
+[05.09.2026 23:21:06] [INFO] Decision Engine V4.1 инициализирован.
+[05.09.2026 23:21:06] [INFO] Response Engine V4.2 инициализирован.
+[05.09.2026 23:21:06] [INFO] Security Policy V4.3 инициализирован.
+[05.09.2026 23:30:49] [INFO] Security Logger инициализирован.
+[05.09.2026 23:30:49] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[05.09.2026 23:30:49] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[05.09.2026 23:30:49] [INFO] Process Behavior Monitor инициализирован.
+[05.09.2026 23:30:49] [INFO] Startup Behavior Monitor инициализирован.
+[05.09.2026 23:30:49] [INFO] Security Core V2.3 инициализирован.
+[05.09.2026 23:30:49] [INFO] Security Orchestrator V2.4 инициализирован.
+[05.09.2026 23:30:49] [INFO] Detection Engine V3.6 инициализирован.
+[05.09.2026 23:30:49] [INFO] IOC Engine V3.5 инициализирован.
+[05.09.2026 23:30:49] [INFO] Correlation Engine V3.0 инициализирован.
+[05.09.2026 23:30:49] [INFO] Threat Chain V3.2 инициализирован.
+[05.09.2026 23:30:49] [INFO] Risk Engine V3.1 инициализирован.
+[05.09.2026 23:30:49] [INFO] Incident Manager V3.3 инициализирован.
+[05.09.2026 23:30:49] [INFO] Security Event Store V3.4 инициализирован.
+[05.09.2026 23:30:49] [INFO] Security Pipeline V4.0 инициализирован.
+[05.09.2026 23:30:49] [INFO] Decision Engine V4.1 инициализирован.
+[05.09.2026 23:30:49] [INFO] Response Engine V4.2 инициализирован.
+[05.09.2026 23:30:49] [INFO] Security Policy V4.3 инициализирован.
+[05.09.2026 23:30:49] [INFO] INFO
+[05.09.2026 23:30:49] [INFO] INFO
+[05.09.2026 23:30:49] [INFO] INFO
+[05.09.2026 23:37:07] [INFO] Security Logger инициализирован.
+[05.09.2026 23:37:07] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[05.09.2026 23:37:07] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[05.09.2026 23:37:07] [INFO] Process Behavior Monitor инициализирован.
+[05.09.2026 23:37:07] [INFO] Startup Behavior Monitor инициализирован.
+[05.09.2026 23:37:07] [INFO] Security Core V2.3 инициализирован.
+[05.09.2026 23:37:07] [INFO] Security Orchestrator V2.4 инициализирован.
+[05.09.2026 23:37:07] [INFO] Detection Engine V3.6 инициализирован.
+[05.09.2026 23:37:07] [INFO] IOC Engine V3.5 инициализирован.
+[05.09.2026 23:37:07] [INFO] Correlation Engine V3.0 инициализирован.
+[05.09.2026 23:37:07] [INFO] Threat Chain V3.2 инициализирован.
+[05.09.2026 23:37:07] [INFO] Risk Engine V3.1 инициализирован.
+[05.09.2026 23:37:07] [INFO] Incident Manager V3.3 инициализирован.
+[05.09.2026 23:37:07] [INFO] Security Event Store V3.4 инициализирован.
+[05.09.2026 23:37:07] [INFO] Security Pipeline V4.0 инициализирован.
+[05.09.2026 23:37:07] [INFO] Decision Engine V4.1 инициализирован.
+[05.09.2026 23:37:07] [INFO] Response Engine V4.2 инициализирован.
+[05.09.2026 23:37:07] [INFO] Security Policy V4.3 инициализирован.
+[05.09.2026 23:37:07] [INFO] INFO
+[05.09.2026 23:37:07] [INFO] INFO
+[05.09.2026 23:37:07] [INFO] INFO
+[05.09.2026 23:40:37] [INFO] Security Logger инициализирован.
+[05.09.2026 23:40:37] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[05.09.2026 23:40:37] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[05.09.2026 23:40:37] [INFO] Process Behavior Monitor инициализирован.
+[05.09.2026 23:40:37] [INFO] Startup Behavior Monitor инициализирован.
+[05.09.2026 23:40:37] [INFO] Security Core V2.3 инициализирован.
+[05.09.2026 23:40:37] [INFO] Security Orchestrator V2.4 инициализирован.
+[05.09.2026 23:40:37] [INFO] Detection Engine V3.6 инициализирован.
+[05.09.2026 23:40:37] [INFO] IOC Engine V3.5 инициализирован.
+[05.09.2026 23:40:37] [INFO] Correlation Engine V3.0 инициализирован.
+[05.09.2026 23:40:37] [INFO] Threat Chain V3.2 инициализирован.
+[05.09.2026 23:40:37] [INFO] Risk Engine V3.1 инициализирован.
+[05.09.2026 23:40:37] [INFO] Incident Manager V3.3 инициализирован.
+[05.09.2026 23:40:37] [INFO] Security Event Store V3.4 инициализирован.
+[05.09.2026 23:40:37] [INFO] Security Pipeline V4.0 инициализирован.
+[05.09.2026 23:40:37] [INFO] Decision Engine V4.1 инициализирован.
+[05.09.2026 23:40:37] [INFO] Response Engine V4.2 инициализирован.
+[05.09.2026 23:40:37] [INFO] Security Policy V4.3 инициализирован.
+[05.09.2026 23:40:37] [INFO] INFO
+[05.09.2026 23:40:37] [INFO] INFO
+[05.09.2026 23:40:37] [INFO] INFO
+[05.09.2026 23:43:13] [INFO] Security Logger инициализирован.
+[05.09.2026 23:43:13] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[05.09.2026 23:43:13] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[05.09.2026 23:43:13] [INFO] Process Behavior Monitor инициализирован.
+[05.09.2026 23:43:13] [INFO] Startup Behavior Monitor инициализирован.
+[05.09.2026 23:43:13] [INFO] Security Core V2.3 инициализирован.
+[05.09.2026 23:43:13] [INFO] Security Orchestrator V2.4 инициализирован.
+[05.09.2026 23:43:13] [INFO] Detection Engine V3.6 инициализирован.
+[05.09.2026 23:43:13] [INFO] IOC Engine V3.5 инициализирован.
+[05.09.2026 23:43:13] [INFO] Correlation Engine V3.0 инициализирован.
+[05.09.2026 23:43:13] [INFO] Threat Chain V3.2 инициализирован.
+[05.09.2026 23:43:13] [INFO] Risk Engine V3.1 инициализирован.
+[05.09.2026 23:43:13] [INFO] Incident Manager V3.3 инициализирован.
+[05.09.2026 23:43:13] [INFO] Security Event Store V3.4 инициализирован.
+[05.09.2026 23:43:13] [INFO] Security Pipeline V4.0 инициализирован.
+[05.09.2026 23:43:13] [INFO] Decision Engine V4.1 инициализирован.
+[05.09.2026 23:43:13] [INFO] Response Engine V4.2 инициализирован.
+[05.09.2026 23:43:13] [INFO] Security Policy V4.3 инициализирован.
+[05.09.2026 23:43:13] [INFO] INFO
+[05.09.2026 23:43:13] [INFO] INFO
+[05.09.2026 23:43:13] [INFO] INFO
+[05.09.2026 23:51:51] [INFO] Запрошена остановка Process Behavior Monitor.
+[05.09.2026 23:51:51] [INFO] Запрошена остановка Startup Behavior Monitor.
+[05.09.2026 23:51:51] [INFO] Запрошена остановка поведенческого мониторинга.
+[05.09.2026 23:57:24] [INFO] Security Logger инициализирован.
+[05.09.2026 23:57:24] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[05.09.2026 23:57:24] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[05.09.2026 23:57:24] [INFO] Process Behavior Monitor инициализирован.
+[05.09.2026 23:57:24] [INFO] Startup Behavior Monitor инициализирован.
+[05.09.2026 23:57:24] [INFO] Security Core V2.3 инициализирован.
+[05.09.2026 23:57:24] [INFO] Security Orchestrator V2.4 инициализирован.
+[05.09.2026 23:57:24] [INFO] Detection Engine V3.6 инициализирован.
+[05.09.2026 23:57:24] [INFO] IOC Engine V3.5 инициализирован.
+[05.09.2026 23:57:24] [INFO] Correlation Engine V3.0 инициализирован.
+[05.09.2026 23:57:24] [INFO] Threat Chain V3.2 инициализирован.
+[05.09.2026 23:57:24] [INFO] Risk Engine V3.1 инициализирован.
+[05.09.2026 23:57:24] [INFO] Incident Manager V3.3 инициализирован.
+[05.09.2026 23:57:24] [INFO] Security Event Store V3.4 инициализирован.
+[05.09.2026 23:57:24] [INFO] Security Pipeline V4.0 инициализирован.
+[05.09.2026 23:57:24] [INFO] Decision Engine V4.1 инициализирован.
+[05.09.2026 23:57:24] [INFO] Response Engine V4.2 инициализирован.
+[05.09.2026 23:57:24] [INFO] Security Policy V4.3 инициализирован.
+[05.09.2026 23:57:24] [INFO] INFO
+[05.09.2026 23:57:24] [INFO] INFO
+[05.09.2026 23:57:24] [INFO] INFO
+[06.09.2026 11:36:09] [INFO] Security Logger инициализирован.
+[06.09.2026 11:36:09] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[06.09.2026 11:36:09] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[06.09.2026 11:36:09] [INFO] Process Behavior Monitor инициализирован.
+[06.09.2026 11:36:09] [INFO] Startup Behavior Monitor инициализирован.
+[06.09.2026 11:36:09] [INFO] Security Core V2.3 инициализирован.
+[06.09.2026 11:36:09] [INFO] Security Orchestrator V2.4 инициализирован.
+[06.09.2026 11:36:09] [INFO] Detection Engine V3.6 инициализирован.
+[06.09.2026 11:36:09] [INFO] IOC Engine V3.5 инициализирован.
+[06.09.2026 11:36:09] [INFO] Correlation Engine V3.0 инициализирован.
+[06.09.2026 11:36:09] [INFO] Threat Chain V3.2 инициализирован.
+[06.09.2026 11:36:09] [INFO] Risk Engine V3.1 инициализирован.
+[06.09.2026 11:36:09] [INFO] Incident Manager V3.3 инициализирован.
+[06.09.2026 11:36:09] [INFO] Security Event Store V3.4 инициализирован.
+[06.09.2026 11:36:09] [INFO] Security Pipeline V4.0 инициализирован.
+[06.09.2026 11:36:09] [INFO] Decision Engine V4.1 инициализирован.
+[06.09.2026 11:36:09] [INFO] Response Engine V4.2 инициализирован.
+[06.09.2026 11:36:09] [INFO] Security Policy V4.3 инициализирован.
+[06.09.2026 11:36:09] [INFO] INFO
+[06.09.2026 11:36:09] [INFO] INFO
+[06.09.2026 11:36:09] [INFO] INFO
+[06.09.2026 11:40:26] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:40:26] [INFO] Получено событий: 1
+[06.09.2026 11:40:26] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:40:26] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:40:26] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:40:26] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:40:26] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:40:26] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:40:26] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:40:26] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:40:26] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:40:26] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:40:26] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:40:26] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:40:26] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:40:26] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:40:26] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:40:26] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:40:26] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:40:26] [INFO] Начало принятия решения.
+[06.09.2026 11:40:26] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:40:26] [INFO] Проверка Security Policy.
+[06.09.2026 11:40:26] [INFO] Policy result: ALLOW
+[06.09.2026 11:40:26] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:40:26] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:40:26] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:40:26] [INFO] security_api_result
+[06.09.2026 11:40:26] [INFO] security_interface_operation
+[06.09.2026 11:40:28] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:40:28] [INFO] Получено событий: 1
+[06.09.2026 11:40:28] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:40:28] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:40:28] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:40:28] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:40:28] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:40:28] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:40:28] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:40:28] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:40:28] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:40:28] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:40:28] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:40:28] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:40:28] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:40:28] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:40:28] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:40:28] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:40:28] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:40:28] [INFO] Начало принятия решения.
+[06.09.2026 11:40:28] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:40:28] [INFO] Проверка Security Policy.
+[06.09.2026 11:40:28] [INFO] Policy result: ALLOW
+[06.09.2026 11:40:28] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:40:28] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:40:28] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:40:28] [INFO] security_api_result
+[06.09.2026 11:40:28] [INFO] security_interface_operation
+[06.09.2026 11:40:29] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:40:29] [INFO] Получено событий: 1
+[06.09.2026 11:40:29] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:40:29] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:40:29] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:40:29] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:40:29] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:40:29] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:40:29] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:40:29] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:40:29] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:40:29] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:40:29] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:40:29] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:40:29] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:40:29] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:40:29] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:40:29] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:40:29] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:40:29] [INFO] Начало принятия решения.
+[06.09.2026 11:40:29] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:40:29] [INFO] Проверка Security Policy.
+[06.09.2026 11:40:29] [INFO] Policy result: ALLOW
+[06.09.2026 11:40:29] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:40:29] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:40:29] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:40:29] [INFO] security_api_result
+[06.09.2026 11:40:29] [INFO] security_interface_operation
+[06.09.2026 11:40:57] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:40:57] [INFO] Получено событий: 1
+[06.09.2026 11:40:57] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:40:57] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:40:57] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:40:57] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:40:57] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:40:57] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:40:57] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:40:57] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:40:57] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:40:57] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:40:57] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:40:57] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:40:57] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:40:57] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:40:57] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:40:57] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:40:57] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:40:57] [INFO] Начало принятия решения.
+[06.09.2026 11:40:57] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:40:57] [INFO] Проверка Security Policy.
+[06.09.2026 11:40:57] [INFO] Policy result: ALLOW
+[06.09.2026 11:40:57] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:40:57] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:40:57] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:40:57] [INFO] security_api_result
+[06.09.2026 11:40:57] [INFO] security_interface_operation
+[06.09.2026 11:40:58] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:40:58] [INFO] Получено событий: 1
+[06.09.2026 11:40:58] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:40:58] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:40:58] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:40:58] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:40:58] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:40:58] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:40:58] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:40:58] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:40:58] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:40:58] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:40:58] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:40:58] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:40:58] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:40:58] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:40:58] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:40:58] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:40:58] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:40:58] [INFO] Начало принятия решения.
+[06.09.2026 11:40:58] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:40:58] [INFO] Проверка Security Policy.
+[06.09.2026 11:40:58] [INFO] Policy result: ALLOW
+[06.09.2026 11:40:58] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:40:58] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:40:58] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:40:58] [INFO] security_api_result
+[06.09.2026 11:40:58] [INFO] security_interface_operation
+[06.09.2026 11:41:26] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:41:26] [INFO] Получено событий: 1
+[06.09.2026 11:41:26] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:41:26] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:41:26] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:41:26] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:41:26] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:41:26] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:41:26] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:41:26] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:41:26] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:41:26] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:41:26] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:41:26] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:41:26] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:41:26] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:41:26] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:41:26] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:41:26] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:41:26] [INFO] Начало принятия решения.
+[06.09.2026 11:41:26] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:41:26] [INFO] Проверка Security Policy.
+[06.09.2026 11:41:26] [INFO] Policy result: ALLOW
+[06.09.2026 11:41:26] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:41:26] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:41:26] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:41:26] [INFO] security_api_result
+[06.09.2026 11:41:26] [INFO] security_interface_operation
+[06.09.2026 11:41:58] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:41:58] [INFO] Получено событий: 1
+[06.09.2026 11:41:58] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:41:58] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:41:58] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:41:58] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:41:58] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:41:58] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:41:58] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:41:58] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:41:58] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:41:58] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:41:58] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:41:58] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:41:58] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:41:58] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:41:58] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:41:58] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:41:58] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:41:58] [INFO] Начало принятия решения.
+[06.09.2026 11:41:58] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:41:58] [INFO] Проверка Security Policy.
+[06.09.2026 11:41:58] [INFO] Policy result: ALLOW
+[06.09.2026 11:41:58] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:41:58] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:41:58] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:41:58] [INFO] security_api_result
+[06.09.2026 11:41:58] [INFO] security_interface_operation
+[06.09.2026 11:41:58] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:41:58] [INFO] Получено событий: 1
+[06.09.2026 11:41:58] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:41:58] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:41:58] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:41:58] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:41:58] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:41:58] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:41:58] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:41:58] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:41:58] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:41:58] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:41:58] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:41:58] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:41:58] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:41:58] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:41:58] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:41:58] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:41:58] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:41:58] [INFO] Начало принятия решения.
+[06.09.2026 11:41:58] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:41:58] [INFO] Проверка Security Policy.
+[06.09.2026 11:41:58] [INFO] Policy result: ALLOW
+[06.09.2026 11:41:58] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:41:58] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:41:58] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:41:58] [INFO] security_api_result
+[06.09.2026 11:41:58] [INFO] security_interface_operation
+[06.09.2026 11:41:59] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:41:59] [INFO] Получено событий: 1
+[06.09.2026 11:41:59] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:41:59] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:41:59] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:41:59] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:41:59] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:41:59] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:41:59] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:41:59] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:41:59] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:41:59] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:41:59] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:41:59] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:41:59] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:41:59] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:41:59] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:41:59] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:41:59] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:41:59] [INFO] Начало принятия решения.
+[06.09.2026 11:41:59] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:41:59] [INFO] Проверка Security Policy.
+[06.09.2026 11:41:59] [INFO] Policy result: ALLOW
+[06.09.2026 11:41:59] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:41:59] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:41:59] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:41:59] [INFO] security_api_result
+[06.09.2026 11:41:59] [INFO] security_interface_operation
+[06.09.2026 11:42:00] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:42:00] [INFO] Получено событий: 1
+[06.09.2026 11:42:00] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:42:00] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:42:00] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:42:00] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:42:00] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:42:00] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:42:00] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:42:00] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:42:00] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:42:00] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:42:00] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:42:00] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:42:00] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:42:00] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:42:00] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:42:00] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:42:00] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:42:00] [INFO] Начало принятия решения.
+[06.09.2026 11:42:00] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:42:00] [INFO] Проверка Security Policy.
+[06.09.2026 11:42:00] [INFO] Policy result: ALLOW
+[06.09.2026 11:42:00] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:42:00] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:42:00] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:42:00] [INFO] security_api_result
+[06.09.2026 11:42:00] [INFO] security_interface_operation
+[06.09.2026 11:42:00] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:42:00] [INFO] Получено событий: 1
+[06.09.2026 11:42:00] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:42:00] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:42:00] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:42:00] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:42:00] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:42:00] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:42:00] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:42:00] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:42:00] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:42:00] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:42:00] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:42:00] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:42:00] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:42:00] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:42:00] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:42:00] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:42:00] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:42:00] [INFO] Начало принятия решения.
+[06.09.2026 11:42:00] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:42:00] [INFO] Проверка Security Policy.
+[06.09.2026 11:42:00] [INFO] Policy result: ALLOW
+[06.09.2026 11:42:00] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:42:00] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:42:00] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:42:00] [INFO] security_api_result
+[06.09.2026 11:42:00] [INFO] security_interface_operation
+[06.09.2026 11:42:03] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:42:03] [INFO] Получено событий: 1
+[06.09.2026 11:42:03] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:42:03] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:42:03] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:42:03] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:42:03] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:42:03] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:42:03] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:42:03] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:42:03] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:42:03] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:42:03] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:42:03] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:42:03] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:42:03] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:42:03] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:42:03] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:42:03] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:42:03] [INFO] Начало принятия решения.
+[06.09.2026 11:42:03] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:42:03] [INFO] Проверка Security Policy.
+[06.09.2026 11:42:03] [INFO] Policy result: ALLOW
+[06.09.2026 11:42:03] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:42:03] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:42:03] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:42:03] [INFO] security_api_result
+[06.09.2026 11:42:03] [INFO] security_interface_operation
+[06.09.2026 11:42:04] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:42:04] [INFO] Получено событий: 1
+[06.09.2026 11:42:04] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:42:04] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:42:04] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:42:04] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:42:04] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:42:04] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:42:04] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:42:04] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:42:04] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:42:04] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:42:04] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:42:04] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:42:04] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:42:04] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:42:04] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:42:04] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:42:04] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:42:04] [INFO] Начало принятия решения.
+[06.09.2026 11:42:04] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:42:04] [INFO] Проверка Security Policy.
+[06.09.2026 11:42:04] [INFO] Policy result: ALLOW
+[06.09.2026 11:42:04] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:42:04] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:42:04] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:42:04] [INFO] security_api_result
+[06.09.2026 11:42:04] [INFO] security_interface_operation
+[06.09.2026 11:42:05] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:42:05] [INFO] Получено событий: 1
+[06.09.2026 11:42:05] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:42:05] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:42:05] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:42:05] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:42:05] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:42:05] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:42:05] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:42:05] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:42:05] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:42:05] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:42:05] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:42:05] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:42:05] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:42:05] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:42:05] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:42:05] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:42:05] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:42:05] [INFO] Начало принятия решения.
+[06.09.2026 11:42:05] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:42:05] [INFO] Проверка Security Policy.
+[06.09.2026 11:42:05] [INFO] Policy result: ALLOW
+[06.09.2026 11:42:05] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:42:05] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:42:05] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:42:05] [INFO] security_api_result
+[06.09.2026 11:42:05] [INFO] security_interface_operation
+[06.09.2026 11:42:10] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:42:10] [INFO] Получено событий: 1
+[06.09.2026 11:42:10] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:42:10] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:42:10] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:42:10] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:42:10] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:42:10] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:42:10] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:42:10] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:42:10] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:42:10] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:42:10] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:42:10] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:42:10] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:42:10] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:42:10] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:42:10] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:42:10] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:42:10] [INFO] Начало принятия решения.
+[06.09.2026 11:42:10] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:42:10] [INFO] Проверка Security Policy.
+[06.09.2026 11:42:10] [INFO] Policy result: ALLOW
+[06.09.2026 11:42:10] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:42:10] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:42:10] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:42:10] [INFO] security_api_result
+[06.09.2026 11:42:10] [INFO] security_interface_operation
+[06.09.2026 11:42:44] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:42:44] [INFO] Получено событий: 1
+[06.09.2026 11:42:44] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:42:44] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:42:44] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:42:44] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:42:44] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:42:44] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:42:44] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:42:44] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:42:44] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:42:44] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:42:44] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:42:44] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:42:44] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:42:44] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:42:44] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:42:44] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:42:44] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:42:44] [INFO] Начало принятия решения.
+[06.09.2026 11:42:44] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:42:44] [INFO] Проверка Security Policy.
+[06.09.2026 11:42:44] [INFO] Policy result: ALLOW
+[06.09.2026 11:42:44] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:42:44] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:42:44] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:42:44] [INFO] security_api_result
+[06.09.2026 11:42:44] [INFO] security_interface_operation
+[06.09.2026 11:42:45] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:42:45] [INFO] Получено событий: 1
+[06.09.2026 11:42:45] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:42:45] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:42:45] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:42:45] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:42:45] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:42:45] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:42:45] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:42:45] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:42:45] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:42:45] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:42:45] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:42:45] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:42:45] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:42:45] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:42:45] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:42:45] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:42:45] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:42:45] [INFO] Начало принятия решения.
+[06.09.2026 11:42:45] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:42:45] [INFO] Проверка Security Policy.
+[06.09.2026 11:42:45] [INFO] Policy result: ALLOW
+[06.09.2026 11:42:45] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:42:45] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:42:45] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:42:45] [INFO] security_api_result
+[06.09.2026 11:42:45] [INFO] security_interface_operation
+[06.09.2026 11:42:45] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:42:45] [INFO] Получено событий: 1
+[06.09.2026 11:42:45] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:42:45] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:42:45] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:42:45] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:42:45] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:42:45] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:42:45] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:42:45] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:42:45] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:42:45] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:42:45] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:42:45] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:42:45] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:42:45] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:42:45] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:42:45] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:42:45] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:42:45] [INFO] Начало принятия решения.
+[06.09.2026 11:42:45] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:42:45] [INFO] Проверка Security Policy.
+[06.09.2026 11:42:45] [INFO] Policy result: ALLOW
+[06.09.2026 11:42:45] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:42:45] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:42:45] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:42:45] [INFO] security_api_result
+[06.09.2026 11:42:45] [INFO] security_interface_operation
+[06.09.2026 11:42:54] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:42:54] [INFO] Получено событий: 1
+[06.09.2026 11:42:54] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:42:54] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:42:54] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:42:54] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:42:54] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:42:54] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:42:54] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:42:54] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:42:54] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:42:54] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:42:54] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:42:54] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:42:54] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:42:54] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:42:54] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:42:54] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:42:54] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:42:54] [INFO] Начало принятия решения.
+[06.09.2026 11:42:54] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:42:54] [INFO] Проверка Security Policy.
+[06.09.2026 11:42:54] [INFO] Policy result: ALLOW
+[06.09.2026 11:42:54] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:42:54] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:42:54] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:42:54] [INFO] security_api_result
+[06.09.2026 11:42:54] [INFO] security_interface_operation
+[06.09.2026 11:43:00] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:43:00] [INFO] Получено событий: 1
+[06.09.2026 11:43:00] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:43:00] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:43:00] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:43:00] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:43:00] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:43:00] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:43:00] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:43:00] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:43:00] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:43:00] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:43:00] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:43:00] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:43:00] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:43:00] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:43:00] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:43:00] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:43:00] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:43:00] [INFO] Начало принятия решения.
+[06.09.2026 11:43:00] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:43:00] [INFO] Проверка Security Policy.
+[06.09.2026 11:43:00] [INFO] Policy result: ALLOW
+[06.09.2026 11:43:00] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:43:00] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:43:00] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:43:00] [INFO] security_api_result
+[06.09.2026 11:43:00] [INFO] security_interface_operation
+[06.09.2026 11:43:01] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:43:01] [INFO] Получено событий: 1
+[06.09.2026 11:43:01] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:43:01] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:43:01] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:43:01] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:43:01] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:43:01] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:43:01] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:43:01] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:43:01] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:43:01] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:43:01] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:43:01] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:43:01] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:43:01] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:43:01] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:43:01] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:43:01] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:43:01] [INFO] Начало принятия решения.
+[06.09.2026 11:43:01] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:43:01] [INFO] Проверка Security Policy.
+[06.09.2026 11:43:01] [INFO] Policy result: ALLOW
+[06.09.2026 11:43:01] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:43:01] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:43:01] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:43:01] [INFO] security_api_result
+[06.09.2026 11:43:01] [INFO] security_interface_operation
+[06.09.2026 11:43:01] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:43:01] [INFO] Получено событий: 1
+[06.09.2026 11:43:01] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:43:01] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:43:01] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:43:01] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:43:01] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:43:01] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:43:01] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:43:01] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:43:01] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:43:01] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:43:01] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:43:01] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:43:01] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:43:01] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:43:01] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:43:01] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:43:01] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:43:01] [INFO] Начало принятия решения.
+[06.09.2026 11:43:01] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:43:01] [INFO] Проверка Security Policy.
+[06.09.2026 11:43:01] [INFO] Policy result: ALLOW
+[06.09.2026 11:43:01] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:43:01] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:43:01] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:43:01] [INFO] security_api_result
+[06.09.2026 11:43:01] [INFO] security_interface_operation
+[06.09.2026 11:43:02] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:43:02] [INFO] Получено событий: 1
+[06.09.2026 11:43:02] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:43:02] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:43:02] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:43:02] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:43:02] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:43:02] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:43:02] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:43:02] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:43:02] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:43:02] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:43:02] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:43:02] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:43:02] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:43:02] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:43:02] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:43:02] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:43:02] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:43:02] [INFO] Начало принятия решения.
+[06.09.2026 11:43:02] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:43:02] [INFO] Проверка Security Policy.
+[06.09.2026 11:43:02] [INFO] Policy result: ALLOW
+[06.09.2026 11:43:02] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:43:02] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:43:02] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:43:02] [INFO] security_api_result
+[06.09.2026 11:43:02] [INFO] security_interface_operation
+[06.09.2026 11:43:02] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:43:02] [INFO] Получено событий: 1
+[06.09.2026 11:43:02] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:43:02] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:43:02] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:43:02] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:43:02] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:43:02] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:43:02] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:43:02] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:43:02] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:43:02] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:43:02] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:43:02] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:43:02] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:43:02] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:43:02] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:43:02] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:43:02] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:43:02] [INFO] Начало принятия решения.
+[06.09.2026 11:43:02] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:43:02] [INFO] Проверка Security Policy.
+[06.09.2026 11:43:02] [INFO] Policy result: ALLOW
+[06.09.2026 11:43:02] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:43:02] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:43:02] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:43:02] [INFO] security_api_result
+[06.09.2026 11:43:02] [INFO] security_interface_operation
+[06.09.2026 11:43:03] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:43:03] [INFO] Получено событий: 1
+[06.09.2026 11:43:03] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:43:03] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:43:03] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:43:03] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:43:03] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:43:03] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:43:03] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:43:03] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:43:03] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:43:03] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:43:03] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:43:03] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:43:03] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:43:03] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:43:03] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:43:03] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:43:03] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:43:03] [INFO] Начало принятия решения.
+[06.09.2026 11:43:03] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:43:03] [INFO] Проверка Security Policy.
+[06.09.2026 11:43:03] [INFO] Policy result: ALLOW
+[06.09.2026 11:43:03] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:43:03] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:43:03] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:43:03] [INFO] security_api_result
+[06.09.2026 11:43:03] [INFO] security_interface_operation
+[06.09.2026 11:43:07] [INFO] Запрошена остановка Process Behavior Monitor.
+[06.09.2026 11:43:07] [INFO] Запрошена остановка Startup Behavior Monitor.
+[06.09.2026 11:43:07] [INFO] Запрошена остановка поведенческого мониторинга.
+[06.09.2026 11:43:45] [INFO] Security Logger инициализирован.
+[06.09.2026 11:43:45] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[06.09.2026 11:43:45] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[06.09.2026 11:43:45] [INFO] Process Behavior Monitor инициализирован.
+[06.09.2026 11:43:45] [INFO] Startup Behavior Monitor инициализирован.
+[06.09.2026 11:43:45] [INFO] Security Core V2.3 инициализирован.
+[06.09.2026 11:43:45] [INFO] Security Orchestrator V2.4 инициализирован.
+[06.09.2026 11:43:45] [INFO] Detection Engine V3.6 инициализирован.
+[06.09.2026 11:43:45] [INFO] IOC Engine V3.5 инициализирован.
+[06.09.2026 11:43:45] [INFO] Correlation Engine V3.0 инициализирован.
+[06.09.2026 11:43:45] [INFO] Threat Chain V3.2 инициализирован.
+[06.09.2026 11:43:45] [INFO] Risk Engine V3.1 инициализирован.
+[06.09.2026 11:43:45] [INFO] Incident Manager V3.3 инициализирован.
+[06.09.2026 11:43:45] [INFO] Security Event Store V3.4 инициализирован.
+[06.09.2026 11:43:45] [INFO] Security Pipeline V4.0 инициализирован.
+[06.09.2026 11:43:45] [INFO] Decision Engine V4.1 инициализирован.
+[06.09.2026 11:43:45] [INFO] Response Engine V4.2 инициализирован.
+[06.09.2026 11:43:45] [INFO] Security Policy V4.3 инициализирован.
+[06.09.2026 11:43:45] [INFO] INFO
+[06.09.2026 11:43:45] [INFO] INFO
+[06.09.2026 11:43:45] [INFO] INFO
+[06.09.2026 11:45:49] [INFO] Запрошена остановка Process Behavior Monitor.
+[06.09.2026 11:45:49] [INFO] Запрошена остановка Startup Behavior Monitor.
+[06.09.2026 11:45:49] [INFO] Запрошена остановка поведенческого мониторинга.
+[06.09.2026 11:59:10] [INFO] Security Logger инициализирован.
+[06.09.2026 11:59:10] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[06.09.2026 11:59:10] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[06.09.2026 11:59:10] [INFO] Process Behavior Monitor инициализирован.
+[06.09.2026 11:59:10] [INFO] Startup Behavior Monitor инициализирован.
+[06.09.2026 11:59:10] [INFO] Security Core V2.3 инициализирован.
+[06.09.2026 11:59:10] [INFO] Security Orchestrator V2.4 инициализирован.
+[06.09.2026 11:59:10] [INFO] Detection Engine V3.6 инициализирован.
+[06.09.2026 11:59:10] [INFO] IOC Engine V3.5 инициализирован.
+[06.09.2026 11:59:10] [INFO] Correlation Engine V3.0 инициализирован.
+[06.09.2026 11:59:10] [INFO] Threat Chain V3.2 инициализирован.
+[06.09.2026 11:59:10] [INFO] Risk Engine V3.1 инициализирован.
+[06.09.2026 11:59:10] [INFO] Incident Manager V3.3 инициализирован.
+[06.09.2026 11:59:10] [INFO] Security Event Store V3.4 инициализирован.
+[06.09.2026 11:59:10] [INFO] Security Pipeline V4.0 инициализирован.
+[06.09.2026 11:59:10] [INFO] Decision Engine V4.1 инициализирован.
+[06.09.2026 11:59:10] [INFO] Response Engine V4.2 инициализирован.
+[06.09.2026 11:59:10] [INFO] Security Policy V4.3 инициализирован.
+[06.09.2026 11:59:10] [INFO] INFO
+[06.09.2026 11:59:10] [INFO] INFO
+[06.09.2026 11:59:10] [INFO] INFO
+[06.09.2026 11:59:36] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:59:36] [INFO] Получено событий: 1
+[06.09.2026 11:59:36] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:59:36] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:59:36] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:59:36] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:59:36] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:59:36] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:59:36] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:59:36] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:59:36] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:59:36] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:59:36] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:59:36] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:59:36] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:59:36] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:59:36] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:59:36] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:59:36] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:59:36] [INFO] Начало принятия решения.
+[06.09.2026 11:59:36] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:59:36] [INFO] Проверка Security Policy.
+[06.09.2026 11:59:36] [INFO] Policy result: ALLOW
+[06.09.2026 11:59:36] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:59:36] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:59:36] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:59:36] [INFO] security_api_result
+[06.09.2026 11:59:36] [INFO] security_interface_operation
+[06.09.2026 11:59:56] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:59:56] [INFO] Получено событий: 1
+[06.09.2026 11:59:56] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:59:56] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:59:56] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:59:56] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:59:56] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:59:56] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:59:56] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:59:56] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:59:56] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:59:56] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:59:56] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:59:56] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:59:56] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:59:56] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:59:56] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:59:56] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:59:56] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:59:56] [INFO] Начало принятия решения.
+[06.09.2026 11:59:56] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:59:56] [INFO] Проверка Security Policy.
+[06.09.2026 11:59:56] [INFO] Policy result: ALLOW
+[06.09.2026 11:59:56] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:59:56] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:59:56] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:59:56] [INFO] security_api_result
+[06.09.2026 11:59:56] [INFO] security_interface_operation
+[06.09.2026 11:59:57] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:59:57] [INFO] Получено событий: 1
+[06.09.2026 11:59:57] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:59:57] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:59:57] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:59:57] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:59:57] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:59:57] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:59:57] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:59:57] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:59:57] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:59:57] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:59:57] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:59:57] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:59:57] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:59:57] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:59:57] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:59:57] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:59:57] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:59:57] [INFO] Начало принятия решения.
+[06.09.2026 11:59:57] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:59:57] [INFO] Проверка Security Policy.
+[06.09.2026 11:59:57] [INFO] Policy result: ALLOW
+[06.09.2026 11:59:57] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:59:57] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:59:57] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:59:57] [INFO] security_api_result
+[06.09.2026 11:59:57] [INFO] security_interface_operation
+[06.09.2026 11:59:57] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 11:59:57] [INFO] Получено событий: 1
+[06.09.2026 11:59:57] [INFO] Этап 1: Detection Engine.
+[06.09.2026 11:59:57] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 11:59:57] [INFO] Этап 2: IOC Engine.
+[06.09.2026 11:59:57] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 11:59:57] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 11:59:57] [INFO] Начало корреляции Security-данных.
+[06.09.2026 11:59:57] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 11:59:57] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 11:59:57] [INFO] Этап 4: Threat Chain.
+[06.09.2026 11:59:57] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 11:59:57] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 11:59:57] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 11:59:57] [INFO] Этап 5: Risk Engine.
+[06.09.2026 11:59:57] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 11:59:57] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 11:59:57] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 11:59:57] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 11:59:57] [INFO] Начало принятия решения.
+[06.09.2026 11:59:57] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 11:59:57] [INFO] Проверка Security Policy.
+[06.09.2026 11:59:57] [INFO] Policy result: ALLOW
+[06.09.2026 11:59:57] [INFO] Начало выполнения Security Response.
+[06.09.2026 11:59:57] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 11:59:57] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 11:59:57] [INFO] security_api_result
+[06.09.2026 11:59:57] [INFO] security_interface_operation
+[06.09.2026 12:00:01] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 12:00:01] [INFO] Получено событий: 1
+[06.09.2026 12:00:01] [INFO] Этап 1: Detection Engine.
+[06.09.2026 12:00:01] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 12:00:01] [INFO] Этап 2: IOC Engine.
+[06.09.2026 12:00:01] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 12:00:01] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 12:00:01] [INFO] Начало корреляции Security-данных.
+[06.09.2026 12:00:01] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 12:00:01] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 12:00:01] [INFO] Этап 4: Threat Chain.
+[06.09.2026 12:00:01] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 12:00:01] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 12:00:01] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 12:00:01] [INFO] Этап 5: Risk Engine.
+[06.09.2026 12:00:01] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 12:00:01] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 12:00:01] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 12:00:01] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 12:00:01] [INFO] Начало принятия решения.
+[06.09.2026 12:00:01] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 12:00:01] [INFO] Проверка Security Policy.
+[06.09.2026 12:00:01] [INFO] Policy result: ALLOW
+[06.09.2026 12:00:01] [INFO] Начало выполнения Security Response.
+[06.09.2026 12:00:01] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 12:00:01] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 12:00:01] [INFO] security_api_result
+[06.09.2026 12:00:01] [INFO] security_interface_operation
+[06.09.2026 12:00:02] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 12:00:02] [INFO] Получено событий: 1
+[06.09.2026 12:00:02] [INFO] Этап 1: Detection Engine.
+[06.09.2026 12:00:02] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 12:00:02] [INFO] Этап 2: IOC Engine.
+[06.09.2026 12:00:02] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 12:00:02] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 12:00:02] [INFO] Начало корреляции Security-данных.
+[06.09.2026 12:00:02] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 12:00:02] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 12:00:02] [INFO] Этап 4: Threat Chain.
+[06.09.2026 12:00:02] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 12:00:02] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 12:00:02] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 12:00:02] [INFO] Этап 5: Risk Engine.
+[06.09.2026 12:00:02] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 12:00:02] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 12:00:02] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 12:00:02] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 12:00:02] [INFO] Начало принятия решения.
+[06.09.2026 12:00:02] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 12:00:02] [INFO] Проверка Security Policy.
+[06.09.2026 12:00:02] [INFO] Policy result: ALLOW
+[06.09.2026 12:00:02] [INFO] Начало выполнения Security Response.
+[06.09.2026 12:00:02] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 12:00:02] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 12:00:02] [INFO] security_api_result
+[06.09.2026 12:00:02] [INFO] security_interface_operation
+[06.09.2026 12:02:25] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 12:02:25] [INFO] Получено событий: 1
+[06.09.2026 12:02:25] [INFO] Этап 1: Detection Engine.
+[06.09.2026 12:02:25] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 12:02:25] [INFO] Этап 2: IOC Engine.
+[06.09.2026 12:02:25] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 12:02:25] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 12:02:25] [INFO] Начало корреляции Security-данных.
+[06.09.2026 12:02:25] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 12:02:25] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 12:02:25] [INFO] Этап 4: Threat Chain.
+[06.09.2026 12:02:25] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 12:02:25] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 12:02:25] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 12:02:25] [INFO] Этап 5: Risk Engine.
+[06.09.2026 12:02:25] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 12:02:25] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 12:02:25] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 12:02:25] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 12:02:25] [INFO] Начало принятия решения.
+[06.09.2026 12:02:25] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 12:02:25] [INFO] Проверка Security Policy.
+[06.09.2026 12:02:25] [INFO] Policy result: ALLOW
+[06.09.2026 12:02:25] [INFO] Начало выполнения Security Response.
+[06.09.2026 12:02:25] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 12:02:25] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 12:02:25] [INFO] security_api_result
+[06.09.2026 12:02:25] [INFO] security_interface_operation
+[06.09.2026 12:02:26] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 12:02:26] [INFO] Получено событий: 1
+[06.09.2026 12:02:26] [INFO] Этап 1: Detection Engine.
+[06.09.2026 12:02:26] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 12:02:26] [INFO] Этап 2: IOC Engine.
+[06.09.2026 12:02:26] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 12:02:26] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 12:02:26] [INFO] Начало корреляции Security-данных.
+[06.09.2026 12:02:26] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 12:02:26] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 12:02:26] [INFO] Этап 4: Threat Chain.
+[06.09.2026 12:02:26] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 12:02:26] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 12:02:26] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 12:02:26] [INFO] Этап 5: Risk Engine.
+[06.09.2026 12:02:26] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 12:02:26] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 12:02:26] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 12:02:26] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 12:02:26] [INFO] Начало принятия решения.
+[06.09.2026 12:02:26] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 12:02:26] [INFO] Проверка Security Policy.
+[06.09.2026 12:02:26] [INFO] Policy result: ALLOW
+[06.09.2026 12:02:26] [INFO] Начало выполнения Security Response.
+[06.09.2026 12:02:26] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 12:02:26] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 12:02:26] [INFO] security_api_result
+[06.09.2026 12:02:26] [INFO] security_interface_operation
+[06.09.2026 12:02:35] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 12:02:35] [INFO] Получено событий: 1
+[06.09.2026 12:02:35] [INFO] Этап 1: Detection Engine.
+[06.09.2026 12:02:35] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 12:02:35] [INFO] Этап 2: IOC Engine.
+[06.09.2026 12:02:35] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 12:02:35] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 12:02:35] [INFO] Начало корреляции Security-данных.
+[06.09.2026 12:02:35] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 12:02:35] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 12:02:35] [INFO] Этап 4: Threat Chain.
+[06.09.2026 12:02:35] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 12:02:35] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 12:02:35] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 12:02:35] [INFO] Этап 5: Risk Engine.
+[06.09.2026 12:02:35] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 12:02:35] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 12:02:35] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 12:02:35] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 12:02:35] [INFO] Начало принятия решения.
+[06.09.2026 12:02:35] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 12:02:35] [INFO] Проверка Security Policy.
+[06.09.2026 12:02:35] [INFO] Policy result: ALLOW
+[06.09.2026 12:02:35] [INFO] Начало выполнения Security Response.
+[06.09.2026 12:02:35] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 12:02:35] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 12:02:35] [INFO] security_api_result
+[06.09.2026 12:02:35] [INFO] security_interface_operation
+[06.09.2026 12:02:50] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 12:02:50] [INFO] Получено событий: 1
+[06.09.2026 12:02:50] [INFO] Этап 1: Detection Engine.
+[06.09.2026 12:02:50] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 12:02:50] [INFO] Этап 2: IOC Engine.
+[06.09.2026 12:02:50] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 12:02:50] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 12:02:50] [INFO] Начало корреляции Security-данных.
+[06.09.2026 12:02:50] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 12:02:50] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 12:02:50] [INFO] Этап 4: Threat Chain.
+[06.09.2026 12:02:50] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 12:02:50] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 12:02:50] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 12:02:50] [INFO] Этап 5: Risk Engine.
+[06.09.2026 12:02:50] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 12:02:50] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 12:02:50] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 12:02:50] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 12:02:50] [INFO] Начало принятия решения.
+[06.09.2026 12:02:50] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 12:02:50] [INFO] Проверка Security Policy.
+[06.09.2026 12:02:50] [INFO] Policy result: ALLOW
+[06.09.2026 12:02:50] [INFO] Начало выполнения Security Response.
+[06.09.2026 12:02:50] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 12:02:50] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 12:02:50] [INFO] security_api_result
+[06.09.2026 12:02:50] [INFO] security_interface_operation
+[06.09.2026 12:02:56] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 12:02:56] [INFO] Получено событий: 1
+[06.09.2026 12:02:56] [INFO] Этап 1: Detection Engine.
+[06.09.2026 12:02:56] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 12:02:56] [INFO] Этап 2: IOC Engine.
+[06.09.2026 12:02:56] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 12:02:56] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 12:02:56] [INFO] Начало корреляции Security-данных.
+[06.09.2026 12:02:56] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 12:02:56] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 12:02:56] [INFO] Этап 4: Threat Chain.
+[06.09.2026 12:02:56] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 12:02:56] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 12:02:56] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 12:02:56] [INFO] Этап 5: Risk Engine.
+[06.09.2026 12:02:56] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 12:02:56] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 12:02:56] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 12:02:56] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 12:02:56] [INFO] Начало принятия решения.
+[06.09.2026 12:02:56] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 12:02:56] [INFO] Проверка Security Policy.
+[06.09.2026 12:02:56] [INFO] Policy result: ALLOW
+[06.09.2026 12:02:56] [INFO] Начало выполнения Security Response.
+[06.09.2026 12:02:56] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 12:02:56] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 12:02:56] [INFO] security_api_result
+[06.09.2026 12:02:56] [INFO] security_interface_operation
+[06.09.2026 12:04:01] [INFO] Запуск Security Pipeline V4.0.
+[06.09.2026 12:04:01] [INFO] Получено событий: 1
+[06.09.2026 12:04:01] [INFO] Этап 1: Detection Engine.
+[06.09.2026 12:04:01] [INFO] Detection Engine завершён. Обнаружений: 0
+[06.09.2026 12:04:01] [INFO] Этап 2: IOC Engine.
+[06.09.2026 12:04:01] [INFO] IOC Engine завершён. Совпадений: 0
+[06.09.2026 12:04:01] [INFO] Этап 3: Correlation Engine.
+[06.09.2026 12:04:01] [INFO] Начало корреляции Security-данных.
+[06.09.2026 12:04:01] [INFO] Корреляция завершена. Связанных объектов: 0
+[06.09.2026 12:04:01] [INFO] Correlation Engine завершён. Связей: 0
+[06.09.2026 12:04:01] [INFO] Этап 4: Threat Chain.
+[06.09.2026 12:04:01] [INFO] Начало построения цепочек атак. Событий: 1
+[06.09.2026 12:04:01] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[06.09.2026 12:04:01] [INFO] Threat Chain завершён. Цепочек: 0
+[06.09.2026 12:04:01] [INFO] Этап 5: Risk Engine.
+[06.09.2026 12:04:01] [INFO] Начало оценки риска. Событий: 1
+[06.09.2026 12:04:01] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[06.09.2026 12:04:01] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[06.09.2026 12:04:01] [INFO] Security Pipeline V4.0 завершил анализ.
+[06.09.2026 12:04:01] [INFO] Начало принятия решения.
+[06.09.2026 12:04:01] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[06.09.2026 12:04:01] [INFO] Проверка Security Policy.
+[06.09.2026 12:04:01] [INFO] Policy result: ALLOW
+[06.09.2026 12:04:01] [INFO] Начало выполнения Security Response.
+[06.09.2026 12:04:01] [INFO] Решение IGNORE. Действий не требуется.
+[06.09.2026 12:04:01] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[06.09.2026 12:04:01] [INFO] security_api_result
+[06.09.2026 12:04:01] [INFO] security_interface_operation
+[06.09.2026 12:06:15] [INFO] Запрошена остановка Process Behavior Monitor.
+[06.09.2026 12:06:15] [INFO] Запрошена остановка Startup Behavior Monitor.
+[06.09.2026 12:06:15] [INFO] Запрошена остановка поведенческого мониторинга.
+[07.09.2026 07:08:21] [INFO] Security Logger инициализирован.
+[07.09.2026 07:08:21] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[07.09.2026 07:08:21] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[07.09.2026 07:08:21] [INFO] Process Behavior Monitor инициализирован.
+[07.09.2026 07:08:21] [INFO] Startup Behavior Monitor инициализирован.
+[07.09.2026 07:08:21] [INFO] Security Core V2.3 инициализирован.
+[07.09.2026 07:08:21] [INFO] Security Orchestrator V2.4 инициализирован.
+[07.09.2026 07:08:21] [INFO] Detection Engine V3.6 инициализирован.
+[07.09.2026 07:08:21] [INFO] IOC Engine V3.5 инициализирован.
+[07.09.2026 07:08:21] [INFO] Correlation Engine V3.0 инициализирован.
+[07.09.2026 07:08:21] [INFO] Threat Chain V3.2 инициализирован.
+[07.09.2026 07:08:21] [INFO] Risk Engine V3.1 инициализирован.
+[07.09.2026 07:08:21] [INFO] Incident Manager V3.3 инициализирован.
+[07.09.2026 07:08:21] [INFO] Security Event Store V3.4 инициализирован.
+[07.09.2026 07:08:21] [INFO] Security Pipeline V4.0 инициализирован.
+[07.09.2026 07:08:21] [INFO] Decision Engine V4.1 инициализирован.
+[07.09.2026 07:08:21] [INFO] Response Engine V4.2 инициализирован.
+[07.09.2026 07:08:21] [INFO] Security Policy V4.3 инициализирован.
+[07.09.2026 07:08:21] [INFO] INFO
+[07.09.2026 07:08:21] [INFO] INFO
+[07.09.2026 07:08:21] [INFO] INFO
+[07.09.2026 07:08:21] [INFO] Security voice control disabled: JARVIS inactive.
+[07.09.2026 07:14:21] [INFO] Security Logger инициализирован.
+[07.09.2026 07:14:21] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[07.09.2026 07:14:21] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[07.09.2026 07:14:21] [INFO] Process Behavior Monitor инициализирован.
+[07.09.2026 07:14:21] [INFO] Startup Behavior Monitor инициализирован.
+[07.09.2026 07:14:21] [INFO] Security Core V2.3 инициализирован.
+[07.09.2026 07:14:21] [INFO] Security Orchestrator V2.4 инициализирован.
+[07.09.2026 07:14:21] [INFO] Detection Engine V3.6 инициализирован.
+[07.09.2026 07:14:21] [INFO] IOC Engine V3.5 инициализирован.
+[07.09.2026 07:14:21] [INFO] Correlation Engine V3.0 инициализирован.
+[07.09.2026 07:14:21] [INFO] Threat Chain V3.2 инициализирован.
+[07.09.2026 07:14:21] [INFO] Risk Engine V3.1 инициализирован.
+[07.09.2026 07:14:21] [INFO] Incident Manager V3.3 инициализирован.
+[07.09.2026 07:14:21] [INFO] Security Event Store V3.4 инициализирован.
+[07.09.2026 07:14:21] [INFO] Security Pipeline V4.0 инициализирован.
+[07.09.2026 07:14:21] [INFO] Decision Engine V4.1 инициализирован.
+[07.09.2026 07:14:21] [INFO] Response Engine V4.2 инициализирован.
+[07.09.2026 07:14:21] [INFO] Security Policy V4.3 инициализирован.
+[07.09.2026 07:14:21] [INFO] INFO
+[07.09.2026 07:14:21] [INFO] INFO
+[07.09.2026 07:14:21] [INFO] INFO
+[07.09.2026 07:14:21] [INFO] Security voice control disabled: JARVIS inactive.
+[07.09.2026 07:14:21] [INFO] Security IPC Server запущен: 127.0.0.1:8765
+[07.09.2026 07:14:38] [INFO] Запуск Security Pipeline V4.0.
+[07.09.2026 07:14:38] [INFO] Получено событий: 1
+[07.09.2026 07:14:38] [INFO] Этап 1: Detection Engine.
+[07.09.2026 07:14:38] [INFO] Detection Engine завершён. Обнаружений: 0
+[07.09.2026 07:14:38] [INFO] Этап 2: IOC Engine.
+[07.09.2026 07:14:38] [INFO] IOC Engine завершён. Совпадений: 0
+[07.09.2026 07:14:38] [INFO] Этап 3: Correlation Engine.
+[07.09.2026 07:14:38] [INFO] Начало корреляции Security-данных.
+[07.09.2026 07:14:38] [INFO] Корреляция завершена. Связанных объектов: 0
+[07.09.2026 07:14:38] [INFO] Correlation Engine завершён. Связей: 0
+[07.09.2026 07:14:38] [INFO] Этап 4: Threat Chain.
+[07.09.2026 07:14:38] [INFO] Начало построения цепочек атак. Событий: 1
+[07.09.2026 07:14:38] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[07.09.2026 07:14:38] [INFO] Threat Chain завершён. Цепочек: 0
+[07.09.2026 07:14:38] [INFO] Этап 5: Risk Engine.
+[07.09.2026 07:14:38] [INFO] Начало оценки риска. Событий: 1
+[07.09.2026 07:14:38] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[07.09.2026 07:14:38] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[07.09.2026 07:14:38] [INFO] Security Pipeline V4.0 завершил анализ.
+[07.09.2026 07:14:38] [INFO] Начало принятия решения.
+[07.09.2026 07:14:38] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[07.09.2026 07:14:38] [INFO] Проверка Security Policy.
+[07.09.2026 07:14:38] [INFO] Policy result: ALLOW
+[07.09.2026 07:14:38] [INFO] Начало выполнения Security Response.
+[07.09.2026 07:14:38] [INFO] Решение IGNORE. Действий не требуется.
+[07.09.2026 07:14:38] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[07.09.2026 07:14:38] [INFO] security_api_result
+[07.09.2026 07:14:38] [INFO] security_interface_operation
+[07.09.2026 07:14:45] [INFO] Запуск Security Pipeline V4.0.
+[07.09.2026 07:14:45] [INFO] Получено событий: 1
+[07.09.2026 07:14:45] [INFO] Этап 1: Detection Engine.
+[07.09.2026 07:14:45] [INFO] Detection Engine завершён. Обнаружений: 0
+[07.09.2026 07:14:45] [INFO] Этап 2: IOC Engine.
+[07.09.2026 07:14:45] [INFO] IOC Engine завершён. Совпадений: 0
+[07.09.2026 07:14:45] [INFO] Этап 3: Correlation Engine.
+[07.09.2026 07:14:45] [INFO] Начало корреляции Security-данных.
+[07.09.2026 07:14:45] [INFO] Корреляция завершена. Связанных объектов: 0
+[07.09.2026 07:14:45] [INFO] Correlation Engine завершён. Связей: 0
+[07.09.2026 07:14:45] [INFO] Этап 4: Threat Chain.
+[07.09.2026 07:14:45] [INFO] Начало построения цепочек атак. Событий: 1
+[07.09.2026 07:14:45] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[07.09.2026 07:14:45] [INFO] Threat Chain завершён. Цепочек: 0
+[07.09.2026 07:14:45] [INFO] Этап 5: Risk Engine.
+[07.09.2026 07:14:45] [INFO] Начало оценки риска. Событий: 1
+[07.09.2026 07:14:45] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[07.09.2026 07:14:45] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[07.09.2026 07:14:45] [INFO] Security Pipeline V4.0 завершил анализ.
+[07.09.2026 07:14:45] [INFO] Начало принятия решения.
+[07.09.2026 07:14:45] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[07.09.2026 07:14:45] [INFO] Проверка Security Policy.
+[07.09.2026 07:14:45] [INFO] Policy result: ALLOW
+[07.09.2026 07:14:45] [INFO] Начало выполнения Security Response.
+[07.09.2026 07:14:45] [INFO] Решение IGNORE. Действий не требуется.
+[07.09.2026 07:14:45] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[07.09.2026 07:14:45] [INFO] security_api_result
+[07.09.2026 07:14:45] [INFO] security_interface_operation
+[07.09.2026 07:14:45] [INFO] Запуск Security Pipeline V4.0.
+[07.09.2026 07:14:45] [INFO] Получено событий: 1
+[07.09.2026 07:14:45] [INFO] Этап 1: Detection Engine.
+[07.09.2026 07:14:45] [INFO] Detection Engine завершён. Обнаружений: 0
+[07.09.2026 07:14:45] [INFO] Этап 2: IOC Engine.
+[07.09.2026 07:14:45] [INFO] IOC Engine завершён. Совпадений: 0
+[07.09.2026 07:14:45] [INFO] Этап 3: Correlation Engine.
+[07.09.2026 07:14:45] [INFO] Начало корреляции Security-данных.
+[07.09.2026 07:14:45] [INFO] Корреляция завершена. Связанных объектов: 0
+[07.09.2026 07:14:45] [INFO] Correlation Engine завершён. Связей: 0
+[07.09.2026 07:14:45] [INFO] Этап 4: Threat Chain.
+[07.09.2026 07:14:45] [INFO] Начало построения цепочек атак. Событий: 1
+[07.09.2026 07:14:45] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[07.09.2026 07:14:45] [INFO] Threat Chain завершён. Цепочек: 0
+[07.09.2026 07:14:45] [INFO] Этап 5: Risk Engine.
+[07.09.2026 07:14:45] [INFO] Начало оценки риска. Событий: 1
+[07.09.2026 07:14:45] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[07.09.2026 07:14:45] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[07.09.2026 07:14:45] [INFO] Security Pipeline V4.0 завершил анализ.
+[07.09.2026 07:14:45] [INFO] Начало принятия решения.
+[07.09.2026 07:14:45] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[07.09.2026 07:14:45] [INFO] Проверка Security Policy.
+[07.09.2026 07:14:45] [INFO] Policy result: ALLOW
+[07.09.2026 07:14:45] [INFO] Начало выполнения Security Response.
+[07.09.2026 07:14:45] [INFO] Решение IGNORE. Действий не требуется.
+[07.09.2026 07:14:45] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[07.09.2026 07:14:45] [INFO] security_api_result
+[07.09.2026 07:14:45] [INFO] security_interface_operation
+[07.09.2026 07:18:10] [INFO] Security voice control disabled: JARVIS inactive.
+[07.09.2026 07:18:10] [INFO] Остановка Security IPC Server...
+[07.09.2026 07:18:10] [INFO] Security IPC accept-loop завершён.
+[07.09.2026 07:18:10] [INFO] Security IPC Server остановлен.
+[07.09.2026 07:18:10] [INFO] Запрошена остановка Process Behavior Monitor.
+[07.09.2026 07:18:10] [INFO] Запрошена остановка Startup Behavior Monitor.
+[07.09.2026 07:18:10] [INFO] Запрошена остановка поведенческого мониторинга.
+[07.09.2026 07:21:39] [INFO] Security Logger инициализирован.
+[07.09.2026 07:21:39] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[07.09.2026 07:21:39] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[07.09.2026 07:21:39] [INFO] Process Behavior Monitor инициализирован.
+[07.09.2026 07:21:39] [INFO] Startup Behavior Monitor инициализирован.
+[07.09.2026 07:21:39] [INFO] Security Core V2.3 инициализирован.
+[07.09.2026 07:21:39] [INFO] Security Orchestrator V2.4 инициализирован.
+[07.09.2026 07:21:39] [INFO] Detection Engine V3.6 инициализирован.
+[07.09.2026 07:21:39] [INFO] IOC Engine V3.5 инициализирован.
+[07.09.2026 07:21:39] [INFO] Correlation Engine V3.0 инициализирован.
+[07.09.2026 07:21:39] [INFO] Threat Chain V3.2 инициализирован.
+[07.09.2026 07:21:39] [INFO] Risk Engine V3.1 инициализирован.
+[07.09.2026 07:21:39] [INFO] Incident Manager V3.3 инициализирован.
+[07.09.2026 07:21:39] [INFO] Security Event Store V3.4 инициализирован.
+[07.09.2026 07:21:39] [INFO] Security Pipeline V4.0 инициализирован.
+[07.09.2026 07:21:39] [INFO] Decision Engine V4.1 инициализирован.
+[07.09.2026 07:21:39] [INFO] Response Engine V4.2 инициализирован.
+[07.09.2026 07:21:39] [INFO] Security Policy V4.3 инициализирован.
+[07.09.2026 07:21:39] [INFO] INFO
+[07.09.2026 07:21:39] [INFO] INFO
+[07.09.2026 07:21:39] [INFO] INFO
+[07.09.2026 07:21:39] [INFO] Security voice control disabled: JARVIS inactive.
+[07.09.2026 07:21:39] [INFO] Security IPC Server запущен: 127.0.0.1:8765
+[07.09.2026 07:21:57] [INFO] Security voice control enabled: JARVIS active.
+[07.09.2026 07:21:57] [INFO] JARVIS подключился к Security.
+[07.09.2026 07:22:30] [INFO] Security voice control disabled: JARVIS inactive.
+[07.09.2026 07:22:30] [INFO] JARVIS отключился от Security.
+[07.09.2026 07:22:47] [INFO] Security voice control disabled: JARVIS inactive.
+[07.09.2026 07:22:47] [INFO] Остановка Security IPC Server...
+[07.09.2026 07:22:47] [INFO] Security IPC accept-loop завершён.
+[07.09.2026 07:22:47] [INFO] Security IPC Server остановлен.
+[07.09.2026 07:22:47] [INFO] Запрошена остановка Process Behavior Monitor.
+[07.09.2026 07:22:47] [INFO] Запрошена остановка Startup Behavior Monitor.
+[07.09.2026 07:22:47] [INFO] Запрошена остановка поведенческого мониторинга.
+[07.09.2026 07:26:47] [INFO] Security Logger инициализирован.
+[07.09.2026 07:26:47] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[07.09.2026 07:26:47] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[07.09.2026 07:26:47] [INFO] Process Behavior Monitor инициализирован.
+[07.09.2026 07:26:47] [INFO] Startup Behavior Monitor инициализирован.
+[07.09.2026 07:26:47] [INFO] Security Core V2.3 инициализирован.
+[07.09.2026 07:26:47] [INFO] Security Orchestrator V2.4 инициализирован.
+[07.09.2026 07:26:47] [INFO] Detection Engine V3.6 инициализирован.
+[07.09.2026 07:26:47] [INFO] IOC Engine V3.5 инициализирован.
+[07.09.2026 07:26:47] [INFO] Correlation Engine V3.0 инициализирован.
+[07.09.2026 07:26:47] [INFO] Threat Chain V3.2 инициализирован.
+[07.09.2026 07:26:47] [INFO] Risk Engine V3.1 инициализирован.
+[07.09.2026 07:26:47] [INFO] Incident Manager V3.3 инициализирован.
+[07.09.2026 07:26:47] [INFO] Security Event Store V3.4 инициализирован.
+[07.09.2026 07:26:47] [INFO] Security Pipeline V4.0 инициализирован.
+[07.09.2026 07:26:47] [INFO] Decision Engine V4.1 инициализирован.
+[07.09.2026 07:26:47] [INFO] Response Engine V4.2 инициализирован.
+[07.09.2026 07:26:47] [INFO] Security Policy V4.3 инициализирован.
+[07.09.2026 07:26:47] [INFO] INFO
+[07.09.2026 07:26:47] [INFO] INFO
+[07.09.2026 07:26:47] [INFO] INFO
+[07.09.2026 07:26:47] [INFO] Security voice control disabled: JARVIS inactive.
+[07.09.2026 07:26:47] [INFO] Security IPC Server запущен: 127.0.0.1:8765
+[07.09.2026 07:27:03] [INFO] Security voice control enabled: JARVIS active.
+[07.09.2026 07:27:03] [INFO] JARVIS подключился к Security.
+[07.09.2026 22:03:17] [INFO] Security Logger инициализирован.
+[07.09.2026 22:03:17] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[07.09.2026 22:03:17] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[07.09.2026 22:03:17] [INFO] Process Behavior Monitor инициализирован.
+[07.09.2026 22:03:17] [INFO] Startup Behavior Monitor инициализирован.
+[07.09.2026 22:03:17] [INFO] Security Core V2.3 инициализирован.
+[07.09.2026 22:03:17] [INFO] Security Orchestrator V2.4 инициализирован.
+[07.09.2026 22:03:17] [INFO] Detection Engine V3.6 инициализирован.
+[07.09.2026 22:03:17] [INFO] IOC Engine V3.5 инициализирован.
+[07.09.2026 22:03:17] [INFO] Correlation Engine V3.0 инициализирован.
+[07.09.2026 22:03:17] [INFO] Threat Chain V3.2 инициализирован.
+[07.09.2026 22:03:17] [INFO] Risk Engine V3.1 инициализирован.
+[07.09.2026 22:03:17] [INFO] Incident Manager V3.3 инициализирован.
+[07.09.2026 22:03:17] [INFO] Security Event Store V3.4 инициализирован.
+[07.09.2026 22:03:17] [INFO] Security Pipeline V4.0 инициализирован.
+[07.09.2026 22:03:17] [INFO] Decision Engine V4.1 инициализирован.
+[07.09.2026 22:03:17] [INFO] Response Engine V4.2 инициализирован.
+[07.09.2026 22:03:17] [INFO] Security Policy V4.3 инициализирован.
+[07.09.2026 22:03:17] [INFO] INFO
+[07.09.2026 22:03:17] [INFO] INFO
+[07.09.2026 22:03:17] [INFO] INFO
+[07.09.2026 22:03:17] [INFO] Security voice control disabled: JARVIS inactive.
+[07.09.2026 22:03:17] [INFO] Security IPC Server ожидает подключения JARVIS.
+[07.09.2026 22:03:43] [INFO] Запуск Security Pipeline V4.0.
+[07.09.2026 22:03:43] [INFO] Получено событий: 1
+[07.09.2026 22:03:43] [INFO] Этап 1: Detection Engine.
+[07.09.2026 22:03:43] [INFO] Detection Engine завершён. Обнаружений: 0
+[07.09.2026 22:03:43] [INFO] Этап 2: IOC Engine.
+[07.09.2026 22:03:43] [INFO] IOC Engine завершён. Совпадений: 0
+[07.09.2026 22:03:43] [INFO] Этап 3: Correlation Engine.
+[07.09.2026 22:03:43] [INFO] Начало корреляции Security-данных.
+[07.09.2026 22:03:43] [INFO] Корреляция завершена. Связанных объектов: 0
+[07.09.2026 22:03:43] [INFO] Correlation Engine завершён. Связей: 0
+[07.09.2026 22:03:43] [INFO] Этап 4: Threat Chain.
+[07.09.2026 22:03:43] [INFO] Начало построения цепочек атак. Событий: 1
+[07.09.2026 22:03:43] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[07.09.2026 22:03:43] [INFO] Threat Chain завершён. Цепочек: 0
+[07.09.2026 22:03:43] [INFO] Этап 5: Risk Engine.
+[07.09.2026 22:03:43] [INFO] Начало оценки риска. Событий: 1
+[07.09.2026 22:03:43] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[07.09.2026 22:03:43] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[07.09.2026 22:03:43] [INFO] Security Pipeline V4.0 завершил анализ.
+[07.09.2026 22:03:43] [INFO] Начало принятия решения.
+[07.09.2026 22:03:43] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[07.09.2026 22:03:43] [INFO] Проверка Security Policy.
+[07.09.2026 22:03:43] [INFO] Policy result: ALLOW
+[07.09.2026 22:03:43] [INFO] Начало выполнения Security Response.
+[07.09.2026 22:03:43] [INFO] Решение IGNORE. Действий не требуется.
+[07.09.2026 22:03:43] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[07.09.2026 22:03:43] [INFO] security_api_result
+[07.09.2026 22:03:43] [INFO] security_interface_operation
+[07.09.2026 22:04:44] [INFO] Security voice control enabled: JARVIS active.
+[07.09.2026 22:04:44] [INFO] JARVIS подключён к Security.
+[08.09.2026 07:30:41] [INFO] Security Logger инициализирован.
+[08.09.2026 07:30:41] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[08.09.2026 07:30:41] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[08.09.2026 07:30:41] [INFO] Process Behavior Monitor инициализирован.
+[08.09.2026 07:30:41] [INFO] Startup Behavior Monitor инициализирован.
+[08.09.2026 07:30:41] [INFO] Security Core V2.3 инициализирован.
+[08.09.2026 07:30:41] [INFO] Security Orchestrator V2.4 инициализирован.
+[08.09.2026 07:30:41] [INFO] Detection Engine V3.6 инициализирован.
+[08.09.2026 07:30:41] [INFO] IOC Engine V3.5 инициализирован.
+[08.09.2026 07:30:41] [INFO] Correlation Engine V3.0 инициализирован.
+[08.09.2026 07:30:41] [INFO] Threat Chain V3.2 инициализирован.
+[08.09.2026 07:30:41] [INFO] Risk Engine V3.1 инициализирован.
+[08.09.2026 07:30:41] [INFO] Incident Manager V3.3 инициализирован.
+[08.09.2026 07:30:41] [INFO] Security Event Store V3.4 инициализирован.
+[08.09.2026 07:30:41] [INFO] Security Pipeline V4.0 инициализирован.
+[08.09.2026 07:30:41] [INFO] Decision Engine V4.1 инициализирован.
+[08.09.2026 07:30:41] [INFO] Response Engine V4.2 инициализирован.
+[08.09.2026 07:30:41] [INFO] Security Policy V4.3 инициализирован.
+[08.09.2026 07:30:41] [INFO] INFO
+[08.09.2026 07:30:41] [INFO] INFO
+[08.09.2026 07:30:41] [INFO] INFO
+[08.09.2026 07:30:41] [INFO] Security voice control disabled: JARVIS inactive.
+[08.09.2026 07:30:41] [INFO] Security IPC Server ожидает подключения JARVIS.
+[08.09.2026 07:31:07] [INFO] Security voice control enabled: JARVIS active.
+[08.09.2026 07:31:07] [INFO] JARVIS подключён к Security.
+[08.09.2026 07:32:23] [INFO] Security voice control disabled: JARVIS inactive.
+[08.09.2026 07:32:23] [INFO] JARVIS отключён от Security.
+[08.09.2026 07:33:15] [INFO] Security voice control disabled: JARVIS inactive.
+[08.09.2026 07:33:15] [INFO] Security IPC Server остановлен.
+[08.09.2026 07:33:15] [INFO] Запрошена остановка Process Behavior Monitor.
+[08.09.2026 07:33:15] [INFO] Запрошена остановка Startup Behavior Monitor.
+[08.09.2026 07:33:15] [INFO] Запрошена остановка поведенческого мониторинга.
+[08.09.2026 07:47:36] [INFO] Security Logger инициализирован.
+[08.09.2026 07:47:36] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[08.09.2026 07:47:36] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[08.09.2026 07:47:36] [INFO] Process Behavior Monitor инициализирован.
+[08.09.2026 07:47:36] [INFO] Startup Behavior Monitor инициализирован.
+[08.09.2026 07:47:36] [INFO] Security Core V2.3 инициализирован.
+[08.09.2026 07:47:36] [INFO] Security Orchestrator V2.4 инициализирован.
+[08.09.2026 07:47:36] [INFO] Detection Engine V3.6 инициализирован.
+[08.09.2026 07:47:36] [INFO] IOC Engine V3.5 инициализирован.
+[08.09.2026 07:47:36] [INFO] Correlation Engine V3.0 инициализирован.
+[08.09.2026 07:47:36] [INFO] Threat Chain V3.2 инициализирован.
+[08.09.2026 07:47:36] [INFO] Risk Engine V3.1 инициализирован.
+[08.09.2026 07:47:36] [INFO] Incident Manager V3.3 инициализирован.
+[08.09.2026 07:47:36] [INFO] Security Event Store V3.4 инициализирован.
+[08.09.2026 07:47:36] [INFO] Security Pipeline V4.0 инициализирован.
+[08.09.2026 07:47:36] [INFO] Decision Engine V4.1 инициализирован.
+[08.09.2026 07:47:36] [INFO] Response Engine V4.2 инициализирован.
+[08.09.2026 07:47:36] [INFO] Security Policy V4.3 инициализирован.
+[08.09.2026 07:47:36] [INFO] INFO
+[08.09.2026 07:47:36] [INFO] INFO
+[08.09.2026 07:47:36] [INFO] INFO
+[08.09.2026 07:47:36] [INFO] Security voice control disabled: JARVIS inactive.
+[08.09.2026 07:47:36] [INFO] Security IPC Server ожидает подключения JARVIS.
+[08.09.2026 07:47:51] [INFO] Security voice control enabled: JARVIS active.
+[08.09.2026 07:47:51] [INFO] JARVIS подключён к Security.
+[08.09.2026 07:49:03] [INFO] Security voice control disabled: JARVIS inactive.
+[08.09.2026 07:49:03] [INFO] JARVIS отключён от Security.
+[08.09.2026 07:52:36] [INFO] Security voice control disabled: JARVIS inactive.
+[08.09.2026 07:52:36] [INFO] Security IPC Server остановлен.
+[08.09.2026 07:52:36] [INFO] Запрошена остановка Process Behavior Monitor.
+[08.09.2026 07:52:36] [INFO] Запрошена остановка Startup Behavior Monitor.
+[08.09.2026 07:52:36] [INFO] Запрошена остановка поведенческого мониторинга.
+[08.09.2026 07:58:37] [INFO] Security Logger инициализирован.
+[08.09.2026 07:58:37] [INFO] Карантин готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_QUARANTINE
+[08.09.2026 07:58:37] [INFO] Security Report готов: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY_REPORTS
+[08.09.2026 07:58:37] [INFO] Process Behavior Monitor инициализирован.
+[08.09.2026 07:58:37] [INFO] Startup Behavior Monitor инициализирован.
+[08.09.2026 07:58:37] [INFO] Security Core V2.3 инициализирован.
+[08.09.2026 07:58:37] [INFO] Security Orchestrator V2.4 инициализирован.
+[08.09.2026 07:58:37] [INFO] Detection Engine V3.6 инициализирован.
+[08.09.2026 07:58:37] [INFO] IOC Engine V3.5 инициализирован.
+[08.09.2026 07:58:37] [INFO] Correlation Engine V3.0 инициализирован.
+[08.09.2026 07:58:37] [INFO] Threat Chain V3.2 инициализирован.
+[08.09.2026 07:58:37] [INFO] Risk Engine V3.1 инициализирован.
+[08.09.2026 07:58:37] [INFO] Incident Manager V3.3 инициализирован.
+[08.09.2026 07:58:37] [INFO] Security Event Store V3.4 инициализирован.
+[08.09.2026 07:58:37] [INFO] Security Pipeline V4.0 инициализирован.
+[08.09.2026 07:58:37] [INFO] Decision Engine V4.1 инициализирован.
+[08.09.2026 07:58:37] [INFO] Response Engine V4.2 инициализирован.
+[08.09.2026 07:58:37] [INFO] Security Policy V4.3 инициализирован.
+[08.09.2026 07:58:37] [INFO] INFO
+[08.09.2026 07:58:37] [INFO] INFO
+[08.09.2026 07:58:37] [INFO] INFO
+[08.09.2026 07:58:37] [INFO] Security voice control disabled: JARVIS inactive.
+[08.09.2026 07:58:37] [INFO] Security IPC Server ожидает подключения JARVIS.
+[08.09.2026 07:59:49] [INFO] Запуск Security Pipeline V4.0.
+[08.09.2026 07:59:49] [INFO] Получено событий: 1
+[08.09.2026 07:59:49] [INFO] Этап 1: Detection Engine.
+[08.09.2026 07:59:49] [INFO] Detection Engine завершён. Обнаружений: 0
+[08.09.2026 07:59:49] [INFO] Этап 2: IOC Engine.
+[08.09.2026 07:59:49] [INFO] IOC Engine завершён. Совпадений: 0
+[08.09.2026 07:59:49] [INFO] Этап 3: Correlation Engine.
+[08.09.2026 07:59:49] [INFO] Начало корреляции Security-данных.
+[08.09.2026 07:59:49] [INFO] Корреляция завершена. Связанных объектов: 0
+[08.09.2026 07:59:49] [INFO] Correlation Engine завершён. Связей: 0
+[08.09.2026 07:59:49] [INFO] Этап 4: Threat Chain.
+[08.09.2026 07:59:49] [INFO] Начало построения цепочек атак. Событий: 1
+[08.09.2026 07:59:49] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[08.09.2026 07:59:49] [INFO] Threat Chain завершён. Цепочек: 0
+[08.09.2026 07:59:49] [INFO] Этап 5: Risk Engine.
+[08.09.2026 07:59:49] [INFO] Начало оценки риска. Событий: 1
+[08.09.2026 07:59:49] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[08.09.2026 07:59:49] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[08.09.2026 07:59:49] [INFO] Security Pipeline V4.0 завершил анализ.
+[08.09.2026 07:59:49] [INFO] Начало принятия решения.
+[08.09.2026 07:59:49] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[08.09.2026 07:59:49] [INFO] Проверка Security Policy.
+[08.09.2026 07:59:49] [INFO] Policy result: ALLOW
+[08.09.2026 07:59:49] [INFO] Начало выполнения Security Response.
+[08.09.2026 07:59:49] [INFO] Решение IGNORE. Действий не требуется.
+[08.09.2026 07:59:49] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[08.09.2026 07:59:49] [INFO] security_api_result
+[08.09.2026 08:00:30] [INFO] Запуск Security Pipeline V4.0.
+[08.09.2026 08:00:30] [INFO] Получено событий: 1
+[08.09.2026 08:00:30] [INFO] Этап 1: Detection Engine.
+[08.09.2026 08:00:30] [INFO] Detection Engine завершён. Обнаружений: 0
+[08.09.2026 08:00:30] [INFO] Этап 2: IOC Engine.
+[08.09.2026 08:00:30] [INFO] IOC Engine завершён. Совпадений: 0
+[08.09.2026 08:00:30] [INFO] Этап 3: Correlation Engine.
+[08.09.2026 08:00:30] [INFO] Начало корреляции Security-данных.
+[08.09.2026 08:00:30] [INFO] Корреляция завершена. Связанных объектов: 0
+[08.09.2026 08:00:30] [INFO] Correlation Engine завершён. Связей: 0
+[08.09.2026 08:00:30] [INFO] Этап 4: Threat Chain.
+[08.09.2026 08:00:30] [INFO] Начало построения цепочек атак. Событий: 1
+[08.09.2026 08:00:30] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[08.09.2026 08:00:30] [INFO] Threat Chain завершён. Цепочек: 0
+[08.09.2026 08:00:30] [INFO] Этап 5: Risk Engine.
+[08.09.2026 08:00:30] [INFO] Начало оценки риска. Событий: 1
+[08.09.2026 08:00:30] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[08.09.2026 08:00:30] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[08.09.2026 08:00:30] [INFO] Security Pipeline V4.0 завершил анализ.
+[08.09.2026 08:00:30] [INFO] Начало принятия решения.
+[08.09.2026 08:00:30] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[08.09.2026 08:00:30] [INFO] Проверка Security Policy.
+[08.09.2026 08:00:30] [INFO] Policy result: ALLOW
+[08.09.2026 08:00:30] [INFO] Начало выполнения Security Response.
+[08.09.2026 08:00:30] [INFO] Решение IGNORE. Действий не требуется.
+[08.09.2026 08:00:30] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[08.09.2026 08:00:30] [INFO] security_api_result
+[08.09.2026 08:01:12] [INFO] Запуск Security Pipeline V4.0.
+[08.09.2026 08:01:12] [INFO] Получено событий: 1
+[08.09.2026 08:01:12] [INFO] Этап 1: Detection Engine.
+[08.09.2026 08:01:12] [INFO] Detection Engine завершён. Обнаружений: 0
+[08.09.2026 08:01:12] [INFO] Этап 2: IOC Engine.
+[08.09.2026 08:01:12] [INFO] IOC Engine завершён. Совпадений: 0
+[08.09.2026 08:01:12] [INFO] Этап 3: Correlation Engine.
+[08.09.2026 08:01:12] [INFO] Начало корреляции Security-данных.
+[08.09.2026 08:01:12] [INFO] Корреляция завершена. Связанных объектов: 0
+[08.09.2026 08:01:12] [INFO] Correlation Engine завершён. Связей: 0
+[08.09.2026 08:01:12] [INFO] Этап 4: Threat Chain.
+[08.09.2026 08:01:12] [INFO] Начало построения цепочек атак. Событий: 1
+[08.09.2026 08:01:12] [INFO] Построение цепочек завершено. Найдено цепочек: 0
+[08.09.2026 08:01:12] [INFO] Threat Chain завершён. Цепочек: 0
+[08.09.2026 08:01:12] [INFO] Этап 5: Risk Engine.
+[08.09.2026 08:01:12] [INFO] Начало оценки риска. Событий: 1
+[08.09.2026 08:01:12] [INFO] Оценка риска завершена. Score: 0, Level: LOW
+[08.09.2026 08:01:12] [INFO] Risk Engine завершён. Score: 0, Level: LOW
+[08.09.2026 08:01:12] [INFO] Security Pipeline V4.0 завершил анализ.
+[08.09.2026 08:01:12] [INFO] Начало принятия решения.
+[08.09.2026 08:01:12] [INFO] Решение: IGNORE | Причина: Значимой угрозы не обнаружено.
+[08.09.2026 08:01:12] [INFO] Проверка Security Policy.
+[08.09.2026 08:01:12] [INFO] Policy result: ALLOW
+[08.09.2026 08:01:12] [INFO] Начало выполнения Security Response.
+[08.09.2026 08:01:12] [INFO] Решение IGNORE. Действий не требуется.
+[08.09.2026 08:01:12] [INFO] Response завершён. Status: SKIPPED, Action: IGNORE
+[08.09.2026 08:01:12] [INFO] security_api_result
+[08.09.2026 08:19:53] [INFO] Security voice control disabled: JARVIS inactive.
+[08.09.2026 08:19:53] [INFO] Security IPC Server остановлен.
+[08.09.2026 08:19:53] [INFO] Запрошена остановка Process Behavior Monitor.
+[08.09.2026 08:19:53] [INFO] Запрошена остановка Startup Behavior Monitor.
+[08.09.2026 08:19:53] [INFO] Запрошена остановка поведенческого мониторинга.
