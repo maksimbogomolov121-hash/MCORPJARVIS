@@ -1,0 +1,44 @@
+{
+    "module_version": "1.0.0",
+    "updated_at": "2026-09-25T18:32:54.647903+00:00",
+    "devices": [
+        {
+            "device_id": "JARVIS-PC-DESKTOP-P9E6MDR-257157363757291",
+            "device_type": "PC",
+            "name": "JARVIS PC (DESKTOP-P9E6MDR)",
+            "platform": "Windows",
+            "architecture": "AMD64",
+            "root_path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11",
+            "created_at": "2026-09-09T05:59:43.807012+00:00",
+            "last_seen": "2026-09-25T18:32:54.620257+00:00",
+            "active": true,
+            "metadata": {
+                "hostname": "DESKTOP-P9E6MDR",
+                "system": "Windows",
+                "release": "11",
+                "python": "3.12.10",
+                "machine": "AMD64",
+                "module_version": "1.0.0"
+            }
+        },
+        {
+            "device_id": "JARVIS-USB-MAIN",
+            "device_type": "USB",
+            "name": "JARVIS USB",
+            "platform": "Windows",
+            "architecture": "x64",
+            "root_path": "D:\\JARVIS_USB",
+            "created_at": "2026-09-12T05:48:44.473150+00:00",
+            "last_seen": "2026-09-25T18:32:54.647903+00:00",
+            "active": true,
+            "metadata": {
+                "source": "USBDetector",
+                "drive": "D:\\",
+                "volume_serial": "E2AFBC9B",
+                "product_name": "JARVIS USB",
+                "product_version": "2.0.0",
+                "jarvis_root": "D:\\JARVIS_USB"
+            }
+        }
+    ]
+}

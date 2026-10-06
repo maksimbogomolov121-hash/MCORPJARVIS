@@ -1,0 +1,55 @@
+{
+    "state_version": 1,
+    "created_at": "2026-09-12T05:48:44.473150+00:00",
+    "updated_at": "2026-09-25T18:32:55.932420+00:00",
+    "last_sync": {
+        "session_id": "3b499bd5-fa1e-414d-ae3b-265ec01f080a",
+        "source_device": "JARVIS-PC-DESKTOP-P9E6MDR-257157363757291",
+        "target_device": "JARVIS-USB-MAIN",
+        "started_at": "2026-09-25T18:32:54.651416+00:00",
+        "completed_at": "2026-09-25T18:32:55.932420+00:00",
+        "status": "completed",
+        "files_added": 0,
+        "files_modified": 0,
+        "files_deleted": 1,
+        "files_unchanged": 0,
+        "conflicts": 0,
+        "errors": 0,
+        "sync_version_before": 0,
+        "sync_version_after": 1,
+        "error_messages": []
+    },
+    "sync_version": 1,
+    "current_status": "completed",
+    "active_session": null,
+    "devices": {
+        "JARVIS-USB-MAIN": {
+            "device_id": "JARVIS-USB-MAIN",
+            "device_type": "USB",
+            "name": "JARVIS USB",
+            "last_sync_at": "2026-09-25T18:32:55.930375+00:00",
+            "sync_version": 1,
+            "files_synced": 0,
+            "active": true
+        }
+    },
+    "history": [
+        {
+            "session_id": "3b499bd5-fa1e-414d-ae3b-265ec01f080a",
+            "source_device": "JARVIS-PC-DESKTOP-P9E6MDR-257157363757291",
+            "target_device": "JARVIS-USB-MAIN",
+            "started_at": "2026-09-25T18:32:54.651416+00:00",
+            "completed_at": "2026-09-25T18:32:55.932420+00:00",
+            "status": "completed",
+            "files_added": 0,
+            "files_modified": 0,
+            "files_deleted": 1,
+            "files_unchanged": 0,
+            "conflicts": 0,
+            "errors": 0,
+            "sync_version_before": 0,
+            "sync_version_after": 1,
+            "error_messages": []
+        }
+    ]
+}
