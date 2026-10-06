@@ -1,0 +1,61 @@
+JARVIS USB — PORTABLE RUNTIME TEST
+========================================================================
+
+Status: FAIL
+Time: 2026-09-08T13:36:25.976055
+
+SUMMARY
+------------------------------------------------------------------------
+Total:  46
+Passed: 30
+Failed: 16
+
+[+] STRUCTURE: RUNTIME
+[+] STRUCTURE: RUNTIME/Python
+[+] STRUCTURE: RUNTIME/Python/python.exe
+[+] STRUCTURE: JARVIS
+[+] STRUCTURE: MODELS
+[+] STRUCTURE: CONFIG
+[+] STRUCTURE: DATA
+[+] STRUCTURE: LOGS
+[+] STRUCTURE: CACHE
+[+] STRUCTURE: BACKUP
+[+] STRUCTURE: manifest.json
+[+] Portable Python запускается
+[+] Python работает из USB Runtime
+[+] sys.path содержит Portable Runtime
+[X] PACKAGE: torch
+[X] PACKAGE: torchaudio
+[+] PACKAGE: numpy
+[X] PACKAGE: scipy
+[+] PACKAGE: librosa
+[X] PACKAGE: vosk
+[X] PACKAGE: speech_recognition
+[+] PACKAGE: pyaudio
+[X] PACKAGE: sounddevice
+[X] PACKAGE: soundfile
+[+] PACKAGE: pyttsx3
+[+] PACKAGE: pycaw
+[+] PACKAGE: win32api
+[X] PACKAGE: pyautogui
+[+] PACKAGE: kivy
+[X] PACKAGE: google.genai
+[X] PACKAGE: silero
+[X] PyTorch
+[X] Torchaudio
+[X] Vosk
+[+] Vosk model
+[X] Silero
+[+] Silero model
+[X] Silero model load
+[+] JARVIS source files
+[+] JARVIS Python compilation
+[+] Security excluded
+[X] Old absolute paths
+[+] Portable config
+[+] Models directory
+[+] manifest.json
+[+] Portable Edition size
+
+========================================================================
+END OF REPORT

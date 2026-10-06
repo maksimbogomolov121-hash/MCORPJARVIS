@@ -1,0 +1,946 @@
+2026-09-04 21:53:27,567 | INFO | JARVIS.SecurityBootstrap | ============================================================
+2026-09-04 21:53:27,568 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-04 21:53:27,568 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 1.0
+2026-09-04 21:53:27,568 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-04 21:53:27,568 | INFO | JARVIS.SecurityBootstrap | ============================================================
+2026-09-04 21:53:27,568 | INFO | JARVIS.SecurityBootstrap | Загрузка компонентов Security...
+2026-09-04 21:53:27,576 | WARNING | JARVIS.SecurityBootstrap | SecurityCore не загружен: No module named 'SECURITY'
+2026-09-04 21:53:27,581 | INFO | JARVIS.SecurityBootstrap | SecurityAPI загружен.
+2026-09-04 21:53:28,139 | INFO | JARVIS.SecurityBootstrap | SecurityInterface загружен.
+2026-09-04 21:53:28,140 | WARNING | JARVIS.SecurityBootstrap | SecurityCore отсутствует.
+2026-09-04 21:53:28,140 | INFO | JARVIS.SecurityBootstrap | SecurityAPI не требует отдельного запуска.
+2026-09-04 21:53:28,140 | INFO | JARVIS.SecurityBootstrap | SecurityInterface готов.
+2026-09-04 21:53:28,140 | INFO | JARVIS.SecurityBootstrap | Security успешно запущен.
+2026-09-04 21:53:28,140 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-04 21:56:03,669 | INFO | JARVIS.SecurityBootstrap | Получен сигнал завершения: 2
+2026-09-04 21:56:03,669 | INFO | JARVIS.SecurityBootstrap | Остановка Security...
+2026-09-04 21:56:03,669 | INFO | JARVIS.SecurityBootstrap | Security остановлен.
+2026-09-04 22:00:40,214 | INFO | JARVIS.SecurityBootstrap | ============================================================
+2026-09-04 22:00:40,214 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-04 22:00:40,214 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 1.0
+2026-09-04 22:00:40,214 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-04 22:00:40,214 | INFO | JARVIS.SecurityBootstrap | ============================================================
+2026-09-04 22:00:40,214 | INFO | JARVIS.SecurityBootstrap | Загрузка компонентов Security...
+2026-09-04 22:00:40,396 | INFO | JARVIS.SecurityBootstrap | SecurityCore загружен.
+2026-09-04 22:00:40,396 | INFO | JARVIS.SecurityBootstrap | SecurityAPI загружен.
+2026-09-04 22:00:40,772 | INFO | JARVIS.SecurityBootstrap | SecurityInterface загружен.
+2026-09-04 22:00:40,772 | INFO | JARVIS.SecurityBootstrap | SecurityCore не требует отдельного запуска.
+2026-09-04 22:00:40,772 | INFO | JARVIS.SecurityBootstrap | SecurityAPI не требует отдельного запуска.
+2026-09-04 22:00:40,772 | INFO | JARVIS.SecurityBootstrap | SecurityInterface готов.
+2026-09-04 22:00:40,772 | INFO | JARVIS.SecurityBootstrap | Security успешно запущен.
+2026-09-04 22:00:40,772 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-04 22:05:16,061 | INFO | JARVIS.SecurityBootstrap | Получен сигнал завершения: 2
+2026-09-04 22:05:16,061 | INFO | JARVIS.SecurityBootstrap | Остановка Security...
+2026-09-04 22:05:16,061 | INFO | JARVIS.SecurityBootstrap | Security остановлен.
+2026-09-05 17:08:25,000 | INFO | JARVIS.SecurityBootstrap | ============================================================
+2026-09-05 17:08:25,001 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-05 17:08:25,001 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 1.0
+2026-09-05 17:08:25,001 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-05 17:08:25,001 | INFO | JARVIS.SecurityBootstrap | ============================================================
+2026-09-05 17:08:25,001 | INFO | JARVIS.SecurityBootstrap | Загрузка компонентов Security...
+2026-09-05 17:08:25,152 | INFO | JARVIS.SecurityBootstrap | SecurityCore загружен.
+2026-09-05 17:08:25,154 | INFO | JARVIS.SecurityBootstrap | SecurityAPI загружен.
+2026-09-05 17:08:25,744 | INFO | JARVIS.SecurityBootstrap | SecurityInterface загружен.
+2026-09-05 17:08:25,744 | INFO | JARVIS.SecurityBootstrap | SecurityCore не требует отдельного запуска.
+2026-09-05 17:08:25,744 | INFO | JARVIS.SecurityBootstrap | SecurityAPI не требует отдельного запуска.
+2026-09-05 17:08:25,744 | INFO | JARVIS.SecurityBootstrap | SecurityInterface готов.
+2026-09-05 17:08:25,744 | INFO | JARVIS.SecurityBootstrap | Security успешно запущен.
+2026-09-05 17:08:25,744 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-05 17:08:58,745 | INFO | JARVIS.SecurityBootstrap | Получен сигнал завершения: 2
+2026-09-05 17:08:58,745 | INFO | JARVIS.SecurityBootstrap | Остановка Security...
+2026-09-05 17:08:58,745 | INFO | JARVIS.SecurityBootstrap | Security остановлен.
+2026-09-05 17:11:44,755 | INFO | JARVIS.SecurityBootstrap | ============================================================
+2026-09-05 17:11:44,755 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-05 17:11:44,755 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 1.0
+2026-09-05 17:11:44,755 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-05 17:11:44,755 | INFO | JARVIS.SecurityBootstrap | ============================================================
+2026-09-05 17:11:44,756 | INFO | JARVIS.SecurityBootstrap | Загрузка компонентов Security...
+2026-09-05 17:11:44,782 | INFO | JARVIS.SecurityBootstrap | SecurityCore загружен.
+2026-09-05 17:11:44,783 | INFO | JARVIS.SecurityBootstrap | SecurityAPI загружен.
+2026-09-05 17:11:45,150 | INFO | JARVIS.SecurityBootstrap | SecurityInterface загружен.
+2026-09-05 17:11:45,150 | INFO | JARVIS.SecurityBootstrap | SecurityCore не требует отдельного запуска.
+2026-09-05 17:11:45,150 | INFO | JARVIS.SecurityBootstrap | SecurityAPI не требует отдельного запуска.
+2026-09-05 17:11:45,150 | INFO | JARVIS.SecurityBootstrap | SecurityInterface готов.
+2026-09-05 17:11:45,150 | INFO | JARVIS.SecurityBootstrap | Security успешно запущен.
+2026-09-05 17:13:06,439 | INFO | JARVIS.SecurityBootstrap | Получен сигнал завершения: 2
+2026-09-05 17:13:06,439 | INFO | JARVIS.SecurityBootstrap | Остановка Security...
+2026-09-05 17:13:06,439 | INFO | JARVIS.SecurityBootstrap | Security остановлен.
+2026-09-05 17:37:30,972 | INFO | JARVIS.SecurityBootstrap | ============================================================
+2026-09-05 17:37:30,972 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-05 17:37:30,972 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 1.0
+2026-09-05 17:37:30,972 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-05 17:37:30,972 | INFO | JARVIS.SecurityBootstrap | ============================================================
+2026-09-05 17:37:30,972 | INFO | JARVIS.SecurityBootstrap | Загрузка компонентов Security...
+2026-09-05 17:37:31,002 | INFO | JARVIS.SecurityBootstrap | SecurityCore загружен.
+2026-09-05 17:37:31,003 | INFO | JARVIS.SecurityBootstrap | SecurityAPI загружен.
+2026-09-05 17:37:31,388 | INFO | JARVIS.SecurityBootstrap | SecurityInterface загружен.
+2026-09-05 17:37:31,388 | INFO | JARVIS.SecurityBootstrap | SecurityCore не требует отдельного запуска.
+2026-09-05 17:37:31,388 | INFO | JARVIS.SecurityBootstrap | SecurityAPI не требует отдельного запуска.
+2026-09-05 17:37:31,388 | INFO | JARVIS.SecurityBootstrap | SecurityInterface готов.
+2026-09-05 17:37:31,388 | INFO | JARVIS.SecurityBootstrap | Security успешно запущен.
+2026-09-05 17:37:31,533 | INFO | JARVIS.SecurityBootstrap | Остановка Security...
+2026-09-05 17:37:31,533 | INFO | JARVIS.SecurityBootstrap | Security остановлен.
+2026-09-05 17:41:41,862 | INFO | JARVIS.SecurityBootstrap | ============================================================
+2026-09-05 17:41:41,862 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-05 17:41:41,862 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 1.0
+2026-09-05 17:41:41,862 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-05 17:41:41,862 | INFO | JARVIS.SecurityBootstrap | ============================================================
+2026-09-05 17:41:41,862 | INFO | JARVIS.SecurityBootstrap | Загрузка компонентов Security...
+2026-09-05 17:41:41,892 | INFO | JARVIS.SecurityBootstrap | SecurityCore загружен.
+2026-09-05 17:41:41,893 | INFO | JARVIS.SecurityBootstrap | SecurityAPI загружен.
+2026-09-05 17:41:42,254 | INFO | JARVIS.SecurityBootstrap | SecurityInterface загружен.
+2026-09-05 17:41:42,254 | INFO | JARVIS.SecurityBootstrap | SecurityCore не требует отдельного запуска.
+2026-09-05 17:41:42,254 | INFO | JARVIS.SecurityBootstrap | SecurityAPI не требует отдельного запуска.
+2026-09-05 17:41:42,254 | INFO | JARVIS.SecurityBootstrap | SecurityInterface готов.
+2026-09-05 17:41:42,254 | INFO | JARVIS.SecurityBootstrap | Security успешно запущен.
+2026-09-05 17:41:42,301 | INFO | JARVIS.SecurityBootstrap | Остановка Security...
+2026-09-05 17:41:42,301 | INFO | JARVIS.SecurityBootstrap | Security остановлен.
+2026-09-05 23:21:06,692 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-05 23:21:06,693 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-05 23:21:06,693 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 2.0
+2026-09-05 23:21:06,693 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-05 23:21:06,693 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-05 23:21:06,693 | INFO | JARVIS.SecurityBootstrap | [1/8] Загрузка Security Core...
+2026-09-05 23:21:06,763 | INFO | JARVIS.SecurityBootstrap | Security Core V2.3 загружен.
+2026-09-05 23:21:06,763 | INFO | JARVIS.SecurityBootstrap | [2/8] Загрузка Security Orchestrator...
+2026-09-05 23:21:06,770 | INFO | JARVIS.SecurityBootstrap | Security Orchestrator V2.4 загружен.
+2026-09-05 23:21:06,770 | INFO | JARVIS.SecurityBootstrap | [3/8] Загрузка Security V3...
+2026-09-05 23:21:06,778 | INFO | JARVIS.SecurityBootstrap | Detection Engine V3.6 загружен.
+2026-09-05 23:21:06,785 | INFO | JARVIS.SecurityBootstrap | IOC Engine V3.5 загружен.
+2026-09-05 23:21:06,790 | INFO | JARVIS.SecurityBootstrap | Correlation Engine V3.0 загружен.
+2026-09-05 23:21:06,797 | INFO | JARVIS.SecurityBootstrap | Threat Chain V3.2 загружен.
+2026-09-05 23:21:06,801 | INFO | JARVIS.SecurityBootstrap | Risk Engine V3.1 загружен.
+2026-09-05 23:21:06,807 | INFO | JARVIS.SecurityBootstrap | Incident Manager V3.3 загружен.
+2026-09-05 23:21:06,811 | INFO | JARVIS.SecurityBootstrap | Security Event Store V3.4 загружен.
+2026-09-05 23:21:06,811 | INFO | JARVIS.SecurityBootstrap | [4/8] Сборка Security V4...
+2026-09-05 23:21:06,817 | INFO | JARVIS.SecurityBootstrap | Security Pipeline V4.0 загружен.
+2026-09-05 23:21:06,821 | INFO | JARVIS.SecurityBootstrap | Decision Engine V4.1 загружен.
+2026-09-05 23:21:06,826 | INFO | JARVIS.SecurityBootstrap | Response Engine V4.2 загружен.
+2026-09-05 23:21:06,829 | INFO | JARVIS.SecurityBootstrap | Security Policy V4.3 загружен.
+2026-09-05 23:21:06,832 | INFO | JARVIS.SecurityBootstrap | Security Controller V4.4 загружен.
+2026-09-05 23:21:06,832 | INFO | JARVIS.SecurityBootstrap | [5/8] Загрузка Security V6...
+2026-09-05 23:21:06,836 | INFO | JARVIS.SecurityBootstrap | Security Automation V6.0 загружен.
+2026-09-05 23:21:06,840 | INFO | JARVIS.SecurityBootstrap | Auto Response V6.1 загружен.
+2026-09-05 23:21:06,844 | INFO | JARVIS.SecurityBootstrap | Remediation Engine V6.2 загружен.
+2026-09-05 23:21:06,847 | INFO | JARVIS.SecurityBootstrap | Recovery Manager V6.3 загружен.
+2026-09-05 23:21:06,847 | INFO | JARVIS.SecurityBootstrap | [6/8] Загрузка Security API...
+2026-09-05 23:21:06,850 | INFO | JARVIS.SecurityBootstrap | Security API V7.0 загружен.
+2026-09-05 23:21:06,850 | INFO | JARVIS.SecurityBootstrap | [7/8] Загрузка Security V8...
+2026-09-05 23:21:06,859 | ERROR | JARVIS.SecurityBootstrap | КРИТИЧЕСКАЯ ОШИБКА ЗАПУСКА SECURITY: unexpected indent (security_notifications.py, line 1171)
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_bootstrap.py", line 296, in start
+    self._load_v8_components()
+  File "C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_bootstrap.py", line 764, in _load_v8_components
+    from SECURITY.security_notifications import (
+  File "C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_notifications.py", line 1171
+    return severity
+IndentationError: unexpected indent
+2026-09-05 23:30:49,784 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-05 23:30:49,784 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-05 23:30:49,784 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 2.0
+2026-09-05 23:30:49,784 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-05 23:30:49,784 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-05 23:30:49,784 | INFO | JARVIS.SecurityBootstrap | [1/8] Загрузка Security Core...
+2026-09-05 23:30:49,812 | INFO | JARVIS.SecurityBootstrap | Security Core V2.3 загружен.
+2026-09-05 23:30:49,812 | INFO | JARVIS.SecurityBootstrap | [2/8] Загрузка Security Orchestrator...
+2026-09-05 23:30:49,812 | INFO | JARVIS.SecurityBootstrap | Security Orchestrator V2.4 загружен.
+2026-09-05 23:30:49,812 | INFO | JARVIS.SecurityBootstrap | [3/8] Загрузка Security V3...
+2026-09-05 23:30:49,813 | INFO | JARVIS.SecurityBootstrap | Detection Engine V3.6 загружен.
+2026-09-05 23:30:49,813 | INFO | JARVIS.SecurityBootstrap | IOC Engine V3.5 загружен.
+2026-09-05 23:30:49,814 | INFO | JARVIS.SecurityBootstrap | Correlation Engine V3.0 загружен.
+2026-09-05 23:30:49,815 | INFO | JARVIS.SecurityBootstrap | Threat Chain V3.2 загружен.
+2026-09-05 23:30:49,815 | INFO | JARVIS.SecurityBootstrap | Risk Engine V3.1 загружен.
+2026-09-05 23:30:49,816 | INFO | JARVIS.SecurityBootstrap | Incident Manager V3.3 загружен.
+2026-09-05 23:30:49,816 | INFO | JARVIS.SecurityBootstrap | Security Event Store V3.4 загружен.
+2026-09-05 23:30:49,816 | INFO | JARVIS.SecurityBootstrap | [4/8] Сборка Security V4...
+2026-09-05 23:30:49,817 | INFO | JARVIS.SecurityBootstrap | Security Pipeline V4.0 загружен.
+2026-09-05 23:30:49,817 | INFO | JARVIS.SecurityBootstrap | Decision Engine V4.1 загружен.
+2026-09-05 23:30:49,818 | INFO | JARVIS.SecurityBootstrap | Response Engine V4.2 загружен.
+2026-09-05 23:30:49,818 | INFO | JARVIS.SecurityBootstrap | Security Policy V4.3 загружен.
+2026-09-05 23:30:49,819 | INFO | JARVIS.SecurityBootstrap | Security Controller V4.4 загружен.
+2026-09-05 23:30:49,819 | INFO | JARVIS.SecurityBootstrap | [5/8] Загрузка Security V6...
+2026-09-05 23:30:49,819 | INFO | JARVIS.SecurityBootstrap | Security Automation V6.0 загружен.
+2026-09-05 23:30:49,819 | INFO | JARVIS.SecurityBootstrap | Auto Response V6.1 загружен.
+2026-09-05 23:30:49,820 | INFO | JARVIS.SecurityBootstrap | Remediation Engine V6.2 загружен.
+2026-09-05 23:30:49,820 | INFO | JARVIS.SecurityBootstrap | Recovery Manager V6.3 загружен.
+2026-09-05 23:30:49,820 | INFO | JARVIS.SecurityBootstrap | [6/8] Загрузка Security API...
+2026-09-05 23:30:49,821 | INFO | JARVIS.SecurityBootstrap | Security API V7.0 загружен.
+2026-09-05 23:30:49,821 | INFO | JARVIS.SecurityBootstrap | [7/8] Загрузка Security V8...
+2026-09-05 23:30:49,827 | INFO | JARVIS.SecurityBootstrap | Security Notifications загружены.
+2026-09-05 23:30:49,842 | INFO | JARVIS.SecurityBootstrap | Security Alert Manager V8.3 загружен.
+2026-09-05 23:30:49,847 | INFO | JARVIS.SecurityBootstrap | JARVIS Security Bridge V8.0 загружен.
+2026-09-05 23:30:49,852 | ERROR | JARVIS.SecurityBootstrap | КРИТИЧЕСКАЯ ОШИБКА ЗАПУСКА SECURITY: SecurityCommandHandler.__init__() got an unexpected keyword argument 'bridge'
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_bootstrap.py", line 296, in start
+    self._load_v8_components()
+  File "C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_bootstrap.py", line 826, in _load_v8_components
+    SecurityCommandHandler(
+TypeError: SecurityCommandHandler.__init__() got an unexpected keyword argument 'bridge'
+2026-09-05 23:37:07,379 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-05 23:37:07,379 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-05 23:37:07,379 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 2.0
+2026-09-05 23:37:07,379 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-05 23:37:07,379 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-05 23:37:07,379 | INFO | JARVIS.SecurityBootstrap | [1/8] Загрузка Security Core...
+2026-09-05 23:37:07,407 | INFO | JARVIS.SecurityBootstrap | Security Core V2.3 загружен.
+2026-09-05 23:37:07,407 | INFO | JARVIS.SecurityBootstrap | [2/8] Загрузка Security Orchestrator...
+2026-09-05 23:37:07,407 | INFO | JARVIS.SecurityBootstrap | Security Orchestrator V2.4 загружен.
+2026-09-05 23:37:07,407 | INFO | JARVIS.SecurityBootstrap | [3/8] Загрузка Security V3...
+2026-09-05 23:37:07,408 | INFO | JARVIS.SecurityBootstrap | Detection Engine V3.6 загружен.
+2026-09-05 23:37:07,409 | INFO | JARVIS.SecurityBootstrap | IOC Engine V3.5 загружен.
+2026-09-05 23:37:07,410 | INFO | JARVIS.SecurityBootstrap | Correlation Engine V3.0 загружен.
+2026-09-05 23:37:07,410 | INFO | JARVIS.SecurityBootstrap | Threat Chain V3.2 загружен.
+2026-09-05 23:37:07,410 | INFO | JARVIS.SecurityBootstrap | Risk Engine V3.1 загружен.
+2026-09-05 23:37:07,411 | INFO | JARVIS.SecurityBootstrap | Incident Manager V3.3 загружен.
+2026-09-05 23:37:07,411 | INFO | JARVIS.SecurityBootstrap | Security Event Store V3.4 загружен.
+2026-09-05 23:37:07,411 | INFO | JARVIS.SecurityBootstrap | [4/8] Сборка Security V4...
+2026-09-05 23:37:07,412 | INFO | JARVIS.SecurityBootstrap | Security Pipeline V4.0 загружен.
+2026-09-05 23:37:07,412 | INFO | JARVIS.SecurityBootstrap | Decision Engine V4.1 загружен.
+2026-09-05 23:37:07,413 | INFO | JARVIS.SecurityBootstrap | Response Engine V4.2 загружен.
+2026-09-05 23:37:07,413 | INFO | JARVIS.SecurityBootstrap | Security Policy V4.3 загружен.
+2026-09-05 23:37:07,414 | INFO | JARVIS.SecurityBootstrap | Security Controller V4.4 загружен.
+2026-09-05 23:37:07,414 | INFO | JARVIS.SecurityBootstrap | [5/8] Загрузка Security V6...
+2026-09-05 23:37:07,414 | INFO | JARVIS.SecurityBootstrap | Security Automation V6.0 загружен.
+2026-09-05 23:37:07,414 | INFO | JARVIS.SecurityBootstrap | Auto Response V6.1 загружен.
+2026-09-05 23:37:07,415 | INFO | JARVIS.SecurityBootstrap | Remediation Engine V6.2 загружен.
+2026-09-05 23:37:07,415 | INFO | JARVIS.SecurityBootstrap | Recovery Manager V6.3 загружен.
+2026-09-05 23:37:07,415 | INFO | JARVIS.SecurityBootstrap | [6/8] Загрузка Security API...
+2026-09-05 23:37:07,416 | INFO | JARVIS.SecurityBootstrap | Security API V7.0 загружен.
+2026-09-05 23:37:07,416 | INFO | JARVIS.SecurityBootstrap | [7/8] Загрузка Security V8...
+2026-09-05 23:37:07,416 | INFO | JARVIS.SecurityBootstrap | Security Notifications загружены.
+2026-09-05 23:37:07,423 | INFO | JARVIS.SecurityBootstrap | Security Alert Manager V8.3 загружен.
+2026-09-05 23:37:07,424 | INFO | JARVIS.SecurityBootstrap | JARVIS Security Bridge V8.0 загружен.
+2026-09-05 23:37:07,425 | ERROR | JARVIS.SecurityBootstrap | КРИТИЧЕСКАЯ ОШИБКА ЗАПУСКА SECURITY: 'SecurityBootstrap' object has no attribute 'bridge'
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_bootstrap.py", line 296, in start
+    self._load_v8_components()
+  File "C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_bootstrap.py", line 826, in _load_v8_components
+    security_bridge=self.bridge,
+                    ^^^^^^^^^^^
+AttributeError: 'SecurityBootstrap' object has no attribute 'bridge'
+2026-09-05 23:40:36,994 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-05 23:40:36,994 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-05 23:40:36,994 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 2.0
+2026-09-05 23:40:36,995 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-05 23:40:36,995 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-05 23:40:36,995 | INFO | JARVIS.SecurityBootstrap | [1/8] Загрузка Security Core...
+2026-09-05 23:40:37,021 | INFO | JARVIS.SecurityBootstrap | Security Core V2.3 загружен.
+2026-09-05 23:40:37,021 | INFO | JARVIS.SecurityBootstrap | [2/8] Загрузка Security Orchestrator...
+2026-09-05 23:40:37,022 | INFO | JARVIS.SecurityBootstrap | Security Orchestrator V2.4 загружен.
+2026-09-05 23:40:37,022 | INFO | JARVIS.SecurityBootstrap | [3/8] Загрузка Security V3...
+2026-09-05 23:40:37,023 | INFO | JARVIS.SecurityBootstrap | Detection Engine V3.6 загружен.
+2026-09-05 23:40:37,023 | INFO | JARVIS.SecurityBootstrap | IOC Engine V3.5 загружен.
+2026-09-05 23:40:37,024 | INFO | JARVIS.SecurityBootstrap | Correlation Engine V3.0 загружен.
+2026-09-05 23:40:37,024 | INFO | JARVIS.SecurityBootstrap | Threat Chain V3.2 загружен.
+2026-09-05 23:40:37,025 | INFO | JARVIS.SecurityBootstrap | Risk Engine V3.1 загружен.
+2026-09-05 23:40:37,025 | INFO | JARVIS.SecurityBootstrap | Incident Manager V3.3 загружен.
+2026-09-05 23:40:37,026 | INFO | JARVIS.SecurityBootstrap | Security Event Store V3.4 загружен.
+2026-09-05 23:40:37,026 | INFO | JARVIS.SecurityBootstrap | [4/8] Сборка Security V4...
+2026-09-05 23:40:37,026 | INFO | JARVIS.SecurityBootstrap | Security Pipeline V4.0 загружен.
+2026-09-05 23:40:37,027 | INFO | JARVIS.SecurityBootstrap | Decision Engine V4.1 загружен.
+2026-09-05 23:40:37,027 | INFO | JARVIS.SecurityBootstrap | Response Engine V4.2 загружен.
+2026-09-05 23:40:37,028 | INFO | JARVIS.SecurityBootstrap | Security Policy V4.3 загружен.
+2026-09-05 23:40:37,028 | INFO | JARVIS.SecurityBootstrap | Security Controller V4.4 загружен.
+2026-09-05 23:40:37,028 | INFO | JARVIS.SecurityBootstrap | [5/8] Загрузка Security V6...
+2026-09-05 23:40:37,028 | INFO | JARVIS.SecurityBootstrap | Security Automation V6.0 загружен.
+2026-09-05 23:40:37,029 | INFO | JARVIS.SecurityBootstrap | Auto Response V6.1 загружен.
+2026-09-05 23:40:37,029 | INFO | JARVIS.SecurityBootstrap | Remediation Engine V6.2 загружен.
+2026-09-05 23:40:37,030 | INFO | JARVIS.SecurityBootstrap | Recovery Manager V6.3 загружен.
+2026-09-05 23:40:37,030 | INFO | JARVIS.SecurityBootstrap | [6/8] Загрузка Security API...
+2026-09-05 23:40:37,030 | INFO | JARVIS.SecurityBootstrap | Security API V7.0 загружен.
+2026-09-05 23:40:37,030 | INFO | JARVIS.SecurityBootstrap | [7/8] Загрузка Security V8...
+2026-09-05 23:40:37,031 | INFO | JARVIS.SecurityBootstrap | Security Notifications загружены.
+2026-09-05 23:40:37,040 | INFO | JARVIS.SecurityBootstrap | Security Alert Manager V8.3 загружен.
+2026-09-05 23:40:37,040 | INFO | JARVIS.SecurityBootstrap | JARVIS Security Bridge V8.0 загружен.
+2026-09-05 23:40:37,041 | ERROR | JARVIS.SecurityBootstrap | КРИТИЧЕСКАЯ ОШИБКА ЗАПУСКА SECURITY: 'SecurityBootstrap' object has no attribute 'policy'
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_bootstrap.py", line 297, in start
+    self._load_v8_components()
+  File "C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_bootstrap.py", line 828, in _load_v8_components
+    policy=self.policy,
+           ^^^^^^^^^^^
+AttributeError: 'SecurityBootstrap' object has no attribute 'policy'
+2026-09-05 23:43:13,786 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-05 23:43:13,786 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-05 23:43:13,786 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 2.0
+2026-09-05 23:43:13,786 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-05 23:43:13,786 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-05 23:43:13,786 | INFO | JARVIS.SecurityBootstrap | [1/8] Загрузка Security Core...
+2026-09-05 23:43:13,813 | INFO | JARVIS.SecurityBootstrap | Security Core V2.3 загружен.
+2026-09-05 23:43:13,813 | INFO | JARVIS.SecurityBootstrap | [2/8] Загрузка Security Orchestrator...
+2026-09-05 23:43:13,814 | INFO | JARVIS.SecurityBootstrap | Security Orchestrator V2.4 загружен.
+2026-09-05 23:43:13,814 | INFO | JARVIS.SecurityBootstrap | [3/8] Загрузка Security V3...
+2026-09-05 23:43:13,815 | INFO | JARVIS.SecurityBootstrap | Detection Engine V3.6 загружен.
+2026-09-05 23:43:13,815 | INFO | JARVIS.SecurityBootstrap | IOC Engine V3.5 загружен.
+2026-09-05 23:43:13,816 | INFO | JARVIS.SecurityBootstrap | Correlation Engine V3.0 загружен.
+2026-09-05 23:43:13,817 | INFO | JARVIS.SecurityBootstrap | Threat Chain V3.2 загружен.
+2026-09-05 23:43:13,817 | INFO | JARVIS.SecurityBootstrap | Risk Engine V3.1 загружен.
+2026-09-05 23:43:13,817 | INFO | JARVIS.SecurityBootstrap | Incident Manager V3.3 загружен.
+2026-09-05 23:43:13,818 | INFO | JARVIS.SecurityBootstrap | Security Event Store V3.4 загружен.
+2026-09-05 23:43:13,818 | INFO | JARVIS.SecurityBootstrap | [4/8] Сборка Security V4...
+2026-09-05 23:43:13,818 | INFO | JARVIS.SecurityBootstrap | Security Pipeline V4.0 загружен.
+2026-09-05 23:43:13,819 | INFO | JARVIS.SecurityBootstrap | Decision Engine V4.1 загружен.
+2026-09-05 23:43:13,819 | INFO | JARVIS.SecurityBootstrap | Response Engine V4.2 загружен.
+2026-09-05 23:43:13,820 | INFO | JARVIS.SecurityBootstrap | Security Policy V4.3 загружен.
+2026-09-05 23:43:13,820 | INFO | JARVIS.SecurityBootstrap | Security Controller V4.4 загружен.
+2026-09-05 23:43:13,820 | INFO | JARVIS.SecurityBootstrap | [5/8] Загрузка Security V6...
+2026-09-05 23:43:13,822 | INFO | JARVIS.SecurityBootstrap | Security Automation V6.0 загружен.
+2026-09-05 23:43:13,822 | INFO | JARVIS.SecurityBootstrap | Auto Response V6.1 загружен.
+2026-09-05 23:43:13,822 | INFO | JARVIS.SecurityBootstrap | Remediation Engine V6.2 загружен.
+2026-09-05 23:43:13,823 | INFO | JARVIS.SecurityBootstrap | Recovery Manager V6.3 загружен.
+2026-09-05 23:43:13,823 | INFO | JARVIS.SecurityBootstrap | [6/8] Загрузка Security API...
+2026-09-05 23:43:13,823 | INFO | JARVIS.SecurityBootstrap | Security API V7.0 загружен.
+2026-09-05 23:43:13,823 | INFO | JARVIS.SecurityBootstrap | [7/8] Загрузка Security V8...
+2026-09-05 23:43:13,824 | INFO | JARVIS.SecurityBootstrap | Security Notifications загружены.
+2026-09-05 23:43:13,831 | INFO | JARVIS.SecurityBootstrap | Security Alert Manager V8.3 загружен.
+2026-09-05 23:43:13,831 | INFO | JARVIS.SecurityBootstrap | JARVIS Security Bridge V8.0 загружен.
+2026-09-05 23:43:13,832 | INFO | JARVIS.SecurityBootstrap | Security Command Handler V8.1 загружен.
+2026-09-05 23:43:13,840 | INFO | JARVIS.SecurityBootstrap | Security Voice Interface V8.2 загружен.
+2026-09-05 23:43:13,840 | INFO | JARVIS.SecurityBootstrap | [8/8] Загрузка Security Interface...
+2026-09-05 23:43:14,371 | INFO | JARVIS.SecurityBootstrap | Security Interface загружен.
+2026-09-05 23:43:14,371 | INFO | JARVIS.SecurityBootstrap | Проверка собранной Security-системы...
+2026-09-05 23:43:14,371 | INFO | JARVIS.SecurityBootstrap | Проверка компонентов завершена успешно.
+2026-09-05 23:43:14,371 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-05 23:43:14,371 | INFO | JARVIS.SecurityBootstrap | SECURITY УСПЕШНО ЗАПУЩЕН.
+2026-09-05 23:43:14,371 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-05 23:43:14,371 | INFO | JARVIS.SecurityBootstrap | Все основные компоненты загружены.
+2026-09-05 23:43:14,372 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-05 23:43:14,372 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-05 23:51:51,882 | INFO | JARVIS.SecurityBootstrap | Получен системный сигнал: 2
+2026-09-05 23:51:51,882 | INFO | JARVIS.SecurityBootstrap | Остановка Security...
+2026-09-05 23:51:51,882 | INFO | JARVIS.SecurityBootstrap | Security остановлен.
+2026-09-05 23:57:24,682 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-05 23:57:24,683 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-05 23:57:24,683 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 2.0
+2026-09-05 23:57:24,683 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-05 23:57:24,683 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-05 23:57:24,683 | INFO | JARVIS.SecurityBootstrap | [1/8] Загрузка Security Core...
+2026-09-05 23:57:24,711 | INFO | JARVIS.SecurityBootstrap | Security Core V2.3 загружен.
+2026-09-05 23:57:24,711 | INFO | JARVIS.SecurityBootstrap | [2/8] Загрузка Security Orchestrator...
+2026-09-05 23:57:24,711 | INFO | JARVIS.SecurityBootstrap | Security Orchestrator V2.4 загружен.
+2026-09-05 23:57:24,711 | INFO | JARVIS.SecurityBootstrap | [3/8] Загрузка Security V3...
+2026-09-05 23:57:24,712 | INFO | JARVIS.SecurityBootstrap | Detection Engine V3.6 загружен.
+2026-09-05 23:57:24,713 | INFO | JARVIS.SecurityBootstrap | IOC Engine V3.5 загружен.
+2026-09-05 23:57:24,714 | INFO | JARVIS.SecurityBootstrap | Correlation Engine V3.0 загружен.
+2026-09-05 23:57:24,714 | INFO | JARVIS.SecurityBootstrap | Threat Chain V3.2 загружен.
+2026-09-05 23:57:24,714 | INFO | JARVIS.SecurityBootstrap | Risk Engine V3.1 загружен.
+2026-09-05 23:57:24,715 | INFO | JARVIS.SecurityBootstrap | Incident Manager V3.3 загружен.
+2026-09-05 23:57:24,715 | INFO | JARVIS.SecurityBootstrap | Security Event Store V3.4 загружен.
+2026-09-05 23:57:24,715 | INFO | JARVIS.SecurityBootstrap | [4/8] Сборка Security V4...
+2026-09-05 23:57:24,716 | INFO | JARVIS.SecurityBootstrap | Security Pipeline V4.0 загружен.
+2026-09-05 23:57:24,716 | INFO | JARVIS.SecurityBootstrap | Decision Engine V4.1 загружен.
+2026-09-05 23:57:24,717 | INFO | JARVIS.SecurityBootstrap | Response Engine V4.2 загружен.
+2026-09-05 23:57:24,717 | INFO | JARVIS.SecurityBootstrap | Security Policy V4.3 загружен.
+2026-09-05 23:57:24,718 | INFO | JARVIS.SecurityBootstrap | Security Controller V4.4 загружен.
+2026-09-05 23:57:24,718 | INFO | JARVIS.SecurityBootstrap | [5/8] Загрузка Security V6...
+2026-09-05 23:57:24,718 | INFO | JARVIS.SecurityBootstrap | Security Automation V6.0 загружен.
+2026-09-05 23:57:24,718 | INFO | JARVIS.SecurityBootstrap | Auto Response V6.1 загружен.
+2026-09-05 23:57:24,719 | INFO | JARVIS.SecurityBootstrap | Remediation Engine V6.2 загружен.
+2026-09-05 23:57:24,719 | INFO | JARVIS.SecurityBootstrap | Recovery Manager V6.3 загружен.
+2026-09-05 23:57:24,719 | INFO | JARVIS.SecurityBootstrap | [6/8] Загрузка Security API...
+2026-09-05 23:57:24,720 | INFO | JARVIS.SecurityBootstrap | Security API V7.0 загружен.
+2026-09-05 23:57:24,720 | INFO | JARVIS.SecurityBootstrap | [7/8] Загрузка Security V8...
+2026-09-05 23:57:24,720 | INFO | JARVIS.SecurityBootstrap | Security Notifications загружены.
+2026-09-05 23:57:24,728 | INFO | JARVIS.SecurityBootstrap | Security Alert Manager V8.3 загружен.
+2026-09-05 23:57:24,729 | INFO | JARVIS.SecurityBootstrap | JARVIS Security Bridge V8.0 загружен.
+2026-09-05 23:57:24,729 | INFO | JARVIS.SecurityBootstrap | Security Command Handler V8.1 загружен.
+2026-09-05 23:57:24,731 | INFO | JARVIS.SecurityBootstrap | Security Voice Interface V8.2 загружен.
+2026-09-05 23:57:24,731 | INFO | JARVIS.SecurityBootstrap | [8/8] Загрузка Security Interface...
+2026-09-05 23:57:25,107 | INFO | JARVIS.SecurityBootstrap | Security Interface загружен.
+2026-09-05 23:57:25,107 | INFO | JARVIS.SecurityBootstrap | Проверка собранной Security-системы...
+2026-09-05 23:57:25,107 | INFO | JARVIS.SecurityBootstrap | Проверка компонентов завершена успешно.
+2026-09-05 23:57:25,108 | ERROR | JARVIS.SecurityBootstrap | КРИТИЧЕСКАЯ ОШИБКА ЗАПУСКА SECURITY: 'NoneType' object has no attribute 'info'
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_bootstrap.py", line 313, in start
+    self._validate_system()
+  File "C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_bootstrap.py", line 972, in _validate_system
+    self.logger.info("Запуск Security Interface...")
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'info'
+2026-09-06 11:36:09,127 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-06 11:36:09,127 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-06 11:36:09,128 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 2.0
+2026-09-06 11:36:09,128 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-06 11:36:09,128 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-06 11:36:09,128 | INFO | JARVIS.SecurityBootstrap | [1/8] Загрузка Security Core...
+2026-09-06 11:36:09,186 | INFO | JARVIS.SecurityBootstrap | Security Core V2.3 загружен.
+2026-09-06 11:36:09,187 | INFO | JARVIS.SecurityBootstrap | [2/8] Загрузка Security Orchestrator...
+2026-09-06 11:36:09,189 | INFO | JARVIS.SecurityBootstrap | Security Orchestrator V2.4 загружен.
+2026-09-06 11:36:09,189 | INFO | JARVIS.SecurityBootstrap | [3/8] Загрузка Security V3...
+2026-09-06 11:36:09,193 | INFO | JARVIS.SecurityBootstrap | Detection Engine V3.6 загружен.
+2026-09-06 11:36:09,195 | INFO | JARVIS.SecurityBootstrap | IOC Engine V3.5 загружен.
+2026-09-06 11:36:09,200 | INFO | JARVIS.SecurityBootstrap | Correlation Engine V3.0 загружен.
+2026-09-06 11:36:09,202 | INFO | JARVIS.SecurityBootstrap | Threat Chain V3.2 загружен.
+2026-09-06 11:36:09,204 | INFO | JARVIS.SecurityBootstrap | Risk Engine V3.1 загружен.
+2026-09-06 11:36:09,206 | INFO | JARVIS.SecurityBootstrap | Incident Manager V3.3 загружен.
+2026-09-06 11:36:09,209 | INFO | JARVIS.SecurityBootstrap | Security Event Store V3.4 загружен.
+2026-09-06 11:36:09,209 | INFO | JARVIS.SecurityBootstrap | [4/8] Сборка Security V4...
+2026-09-06 11:36:09,211 | INFO | JARVIS.SecurityBootstrap | Security Pipeline V4.0 загружен.
+2026-09-06 11:36:09,213 | INFO | JARVIS.SecurityBootstrap | Decision Engine V4.1 загружен.
+2026-09-06 11:36:09,216 | INFO | JARVIS.SecurityBootstrap | Response Engine V4.2 загружен.
+2026-09-06 11:36:09,220 | INFO | JARVIS.SecurityBootstrap | Security Policy V4.3 загружен.
+2026-09-06 11:36:09,222 | INFO | JARVIS.SecurityBootstrap | Security Controller V4.4 загружен.
+2026-09-06 11:36:09,222 | INFO | JARVIS.SecurityBootstrap | [5/8] Загрузка Security V6...
+2026-09-06 11:36:09,224 | INFO | JARVIS.SecurityBootstrap | Security Automation V6.0 загружен.
+2026-09-06 11:36:09,226 | INFO | JARVIS.SecurityBootstrap | Auto Response V6.1 загружен.
+2026-09-06 11:36:09,228 | INFO | JARVIS.SecurityBootstrap | Remediation Engine V6.2 загружен.
+2026-09-06 11:36:09,231 | INFO | JARVIS.SecurityBootstrap | Recovery Manager V6.3 загружен.
+2026-09-06 11:36:09,232 | INFO | JARVIS.SecurityBootstrap | [6/8] Загрузка Security API...
+2026-09-06 11:36:09,234 | INFO | JARVIS.SecurityBootstrap | Security API V7.0 загружен.
+2026-09-06 11:36:09,234 | INFO | JARVIS.SecurityBootstrap | [7/8] Загрузка Security V8...
+2026-09-06 11:36:09,235 | INFO | JARVIS.SecurityBootstrap | Security Notifications загружены.
+2026-09-06 11:36:09,245 | INFO | JARVIS.SecurityBootstrap | Security Alert Manager V8.3 загружен.
+2026-09-06 11:36:09,248 | INFO | JARVIS.SecurityBootstrap | JARVIS Security Bridge V8.0 загружен.
+2026-09-06 11:36:09,250 | INFO | JARVIS.SecurityBootstrap | Security Command Handler V8.1 загружен.
+2026-09-06 11:36:09,253 | INFO | JARVIS.SecurityBootstrap | Security Voice Interface V8.2 загружен.
+2026-09-06 11:36:09,253 | INFO | JARVIS.SecurityBootstrap | [8/8] Загрузка Security Interface...
+2026-09-06 11:36:09,791 | INFO | JARVIS.SecurityBootstrap | Security Interface загружен.
+2026-09-06 11:36:09,791 | INFO | JARVIS.SecurityBootstrap | Проверка собранной Security-системы...
+2026-09-06 11:36:09,791 | INFO | JARVIS.SecurityBootstrap | Проверка компонентов завершена успешно.
+2026-09-06 11:36:09,791 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-06 11:36:09,791 | INFO | JARVIS.SecurityBootstrap | SECURITY УСПЕШНО ЗАПУЩЕН.
+2026-09-06 11:36:09,791 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-06 11:36:09,791 | INFO | JARVIS.SecurityBootstrap | Все основные компоненты загружены.
+2026-09-06 11:36:09,791 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-06 11:36:09,791 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-06 11:36:09,791 | INFO | JARVIS.SecurityBootstrap | Запуск Security Interface...
+2026-09-06 11:43:07,368 | INFO | JARVIS.SecurityBootstrap | Остановка Security...
+2026-09-06 11:43:07,368 | INFO | JARVIS.SecurityBootstrap | Security остановлен.
+2026-09-06 11:43:07,368 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY STOP
+2026-09-06 11:43:45,576 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-06 11:43:45,576 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-06 11:43:45,576 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 2.0
+2026-09-06 11:43:45,576 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-06 11:43:45,576 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-06 11:43:45,576 | INFO | JARVIS.SecurityBootstrap | [1/8] Загрузка Security Core...
+2026-09-06 11:43:45,603 | INFO | JARVIS.SecurityBootstrap | Security Core V2.3 загружен.
+2026-09-06 11:43:45,604 | INFO | JARVIS.SecurityBootstrap | [2/8] Загрузка Security Orchestrator...
+2026-09-06 11:43:45,604 | INFO | JARVIS.SecurityBootstrap | Security Orchestrator V2.4 загружен.
+2026-09-06 11:43:45,604 | INFO | JARVIS.SecurityBootstrap | [3/8] Загрузка Security V3...
+2026-09-06 11:43:45,605 | INFO | JARVIS.SecurityBootstrap | Detection Engine V3.6 загружен.
+2026-09-06 11:43:45,605 | INFO | JARVIS.SecurityBootstrap | IOC Engine V3.5 загружен.
+2026-09-06 11:43:45,606 | INFO | JARVIS.SecurityBootstrap | Correlation Engine V3.0 загружен.
+2026-09-06 11:43:45,607 | INFO | JARVIS.SecurityBootstrap | Threat Chain V3.2 загружен.
+2026-09-06 11:43:45,607 | INFO | JARVIS.SecurityBootstrap | Risk Engine V3.1 загружен.
+2026-09-06 11:43:45,608 | INFO | JARVIS.SecurityBootstrap | Incident Manager V3.3 загружен.
+2026-09-06 11:43:45,608 | INFO | JARVIS.SecurityBootstrap | Security Event Store V3.4 загружен.
+2026-09-06 11:43:45,608 | INFO | JARVIS.SecurityBootstrap | [4/8] Сборка Security V4...
+2026-09-06 11:43:45,608 | INFO | JARVIS.SecurityBootstrap | Security Pipeline V4.0 загружен.
+2026-09-06 11:43:45,609 | INFO | JARVIS.SecurityBootstrap | Decision Engine V4.1 загружен.
+2026-09-06 11:43:45,609 | INFO | JARVIS.SecurityBootstrap | Response Engine V4.2 загружен.
+2026-09-06 11:43:45,610 | INFO | JARVIS.SecurityBootstrap | Security Policy V4.3 загружен.
+2026-09-06 11:43:45,610 | INFO | JARVIS.SecurityBootstrap | Security Controller V4.4 загружен.
+2026-09-06 11:43:45,610 | INFO | JARVIS.SecurityBootstrap | [5/8] Загрузка Security V6...
+2026-09-06 11:43:45,611 | INFO | JARVIS.SecurityBootstrap | Security Automation V6.0 загружен.
+2026-09-06 11:43:45,611 | INFO | JARVIS.SecurityBootstrap | Auto Response V6.1 загружен.
+2026-09-06 11:43:45,611 | INFO | JARVIS.SecurityBootstrap | Remediation Engine V6.2 загружен.
+2026-09-06 11:43:45,612 | INFO | JARVIS.SecurityBootstrap | Recovery Manager V6.3 загружен.
+2026-09-06 11:43:45,612 | INFO | JARVIS.SecurityBootstrap | [6/8] Загрузка Security API...
+2026-09-06 11:43:45,612 | INFO | JARVIS.SecurityBootstrap | Security API V7.0 загружен.
+2026-09-06 11:43:45,612 | INFO | JARVIS.SecurityBootstrap | [7/8] Загрузка Security V8...
+2026-09-06 11:43:45,613 | INFO | JARVIS.SecurityBootstrap | Security Notifications загружены.
+2026-09-06 11:43:45,621 | INFO | JARVIS.SecurityBootstrap | Security Alert Manager V8.3 загружен.
+2026-09-06 11:43:45,621 | INFO | JARVIS.SecurityBootstrap | JARVIS Security Bridge V8.0 загружен.
+2026-09-06 11:43:45,622 | INFO | JARVIS.SecurityBootstrap | Security Command Handler V8.1 загружен.
+2026-09-06 11:43:45,623 | INFO | JARVIS.SecurityBootstrap | Security Voice Interface V8.2 загружен.
+2026-09-06 11:43:45,623 | INFO | JARVIS.SecurityBootstrap | [8/8] Загрузка Security Interface...
+2026-09-06 11:43:46,000 | INFO | JARVIS.SecurityBootstrap | Security Interface загружен.
+2026-09-06 11:43:46,000 | INFO | JARVIS.SecurityBootstrap | Проверка собранной Security-системы...
+2026-09-06 11:43:46,001 | INFO | JARVIS.SecurityBootstrap | Проверка компонентов завершена успешно.
+2026-09-06 11:43:46,001 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-06 11:43:46,001 | INFO | JARVIS.SecurityBootstrap | SECURITY УСПЕШНО ЗАПУЩЕН.
+2026-09-06 11:43:46,001 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-06 11:43:46,001 | INFO | JARVIS.SecurityBootstrap | Все основные компоненты загружены.
+2026-09-06 11:43:46,001 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-06 11:43:46,001 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-06 11:43:46,001 | INFO | JARVIS.SecurityBootstrap | Запуск Security Interface...
+2026-09-06 11:45:49,483 | INFO | JARVIS.SecurityBootstrap | Остановка Security...
+2026-09-06 11:45:49,483 | INFO | JARVIS.SecurityBootstrap | Security остановлен.
+2026-09-06 11:45:49,483 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY STOP
+2026-09-06 11:59:10,750 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-06 11:59:10,750 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-06 11:59:10,750 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 2.0
+2026-09-06 11:59:10,750 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-06 11:59:10,750 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-06 11:59:10,750 | INFO | JARVIS.SecurityBootstrap | [1/8] Загрузка Security Core...
+2026-09-06 11:59:10,781 | INFO | JARVIS.SecurityBootstrap | Security Core V2.3 загружен.
+2026-09-06 11:59:10,781 | INFO | JARVIS.SecurityBootstrap | [2/8] Загрузка Security Orchestrator...
+2026-09-06 11:59:10,781 | INFO | JARVIS.SecurityBootstrap | Security Orchestrator V2.4 загружен.
+2026-09-06 11:59:10,781 | INFO | JARVIS.SecurityBootstrap | [3/8] Загрузка Security V3...
+2026-09-06 11:59:10,782 | INFO | JARVIS.SecurityBootstrap | Detection Engine V3.6 загружен.
+2026-09-06 11:59:10,783 | INFO | JARVIS.SecurityBootstrap | IOC Engine V3.5 загружен.
+2026-09-06 11:59:10,784 | INFO | JARVIS.SecurityBootstrap | Correlation Engine V3.0 загружен.
+2026-09-06 11:59:10,785 | INFO | JARVIS.SecurityBootstrap | Threat Chain V3.2 загружен.
+2026-09-06 11:59:10,785 | INFO | JARVIS.SecurityBootstrap | Risk Engine V3.1 загружен.
+2026-09-06 11:59:10,786 | INFO | JARVIS.SecurityBootstrap | Incident Manager V3.3 загружен.
+2026-09-06 11:59:10,786 | INFO | JARVIS.SecurityBootstrap | Security Event Store V3.4 загружен.
+2026-09-06 11:59:10,786 | INFO | JARVIS.SecurityBootstrap | [4/8] Сборка Security V4...
+2026-09-06 11:59:10,787 | INFO | JARVIS.SecurityBootstrap | Security Pipeline V4.0 загружен.
+2026-09-06 11:59:10,787 | INFO | JARVIS.SecurityBootstrap | Decision Engine V4.1 загружен.
+2026-09-06 11:59:10,787 | INFO | JARVIS.SecurityBootstrap | Response Engine V4.2 загружен.
+2026-09-06 11:59:10,788 | INFO | JARVIS.SecurityBootstrap | Security Policy V4.3 загружен.
+2026-09-06 11:59:10,788 | INFO | JARVIS.SecurityBootstrap | Security Controller V4.4 загружен.
+2026-09-06 11:59:10,788 | INFO | JARVIS.SecurityBootstrap | [5/8] Загрузка Security V6...
+2026-09-06 11:59:10,789 | INFO | JARVIS.SecurityBootstrap | Security Automation V6.0 загружен.
+2026-09-06 11:59:10,789 | INFO | JARVIS.SecurityBootstrap | Auto Response V6.1 загружен.
+2026-09-06 11:59:10,790 | INFO | JARVIS.SecurityBootstrap | Remediation Engine V6.2 загружен.
+2026-09-06 11:59:10,790 | INFO | JARVIS.SecurityBootstrap | Recovery Manager V6.3 загружен.
+2026-09-06 11:59:10,790 | INFO | JARVIS.SecurityBootstrap | [6/8] Загрузка Security API...
+2026-09-06 11:59:10,790 | INFO | JARVIS.SecurityBootstrap | Security API V7.0 загружен.
+2026-09-06 11:59:10,791 | INFO | JARVIS.SecurityBootstrap | [7/8] Загрузка Security V8...
+2026-09-06 11:59:10,791 | INFO | JARVIS.SecurityBootstrap | Security Notifications загружены.
+2026-09-06 11:59:10,799 | INFO | JARVIS.SecurityBootstrap | Security Alert Manager V8.3 загружен.
+2026-09-06 11:59:10,800 | INFO | JARVIS.SecurityBootstrap | JARVIS Security Bridge V8.0 загружен.
+2026-09-06 11:59:10,800 | INFO | JARVIS.SecurityBootstrap | Security Command Handler V8.1 загружен.
+2026-09-06 11:59:10,802 | INFO | JARVIS.SecurityBootstrap | Security Voice Interface V8.2 загружен.
+2026-09-06 11:59:10,802 | INFO | JARVIS.SecurityBootstrap | [8/8] Загрузка Security Interface...
+2026-09-06 11:59:11,104 | INFO | JARVIS.SecurityBootstrap | Security Interface загружен.
+2026-09-06 11:59:11,105 | INFO | JARVIS.SecurityBootstrap | Проверка собранной Security-системы...
+2026-09-06 11:59:11,105 | INFO | JARVIS.SecurityBootstrap | Проверка компонентов завершена успешно.
+2026-09-06 11:59:11,105 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-06 11:59:11,105 | INFO | JARVIS.SecurityBootstrap | SECURITY УСПЕШНО ЗАПУЩЕН.
+2026-09-06 11:59:11,105 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-06 11:59:11,105 | INFO | JARVIS.SecurityBootstrap | Все основные компоненты загружены.
+2026-09-06 11:59:11,105 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-06 11:59:11,105 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-06 11:59:11,105 | INFO | JARVIS.SecurityBootstrap | Запуск Security Interface...
+2026-09-06 12:06:15,835 | INFO | JARVIS.SecurityBootstrap | Остановка Security...
+2026-09-06 12:06:15,836 | INFO | JARVIS.SecurityBootstrap | Security остановлен.
+2026-09-06 12:06:15,836 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY STOP
+2026-09-07 07:08:21,211 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-07 07:08:21,211 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-07 07:08:21,211 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 2.1
+2026-09-07 07:08:21,212 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-07 07:08:21,212 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-07 07:08:21,212 | INFO | JARVIS.SecurityBootstrap | [1/9] Загрузка Security Core...
+2026-09-07 07:08:21,274 | INFO | JARVIS.SecurityBootstrap | Security Core V2.3 загружен.
+2026-09-07 07:08:21,274 | INFO | JARVIS.SecurityBootstrap | [2/9] Загрузка Security Orchestrator...
+2026-09-07 07:08:21,276 | INFO | JARVIS.SecurityBootstrap | Security Orchestrator V2.4 загружен.
+2026-09-07 07:08:21,276 | INFO | JARVIS.SecurityBootstrap | [3/9] Загрузка Security V3...
+2026-09-07 07:08:21,279 | INFO | JARVIS.SecurityBootstrap | Detection Engine V3.6 загружен.
+2026-09-07 07:08:21,282 | INFO | JARVIS.SecurityBootstrap | IOC Engine V3.5 загружен.
+2026-09-07 07:08:21,285 | INFO | JARVIS.SecurityBootstrap | Correlation Engine V3.0 загружен.
+2026-09-07 07:08:21,287 | INFO | JARVIS.SecurityBootstrap | Threat Chain V3.2 загружен.
+2026-09-07 07:08:21,289 | INFO | JARVIS.SecurityBootstrap | Risk Engine V3.1 загружен.
+2026-09-07 07:08:21,291 | INFO | JARVIS.SecurityBootstrap | Incident Manager V3.3 загружен.
+2026-09-07 07:08:21,293 | INFO | JARVIS.SecurityBootstrap | Security Event Store V3.4 загружен.
+2026-09-07 07:08:21,293 | INFO | JARVIS.SecurityBootstrap | [4/9] Сборка Security V4...
+2026-09-07 07:08:21,295 | INFO | JARVIS.SecurityBootstrap | Security Pipeline V4.0 загружен.
+2026-09-07 07:08:21,298 | INFO | JARVIS.SecurityBootstrap | Decision Engine V4.1 загружен.
+2026-09-07 07:08:21,299 | INFO | JARVIS.SecurityBootstrap | Response Engine V4.2 загружен.
+2026-09-07 07:08:21,301 | INFO | JARVIS.SecurityBootstrap | Security Policy V4.3 загружен.
+2026-09-07 07:08:21,303 | INFO | JARVIS.SecurityBootstrap | Security Controller V4.4 загружен.
+2026-09-07 07:08:21,303 | INFO | JARVIS.SecurityBootstrap | [5/9] Загрузка Security V6...
+2026-09-07 07:08:21,305 | INFO | JARVIS.SecurityBootstrap | Security Automation V6.0 загружен.
+2026-09-07 07:08:21,307 | INFO | JARVIS.SecurityBootstrap | Auto Response V6.1 загружен.
+2026-09-07 07:08:21,310 | INFO | JARVIS.SecurityBootstrap | Remediation Engine V6.2 загружен.
+2026-09-07 07:08:21,312 | INFO | JARVIS.SecurityBootstrap | Recovery Manager V6.3 загружен.
+2026-09-07 07:08:21,312 | INFO | JARVIS.SecurityBootstrap | [6/9] Загрузка Security API...
+2026-09-07 07:08:21,314 | INFO | JARVIS.SecurityBootstrap | Security API V7.0 загружен.
+2026-09-07 07:08:21,314 | INFO | JARVIS.SecurityBootstrap | [7/9] Загрузка Security V8...
+2026-09-07 07:08:21,316 | INFO | JARVIS.SecurityBootstrap | Security Notifications загружены.
+2026-09-07 07:08:21,327 | INFO | JARVIS.SecurityBootstrap | Security Alert Manager V8.3 загружен.
+2026-09-07 07:08:21,330 | INFO | JARVIS.SecurityBootstrap | JARVIS Security Bridge V8.0 загружен.
+2026-09-07 07:08:21,334 | INFO | JARVIS.SecurityBootstrap | Security Command Handler V8.1 загружен.
+2026-09-07 07:08:21,338 | INFO | JARVIS.SecurityBootstrap | Security Voice Interface V8.2 загружен.
+2026-09-07 07:08:21,338 | INFO | JARVIS.SecurityBootstrap | Голосовое управление Security ожидает JARVIS.
+2026-09-07 07:08:21,338 | INFO | JARVIS.SecurityBootstrap | [8/9] Запуск Security IPC Server...
+2026-09-07 07:08:21,340 | ERROR | JARVIS.SecurityBootstrap | КРИТИЧЕСКАЯ ОШИБКА ЗАПУСКА SECURITY: cannot import name 'SecurityIPCServer' from 'SECURITY.security_ipc_server' (C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_ipc_server.py)
+Traceback (most recent call last):
+  File "C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_bootstrap.py", line 318, in start
+    self._load_ipc_server()
+  File "C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_bootstrap.py", line 933, in _load_ipc_server
+    from SECURITY.security_ipc_server import (
+ImportError: cannot import name 'SecurityIPCServer' from 'SECURITY.security_ipc_server' (C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY\security_ipc_server.py). Did you mean: 'security_ipc_server'?
+2026-09-07 07:14:21,391 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-07 07:14:21,392 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-07 07:14:21,392 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 2.1
+2026-09-07 07:14:21,392 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-07 07:14:21,392 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-07 07:14:21,392 | INFO | JARVIS.SecurityBootstrap | [1/9] Загрузка Security Core...
+2026-09-07 07:14:21,418 | INFO | JARVIS.SecurityBootstrap | Security Core V2.3 загружен.
+2026-09-07 07:14:21,418 | INFO | JARVIS.SecurityBootstrap | [2/9] Загрузка Security Orchestrator...
+2026-09-07 07:14:21,419 | INFO | JARVIS.SecurityBootstrap | Security Orchestrator V2.4 загружен.
+2026-09-07 07:14:21,419 | INFO | JARVIS.SecurityBootstrap | [3/9] Загрузка Security V3...
+2026-09-07 07:14:21,420 | INFO | JARVIS.SecurityBootstrap | Detection Engine V3.6 загружен.
+2026-09-07 07:14:21,420 | INFO | JARVIS.SecurityBootstrap | IOC Engine V3.5 загружен.
+2026-09-07 07:14:21,421 | INFO | JARVIS.SecurityBootstrap | Correlation Engine V3.0 загружен.
+2026-09-07 07:14:21,422 | INFO | JARVIS.SecurityBootstrap | Threat Chain V3.2 загружен.
+2026-09-07 07:14:21,422 | INFO | JARVIS.SecurityBootstrap | Risk Engine V3.1 загружен.
+2026-09-07 07:14:21,423 | INFO | JARVIS.SecurityBootstrap | Incident Manager V3.3 загружен.
+2026-09-07 07:14:21,423 | INFO | JARVIS.SecurityBootstrap | Security Event Store V3.4 загружен.
+2026-09-07 07:14:21,423 | INFO | JARVIS.SecurityBootstrap | [4/9] Сборка Security V4...
+2026-09-07 07:14:21,424 | INFO | JARVIS.SecurityBootstrap | Security Pipeline V4.0 загружен.
+2026-09-07 07:14:21,424 | INFO | JARVIS.SecurityBootstrap | Decision Engine V4.1 загружен.
+2026-09-07 07:14:21,424 | INFO | JARVIS.SecurityBootstrap | Response Engine V4.2 загружен.
+2026-09-07 07:14:21,425 | INFO | JARVIS.SecurityBootstrap | Security Policy V4.3 загружен.
+2026-09-07 07:14:21,425 | INFO | JARVIS.SecurityBootstrap | Security Controller V4.4 загружен.
+2026-09-07 07:14:21,425 | INFO | JARVIS.SecurityBootstrap | [5/9] Загрузка Security V6...
+2026-09-07 07:14:21,426 | INFO | JARVIS.SecurityBootstrap | Security Automation V6.0 загружен.
+2026-09-07 07:14:21,426 | INFO | JARVIS.SecurityBootstrap | Auto Response V6.1 загружен.
+2026-09-07 07:14:21,427 | INFO | JARVIS.SecurityBootstrap | Remediation Engine V6.2 загружен.
+2026-09-07 07:14:21,427 | INFO | JARVIS.SecurityBootstrap | Recovery Manager V6.3 загружен.
+2026-09-07 07:14:21,427 | INFO | JARVIS.SecurityBootstrap | [6/9] Загрузка Security API...
+2026-09-07 07:14:21,428 | INFO | JARVIS.SecurityBootstrap | Security API V7.0 загружен.
+2026-09-07 07:14:21,428 | INFO | JARVIS.SecurityBootstrap | [7/9] Загрузка Security V8...
+2026-09-07 07:14:21,428 | INFO | JARVIS.SecurityBootstrap | Security Notifications загружены.
+2026-09-07 07:14:21,435 | INFO | JARVIS.SecurityBootstrap | Security Alert Manager V8.3 загружен.
+2026-09-07 07:14:21,436 | INFO | JARVIS.SecurityBootstrap | JARVIS Security Bridge V8.0 загружен.
+2026-09-07 07:14:21,436 | INFO | JARVIS.SecurityBootstrap | Security Command Handler V8.1 загружен.
+2026-09-07 07:14:21,438 | INFO | JARVIS.SecurityBootstrap | Security Voice Interface V8.2 загружен.
+2026-09-07 07:14:21,438 | INFO | JARVIS.SecurityBootstrap | Голосовое управление Security ожидает JARVIS.
+2026-09-07 07:14:21,438 | INFO | JARVIS.SecurityBootstrap | [8/9] Запуск Security IPC Server...
+2026-09-07 07:14:21,449 | INFO | JARVIS.SecurityBootstrap | Security IPC Server запущен.
+2026-09-07 07:14:21,449 | INFO | JARVIS.SecurityBootstrap | Адрес: 127.0.0.1:8765
+2026-09-07 07:14:21,449 | INFO | JARVIS.SecurityBootstrap | [9/9] Загрузка Security Interface...
+2026-09-07 07:14:21,922 | INFO | JARVIS.SecurityBootstrap | Security Interface загружен.
+2026-09-07 07:14:21,922 | INFO | JARVIS.SecurityBootstrap | Проверка собранной Security-системы...
+2026-09-07 07:14:21,922 | INFO | JARVIS.SecurityBootstrap | Проверка компонентов завершена успешно.
+2026-09-07 07:14:21,922 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-07 07:14:21,922 | INFO | JARVIS.SecurityBootstrap | SECURITY УСПЕШНО ЗАПУЩЕН.
+2026-09-07 07:14:21,922 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-07 07:14:21,922 | INFO | JARVIS.SecurityBootstrap | Security IPC Server: 127.0.0.1:8765
+2026-09-07 07:14:21,922 | INFO | JARVIS.SecurityBootstrap | Голосовое управление ожидает подключения JARVIS.
+2026-09-07 07:14:21,922 | INFO | JARVIS.SecurityBootstrap | Все основные компоненты загружены.
+2026-09-07 07:14:21,922 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-07 07:14:21,922 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-07 07:14:21,922 | INFO | JARVIS.SecurityBootstrap | Запуск Security Interface...
+2026-09-07 07:18:10,024 | INFO | JARVIS.SecurityBootstrap | Остановка Security...
+2026-09-07 07:18:10,024 | INFO | JARVIS.SecurityBootstrap | Security IPC Server остановлен.
+2026-09-07 07:18:10,024 | INFO | JARVIS.SecurityBootstrap | Security остановлен.
+2026-09-07 07:18:10,024 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY STOP
+2026-09-07 07:21:39,751 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-07 07:21:39,751 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-07 07:21:39,751 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 2.1
+2026-09-07 07:21:39,751 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-07 07:21:39,751 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-07 07:21:39,752 | INFO | JARVIS.SecurityBootstrap | [1/9] Загрузка Security Core...
+2026-09-07 07:21:39,778 | INFO | JARVIS.SecurityBootstrap | Security Core V2.3 загружен.
+2026-09-07 07:21:39,778 | INFO | JARVIS.SecurityBootstrap | [2/9] Загрузка Security Orchestrator...
+2026-09-07 07:21:39,779 | INFO | JARVIS.SecurityBootstrap | Security Orchestrator V2.4 загружен.
+2026-09-07 07:21:39,779 | INFO | JARVIS.SecurityBootstrap | [3/9] Загрузка Security V3...
+2026-09-07 07:21:39,780 | INFO | JARVIS.SecurityBootstrap | Detection Engine V3.6 загружен.
+2026-09-07 07:21:39,780 | INFO | JARVIS.SecurityBootstrap | IOC Engine V3.5 загружен.
+2026-09-07 07:21:39,781 | INFO | JARVIS.SecurityBootstrap | Correlation Engine V3.0 загружен.
+2026-09-07 07:21:39,782 | INFO | JARVIS.SecurityBootstrap | Threat Chain V3.2 загружен.
+2026-09-07 07:21:39,782 | INFO | JARVIS.SecurityBootstrap | Risk Engine V3.1 загружен.
+2026-09-07 07:21:39,783 | INFO | JARVIS.SecurityBootstrap | Incident Manager V3.3 загружен.
+2026-09-07 07:21:39,783 | INFO | JARVIS.SecurityBootstrap | Security Event Store V3.4 загружен.
+2026-09-07 07:21:39,783 | INFO | JARVIS.SecurityBootstrap | [4/9] Сборка Security V4...
+2026-09-07 07:21:39,783 | INFO | JARVIS.SecurityBootstrap | Security Pipeline V4.0 загружен.
+2026-09-07 07:21:39,784 | INFO | JARVIS.SecurityBootstrap | Decision Engine V4.1 загружен.
+2026-09-07 07:21:39,784 | INFO | JARVIS.SecurityBootstrap | Response Engine V4.2 загружен.
+2026-09-07 07:21:39,785 | INFO | JARVIS.SecurityBootstrap | Security Policy V4.3 загружен.
+2026-09-07 07:21:39,785 | INFO | JARVIS.SecurityBootstrap | Security Controller V4.4 загружен.
+2026-09-07 07:21:39,785 | INFO | JARVIS.SecurityBootstrap | [5/9] Загрузка Security V6...
+2026-09-07 07:21:39,786 | INFO | JARVIS.SecurityBootstrap | Security Automation V6.0 загружен.
+2026-09-07 07:21:39,786 | INFO | JARVIS.SecurityBootstrap | Auto Response V6.1 загружен.
+2026-09-07 07:21:39,786 | INFO | JARVIS.SecurityBootstrap | Remediation Engine V6.2 загружен.
+2026-09-07 07:21:39,787 | INFO | JARVIS.SecurityBootstrap | Recovery Manager V6.3 загружен.
+2026-09-07 07:21:39,787 | INFO | JARVIS.SecurityBootstrap | [6/9] Загрузка Security API...
+2026-09-07 07:21:39,787 | INFO | JARVIS.SecurityBootstrap | Security API V7.0 загружен.
+2026-09-07 07:21:39,787 | INFO | JARVIS.SecurityBootstrap | [7/9] Загрузка Security V8...
+2026-09-07 07:21:39,788 | INFO | JARVIS.SecurityBootstrap | Security Notifications загружены.
+2026-09-07 07:21:39,795 | INFO | JARVIS.SecurityBootstrap | Security Alert Manager V8.3 загружен.
+2026-09-07 07:21:39,795 | INFO | JARVIS.SecurityBootstrap | JARVIS Security Bridge V8.0 загружен.
+2026-09-07 07:21:39,796 | INFO | JARVIS.SecurityBootstrap | Security Command Handler V8.1 загружен.
+2026-09-07 07:21:39,797 | INFO | JARVIS.SecurityBootstrap | Security Voice Interface V8.2 загружен.
+2026-09-07 07:21:39,798 | INFO | JARVIS.SecurityBootstrap | Голосовое управление Security ожидает JARVIS.
+2026-09-07 07:21:39,798 | INFO | JARVIS.SecurityBootstrap | [8/9] Запуск Security IPC Server...
+2026-09-07 07:21:39,803 | INFO | JARVIS.SecurityBootstrap | Security IPC Server запущен.
+2026-09-07 07:21:39,803 | INFO | JARVIS.SecurityBootstrap | Адрес: 127.0.0.1:8765
+2026-09-07 07:21:39,803 | INFO | JARVIS.SecurityBootstrap | [9/9] Загрузка Security Interface...
+2026-09-07 07:21:40,046 | INFO | JARVIS.SecurityBootstrap | Security Interface загружен.
+2026-09-07 07:21:40,046 | INFO | JARVIS.SecurityBootstrap | Проверка собранной Security-системы...
+2026-09-07 07:21:40,046 | INFO | JARVIS.SecurityBootstrap | Проверка компонентов завершена успешно.
+2026-09-07 07:21:40,046 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-07 07:21:40,046 | INFO | JARVIS.SecurityBootstrap | SECURITY УСПЕШНО ЗАПУЩЕН.
+2026-09-07 07:21:40,046 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-07 07:21:40,046 | INFO | JARVIS.SecurityBootstrap | Security IPC Server: 127.0.0.1:8765
+2026-09-07 07:21:40,046 | INFO | JARVIS.SecurityBootstrap | Голосовое управление ожидает подключения JARVIS.
+2026-09-07 07:21:40,046 | INFO | JARVIS.SecurityBootstrap | Все основные компоненты загружены.
+2026-09-07 07:21:40,046 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-07 07:21:40,046 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-07 07:21:40,046 | INFO | JARVIS.SecurityBootstrap | Запуск Security Interface...
+2026-09-07 07:22:47,479 | INFO | JARVIS.SecurityBootstrap | Остановка Security...
+2026-09-07 07:22:47,480 | INFO | JARVIS.SecurityBootstrap | Security IPC Server остановлен.
+2026-09-07 07:22:47,480 | INFO | JARVIS.SecurityBootstrap | Security остановлен.
+2026-09-07 07:22:47,480 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY STOP
+2026-09-07 07:26:47,605 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-07 07:26:47,605 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-07 07:26:47,606 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 2.1
+2026-09-07 07:26:47,606 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-07 07:26:47,606 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-07 07:26:47,606 | INFO | JARVIS.SecurityBootstrap | [1/9] Загрузка Security Core...
+2026-09-07 07:26:47,633 | INFO | JARVIS.SecurityBootstrap | Security Core V2.3 загружен.
+2026-09-07 07:26:47,633 | INFO | JARVIS.SecurityBootstrap | [2/9] Загрузка Security Orchestrator...
+2026-09-07 07:26:47,633 | INFO | JARVIS.SecurityBootstrap | Security Orchestrator V2.4 загружен.
+2026-09-07 07:26:47,633 | INFO | JARVIS.SecurityBootstrap | [3/9] Загрузка Security V3...
+2026-09-07 07:26:47,634 | INFO | JARVIS.SecurityBootstrap | Detection Engine V3.6 загружен.
+2026-09-07 07:26:47,634 | INFO | JARVIS.SecurityBootstrap | IOC Engine V3.5 загружен.
+2026-09-07 07:26:47,635 | INFO | JARVIS.SecurityBootstrap | Correlation Engine V3.0 загружен.
+2026-09-07 07:26:47,636 | INFO | JARVIS.SecurityBootstrap | Threat Chain V3.2 загружен.
+2026-09-07 07:26:47,636 | INFO | JARVIS.SecurityBootstrap | Risk Engine V3.1 загружен.
+2026-09-07 07:26:47,636 | INFO | JARVIS.SecurityBootstrap | Incident Manager V3.3 загружен.
+2026-09-07 07:26:47,637 | INFO | JARVIS.SecurityBootstrap | Security Event Store V3.4 загружен.
+2026-09-07 07:26:47,637 | INFO | JARVIS.SecurityBootstrap | [4/9] Сборка Security V4...
+2026-09-07 07:26:47,637 | INFO | JARVIS.SecurityBootstrap | Security Pipeline V4.0 загружен.
+2026-09-07 07:26:47,638 | INFO | JARVIS.SecurityBootstrap | Decision Engine V4.1 загружен.
+2026-09-07 07:26:47,638 | INFO | JARVIS.SecurityBootstrap | Response Engine V4.2 загружен.
+2026-09-07 07:26:47,639 | INFO | JARVIS.SecurityBootstrap | Security Policy V4.3 загружен.
+2026-09-07 07:26:47,639 | INFO | JARVIS.SecurityBootstrap | Security Controller V4.4 загружен.
+2026-09-07 07:26:47,639 | INFO | JARVIS.SecurityBootstrap | [5/9] Загрузка Security V6...
+2026-09-07 07:26:47,640 | INFO | JARVIS.SecurityBootstrap | Security Automation V6.0 загружен.
+2026-09-07 07:26:47,640 | INFO | JARVIS.SecurityBootstrap | Auto Response V6.1 загружен.
+2026-09-07 07:26:47,641 | INFO | JARVIS.SecurityBootstrap | Remediation Engine V6.2 загружен.
+2026-09-07 07:26:47,641 | INFO | JARVIS.SecurityBootstrap | Recovery Manager V6.3 загружен.
+2026-09-07 07:26:47,641 | INFO | JARVIS.SecurityBootstrap | [6/9] Загрузка Security API...
+2026-09-07 07:26:47,641 | INFO | JARVIS.SecurityBootstrap | Security API V7.0 загружен.
+2026-09-07 07:26:47,642 | INFO | JARVIS.SecurityBootstrap | [7/9] Загрузка Security V8...
+2026-09-07 07:26:47,642 | INFO | JARVIS.SecurityBootstrap | Security Notifications загружены.
+2026-09-07 07:26:47,649 | INFO | JARVIS.SecurityBootstrap | Security Alert Manager V8.3 загружен.
+2026-09-07 07:26:47,650 | INFO | JARVIS.SecurityBootstrap | JARVIS Security Bridge V8.0 загружен.
+2026-09-07 07:26:47,650 | INFO | JARVIS.SecurityBootstrap | Security Command Handler V8.1 загружен.
+2026-09-07 07:26:47,652 | INFO | JARVIS.SecurityBootstrap | Security Voice Interface V8.2 загружен.
+2026-09-07 07:26:47,652 | INFO | JARVIS.SecurityBootstrap | Голосовое управление Security ожидает JARVIS.
+2026-09-07 07:26:47,652 | INFO | JARVIS.SecurityBootstrap | [8/9] Запуск Security IPC Server...
+2026-09-07 07:26:47,658 | INFO | JARVIS.SecurityBootstrap | Security IPC Server запущен.
+2026-09-07 07:26:47,658 | INFO | JARVIS.SecurityBootstrap | Адрес: 127.0.0.1:8765
+2026-09-07 07:26:47,658 | INFO | JARVIS.SecurityBootstrap | [9/9] Загрузка Security Interface...
+2026-09-07 07:26:47,900 | INFO | JARVIS.SecurityBootstrap | Security Interface загружен.
+2026-09-07 07:26:47,901 | INFO | JARVIS.SecurityBootstrap | Проверка собранной Security-системы...
+2026-09-07 07:26:47,901 | INFO | JARVIS.SecurityBootstrap | Проверка компонентов завершена успешно.
+2026-09-07 07:26:47,901 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-07 07:26:47,901 | INFO | JARVIS.SecurityBootstrap | SECURITY УСПЕШНО ЗАПУЩЕН.
+2026-09-07 07:26:47,901 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-07 07:26:47,901 | INFO | JARVIS.SecurityBootstrap | Security IPC Server: 127.0.0.1:8765
+2026-09-07 07:26:47,901 | INFO | JARVIS.SecurityBootstrap | Голосовое управление ожидает подключения JARVIS.
+2026-09-07 07:26:47,901 | INFO | JARVIS.SecurityBootstrap | Все основные компоненты загружены.
+2026-09-07 07:26:47,901 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-07 07:26:47,901 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-07 07:26:47,901 | INFO | JARVIS.SecurityBootstrap | Запуск Security Interface...
+2026-09-07 22:03:17,390 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-07 22:03:17,392 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-07 22:03:17,392 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 2.1
+2026-09-07 22:03:17,392 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-07 22:03:17,392 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-07 22:03:17,392 | INFO | JARVIS.SecurityBootstrap | [1/9] Загрузка Security Core...
+2026-09-07 22:03:17,444 | INFO | JARVIS.SecurityBootstrap | Security Core V2.3 загружен.
+2026-09-07 22:03:17,444 | INFO | JARVIS.SecurityBootstrap | [2/9] Загрузка Security Orchestrator...
+2026-09-07 22:03:17,447 | INFO | JARVIS.SecurityBootstrap | Security Orchestrator V2.4 загружен.
+2026-09-07 22:03:17,447 | INFO | JARVIS.SecurityBootstrap | [3/9] Загрузка Security V3...
+2026-09-07 22:03:17,450 | INFO | JARVIS.SecurityBootstrap | Detection Engine V3.6 загружен.
+2026-09-07 22:03:17,452 | INFO | JARVIS.SecurityBootstrap | IOC Engine V3.5 загружен.
+2026-09-07 22:03:17,455 | INFO | JARVIS.SecurityBootstrap | Correlation Engine V3.0 загружен.
+2026-09-07 22:03:17,457 | INFO | JARVIS.SecurityBootstrap | Threat Chain V3.2 загружен.
+2026-09-07 22:03:17,459 | INFO | JARVIS.SecurityBootstrap | Risk Engine V3.1 загружен.
+2026-09-07 22:03:17,461 | INFO | JARVIS.SecurityBootstrap | Incident Manager V3.3 загружен.
+2026-09-07 22:03:17,462 | INFO | JARVIS.SecurityBootstrap | Security Event Store V3.4 загружен.
+2026-09-07 22:03:17,462 | INFO | JARVIS.SecurityBootstrap | [4/9] Сборка Security V4...
+2026-09-07 22:03:17,465 | INFO | JARVIS.SecurityBootstrap | Security Pipeline V4.0 загружен.
+2026-09-07 22:03:17,467 | INFO | JARVIS.SecurityBootstrap | Decision Engine V4.1 загружен.
+2026-09-07 22:03:17,469 | INFO | JARVIS.SecurityBootstrap | Response Engine V4.2 загружен.
+2026-09-07 22:03:17,472 | INFO | JARVIS.SecurityBootstrap | Security Policy V4.3 загружен.
+2026-09-07 22:03:17,474 | INFO | JARVIS.SecurityBootstrap | Security Controller V4.4 загружен.
+2026-09-07 22:03:17,474 | INFO | JARVIS.SecurityBootstrap | [5/9] Загрузка Security V6...
+2026-09-07 22:03:17,476 | INFO | JARVIS.SecurityBootstrap | Security Automation V6.0 загружен.
+2026-09-07 22:03:17,478 | INFO | JARVIS.SecurityBootstrap | Auto Response V6.1 загружен.
+2026-09-07 22:03:17,480 | INFO | JARVIS.SecurityBootstrap | Remediation Engine V6.2 загружен.
+2026-09-07 22:03:17,483 | INFO | JARVIS.SecurityBootstrap | Recovery Manager V6.3 загружен.
+2026-09-07 22:03:17,483 | INFO | JARVIS.SecurityBootstrap | [6/9] Загрузка Security API...
+2026-09-07 22:03:17,489 | INFO | JARVIS.SecurityBootstrap | Security API V7.0 загружен.
+2026-09-07 22:03:17,489 | INFO | JARVIS.SecurityBootstrap | [7/9] Загрузка Security V8...
+2026-09-07 22:03:17,491 | INFO | JARVIS.SecurityBootstrap | Security Notifications загружены.
+2026-09-07 22:03:17,502 | INFO | JARVIS.SecurityBootstrap | Security Alert Manager V8.3 загружен.
+2026-09-07 22:03:17,505 | INFO | JARVIS.SecurityBootstrap | JARVIS Security Bridge V8.0 загружен.
+2026-09-07 22:03:17,507 | INFO | JARVIS.SecurityBootstrap | Security Command Handler V8.1 загружен.
+2026-09-07 22:03:17,511 | INFO | JARVIS.SecurityBootstrap | Security Voice Interface V8.2 загружен.
+2026-09-07 22:03:17,511 | INFO | JARVIS.SecurityBootstrap | Голосовое управление Security ожидает JARVIS.
+2026-09-07 22:03:17,511 | INFO | JARVIS.SecurityBootstrap | [8/9] Запуск Security IPC Server...
+2026-09-07 22:03:17,523 | INFO | JARVIS.SecurityBootstrap | Security IPC Server запущен.
+2026-09-07 22:03:17,525 | INFO | JARVIS.SecurityBootstrap | Адрес: 127.0.0.1:8765
+2026-09-07 22:03:17,525 | INFO | JARVIS.SecurityBootstrap | [9/9] Загрузка Security Interface...
+2026-09-07 22:03:17,923 | INFO | JARVIS.SecurityBootstrap | Security Interface загружен.
+2026-09-07 22:03:17,923 | INFO | JARVIS.SecurityBootstrap | Проверка собранной Security-системы...
+2026-09-07 22:03:17,923 | INFO | JARVIS.SecurityBootstrap | Проверка компонентов завершена успешно.
+2026-09-07 22:03:17,923 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-07 22:03:17,923 | INFO | JARVIS.SecurityBootstrap | SECURITY УСПЕШНО ЗАПУЩЕН.
+2026-09-07 22:03:17,923 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-07 22:03:17,923 | INFO | JARVIS.SecurityBootstrap | Security IPC Server: 127.0.0.1:8765
+2026-09-07 22:03:17,923 | INFO | JARVIS.SecurityBootstrap | Голосовое управление ожидает подключения JARVIS.
+2026-09-07 22:03:17,923 | INFO | JARVIS.SecurityBootstrap | Все основные компоненты загружены.
+2026-09-07 22:03:17,923 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-07 22:03:17,923 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-07 22:03:17,924 | INFO | JARVIS.SecurityBootstrap | Запуск Security Interface...
+2026-09-08 07:30:41,705 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-08 07:30:41,705 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-08 07:30:41,705 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 2.1
+2026-09-08 07:30:41,705 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-08 07:30:41,705 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-08 07:30:41,705 | INFO | JARVIS.SecurityBootstrap | [1/9] Загрузка Security Core...
+2026-09-08 07:30:41,750 | INFO | JARVIS.SecurityBootstrap | Security Core V2.3 загружен.
+2026-09-08 07:30:41,750 | INFO | JARVIS.SecurityBootstrap | [2/9] Загрузка Security Orchestrator...
+2026-09-08 07:30:41,751 | INFO | JARVIS.SecurityBootstrap | Security Orchestrator V2.4 загружен.
+2026-09-08 07:30:41,751 | INFO | JARVIS.SecurityBootstrap | [3/9] Загрузка Security V3...
+2026-09-08 07:30:41,752 | INFO | JARVIS.SecurityBootstrap | Detection Engine V3.6 загружен.
+2026-09-08 07:30:41,753 | INFO | JARVIS.SecurityBootstrap | IOC Engine V3.5 загружен.
+2026-09-08 07:30:41,755 | INFO | JARVIS.SecurityBootstrap | Correlation Engine V3.0 загружен.
+2026-09-08 07:30:41,758 | INFO | JARVIS.SecurityBootstrap | Threat Chain V3.2 загружен.
+2026-09-08 07:30:41,759 | INFO | JARVIS.SecurityBootstrap | Risk Engine V3.1 загружен.
+2026-09-08 07:30:41,760 | INFO | JARVIS.SecurityBootstrap | Incident Manager V3.3 загружен.
+2026-09-08 07:30:41,761 | INFO | JARVIS.SecurityBootstrap | Security Event Store V3.4 загружен.
+2026-09-08 07:30:41,761 | INFO | JARVIS.SecurityBootstrap | [4/9] Сборка Security V4...
+2026-09-08 07:30:41,762 | INFO | JARVIS.SecurityBootstrap | Security Pipeline V4.0 загружен.
+2026-09-08 07:30:41,763 | INFO | JARVIS.SecurityBootstrap | Decision Engine V4.1 загружен.
+2026-09-08 07:30:41,764 | INFO | JARVIS.SecurityBootstrap | Response Engine V4.2 загружен.
+2026-09-08 07:30:41,765 | INFO | JARVIS.SecurityBootstrap | Security Policy V4.3 загружен.
+2026-09-08 07:30:41,766 | INFO | JARVIS.SecurityBootstrap | Security Controller V4.4 загружен.
+2026-09-08 07:30:41,766 | INFO | JARVIS.SecurityBootstrap | [5/9] Загрузка Security V6...
+2026-09-08 07:30:41,767 | INFO | JARVIS.SecurityBootstrap | Security Automation V6.0 загружен.
+2026-09-08 07:30:41,768 | INFO | JARVIS.SecurityBootstrap | Auto Response V6.1 загружен.
+2026-09-08 07:30:41,769 | INFO | JARVIS.SecurityBootstrap | Remediation Engine V6.2 загружен.
+2026-09-08 07:30:41,770 | INFO | JARVIS.SecurityBootstrap | Recovery Manager V6.3 загружен.
+2026-09-08 07:30:41,770 | INFO | JARVIS.SecurityBootstrap | [6/9] Загрузка Security API...
+2026-09-08 07:30:41,772 | INFO | JARVIS.SecurityBootstrap | Security API V7.0 загружен.
+2026-09-08 07:30:41,772 | INFO | JARVIS.SecurityBootstrap | [7/9] Загрузка Security V8...
+2026-09-08 07:30:41,774 | INFO | JARVIS.SecurityBootstrap | Security Notifications загружены.
+2026-09-08 07:30:41,782 | INFO | JARVIS.SecurityBootstrap | Security Alert Manager V8.3 загружен.
+2026-09-08 07:30:41,784 | INFO | JARVIS.SecurityBootstrap | JARVIS Security Bridge V8.0 загружен.
+2026-09-08 07:30:41,785 | INFO | JARVIS.SecurityBootstrap | Security Command Handler V8.1 загружен.
+2026-09-08 07:30:41,789 | INFO | JARVIS.SecurityBootstrap | Security Voice Interface V8.2 загружен.
+2026-09-08 07:30:41,789 | INFO | JARVIS.SecurityBootstrap | Голосовое управление Security ожидает JARVIS.
+2026-09-08 07:30:41,789 | INFO | JARVIS.SecurityBootstrap | [8/9] Запуск Security IPC Server...
+2026-09-08 07:30:41,797 | INFO | JARVIS.SecurityBootstrap | Security IPC Server запущен.
+2026-09-08 07:30:41,797 | INFO | JARVIS.SecurityBootstrap | Адрес: 127.0.0.1:8765
+2026-09-08 07:30:41,797 | INFO | JARVIS.SecurityBootstrap | [9/9] Загрузка Security Interface...
+2026-09-08 07:30:42,157 | INFO | JARVIS.SecurityBootstrap | Security Interface загружен.
+2026-09-08 07:30:42,157 | INFO | JARVIS.SecurityBootstrap | Проверка собранной Security-системы...
+2026-09-08 07:30:42,157 | INFO | JARVIS.SecurityBootstrap | Проверка компонентов завершена успешно.
+2026-09-08 07:30:42,158 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-08 07:30:42,158 | INFO | JARVIS.SecurityBootstrap | SECURITY УСПЕШНО ЗАПУЩЕН.
+2026-09-08 07:30:42,158 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-08 07:30:42,158 | INFO | JARVIS.SecurityBootstrap | Security IPC Server: 127.0.0.1:8765
+2026-09-08 07:30:42,158 | INFO | JARVIS.SecurityBootstrap | Голосовое управление ожидает подключения JARVIS.
+2026-09-08 07:30:42,158 | INFO | JARVIS.SecurityBootstrap | Все основные компоненты загружены.
+2026-09-08 07:30:42,158 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-08 07:30:42,158 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-08 07:30:42,158 | INFO | JARVIS.SecurityBootstrap | Запуск Security Interface...
+2026-09-08 07:33:15,138 | INFO | JARVIS.SecurityBootstrap | Остановка Security...
+2026-09-08 07:33:15,138 | INFO | JARVIS.SecurityBootstrap | Security IPC Server остановлен.
+2026-09-08 07:33:15,139 | INFO | JARVIS.SecurityBootstrap | Security остановлен.
+2026-09-08 07:33:15,139 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY STOP
+2026-09-08 07:47:36,066 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-08 07:47:36,067 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-08 07:47:36,067 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 2.1
+2026-09-08 07:47:36,067 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-08 07:47:36,067 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-08 07:47:36,067 | INFO | JARVIS.SecurityBootstrap | [1/9] Загрузка Security Core...
+2026-09-08 07:47:36,093 | INFO | JARVIS.SecurityBootstrap | Security Core V2.3 загружен.
+2026-09-08 07:47:36,093 | INFO | JARVIS.SecurityBootstrap | [2/9] Загрузка Security Orchestrator...
+2026-09-08 07:47:36,094 | INFO | JARVIS.SecurityBootstrap | Security Orchestrator V2.4 загружен.
+2026-09-08 07:47:36,094 | INFO | JARVIS.SecurityBootstrap | [3/9] Загрузка Security V3...
+2026-09-08 07:47:36,095 | INFO | JARVIS.SecurityBootstrap | Detection Engine V3.6 загружен.
+2026-09-08 07:47:36,095 | INFO | JARVIS.SecurityBootstrap | IOC Engine V3.5 загружен.
+2026-09-08 07:47:36,096 | INFO | JARVIS.SecurityBootstrap | Correlation Engine V3.0 загружен.
+2026-09-08 07:47:36,097 | INFO | JARVIS.SecurityBootstrap | Threat Chain V3.2 загружен.
+2026-09-08 07:47:36,097 | INFO | JARVIS.SecurityBootstrap | Risk Engine V3.1 загружен.
+2026-09-08 07:47:36,097 | INFO | JARVIS.SecurityBootstrap | Incident Manager V3.3 загружен.
+2026-09-08 07:47:36,098 | INFO | JARVIS.SecurityBootstrap | Security Event Store V3.4 загружен.
+2026-09-08 07:47:36,098 | INFO | JARVIS.SecurityBootstrap | [4/9] Сборка Security V4...
+2026-09-08 07:47:36,098 | INFO | JARVIS.SecurityBootstrap | Security Pipeline V4.0 загружен.
+2026-09-08 07:47:36,099 | INFO | JARVIS.SecurityBootstrap | Decision Engine V4.1 загружен.
+2026-09-08 07:47:36,099 | INFO | JARVIS.SecurityBootstrap | Response Engine V4.2 загружен.
+2026-09-08 07:47:36,100 | INFO | JARVIS.SecurityBootstrap | Security Policy V4.3 загружен.
+2026-09-08 07:47:36,100 | INFO | JARVIS.SecurityBootstrap | Security Controller V4.4 загружен.
+2026-09-08 07:47:36,100 | INFO | JARVIS.SecurityBootstrap | [5/9] Загрузка Security V6...
+2026-09-08 07:47:36,101 | INFO | JARVIS.SecurityBootstrap | Security Automation V6.0 загружен.
+2026-09-08 07:47:36,101 | INFO | JARVIS.SecurityBootstrap | Auto Response V6.1 загружен.
+2026-09-08 07:47:36,101 | INFO | JARVIS.SecurityBootstrap | Remediation Engine V6.2 загружен.
+2026-09-08 07:47:36,102 | INFO | JARVIS.SecurityBootstrap | Recovery Manager V6.3 загружен.
+2026-09-08 07:47:36,102 | INFO | JARVIS.SecurityBootstrap | [6/9] Загрузка Security API...
+2026-09-08 07:47:36,102 | INFO | JARVIS.SecurityBootstrap | Security API V7.0 загружен.
+2026-09-08 07:47:36,102 | INFO | JARVIS.SecurityBootstrap | [7/9] Загрузка Security V8...
+2026-09-08 07:47:36,103 | INFO | JARVIS.SecurityBootstrap | Security Notifications загружены.
+2026-09-08 07:47:36,110 | INFO | JARVIS.SecurityBootstrap | Security Alert Manager V8.3 загружен.
+2026-09-08 07:47:36,111 | INFO | JARVIS.SecurityBootstrap | JARVIS Security Bridge V8.0 загружен.
+2026-09-08 07:47:36,111 | INFO | JARVIS.SecurityBootstrap | Security Command Handler V8.1 загружен.
+2026-09-08 07:47:36,113 | INFO | JARVIS.SecurityBootstrap | Security Voice Interface V8.2 загружен.
+2026-09-08 07:47:36,113 | INFO | JARVIS.SecurityBootstrap | Голосовое управление Security ожидает JARVIS.
+2026-09-08 07:47:36,113 | INFO | JARVIS.SecurityBootstrap | [8/9] Запуск Security IPC Server...
+2026-09-08 07:47:36,118 | INFO | JARVIS.SecurityBootstrap | Security IPC Server запущен.
+2026-09-08 07:47:36,118 | INFO | JARVIS.SecurityBootstrap | Адрес: 127.0.0.1:8765
+2026-09-08 07:47:36,118 | INFO | JARVIS.SecurityBootstrap | [9/9] Загрузка Security Interface...
+2026-09-08 07:47:36,370 | INFO | JARVIS.SecurityBootstrap | Security Interface загружен.
+2026-09-08 07:47:36,370 | INFO | JARVIS.SecurityBootstrap | Проверка собранной Security-системы...
+2026-09-08 07:47:36,370 | INFO | JARVIS.SecurityBootstrap | Проверка компонентов завершена успешно.
+2026-09-08 07:47:36,370 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-08 07:47:36,370 | INFO | JARVIS.SecurityBootstrap | SECURITY УСПЕШНО ЗАПУЩЕН.
+2026-09-08 07:47:36,370 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-08 07:47:36,370 | INFO | JARVIS.SecurityBootstrap | Security IPC Server: 127.0.0.1:8765
+2026-09-08 07:47:36,370 | INFO | JARVIS.SecurityBootstrap | Голосовое управление ожидает подключения JARVIS.
+2026-09-08 07:47:36,370 | INFO | JARVIS.SecurityBootstrap | Все основные компоненты загружены.
+2026-09-08 07:47:36,370 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-08 07:47:36,370 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-08 07:47:36,371 | INFO | JARVIS.SecurityBootstrap | Запуск Security Interface...
+2026-09-08 07:52:33,326 | INFO | JARVIS.SecurityBootstrap | Получен системный сигнал: 2
+2026-09-08 07:52:36,807 | INFO | JARVIS.SecurityBootstrap | Остановка Security...
+2026-09-08 07:52:36,807 | INFO | JARVIS.SecurityBootstrap | Security IPC Server остановлен.
+2026-09-08 07:52:36,808 | INFO | JARVIS.SecurityBootstrap | Security остановлен.
+2026-09-08 07:52:36,808 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY STOP
+2026-09-08 07:58:37,856 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-08 07:58:37,856 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY START
+2026-09-08 07:58:37,856 | INFO | JARVIS.SecurityBootstrap | Security Bootstrap version: 2.1
+2026-09-08 07:58:37,856 | INFO | JARVIS.SecurityBootstrap | Security directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\SECURITY
+2026-09-08 07:58:37,856 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-08 07:58:37,856 | INFO | JARVIS.SecurityBootstrap | [1/9] Загрузка Security Core...
+2026-09-08 07:58:37,883 | INFO | JARVIS.SecurityBootstrap | Security Core V2.3 загружен.
+2026-09-08 07:58:37,883 | INFO | JARVIS.SecurityBootstrap | [2/9] Загрузка Security Orchestrator...
+2026-09-08 07:58:37,884 | INFO | JARVIS.SecurityBootstrap | Security Orchestrator V2.4 загружен.
+2026-09-08 07:58:37,884 | INFO | JARVIS.SecurityBootstrap | [3/9] Загрузка Security V3...
+2026-09-08 07:58:37,884 | INFO | JARVIS.SecurityBootstrap | Detection Engine V3.6 загружен.
+2026-09-08 07:58:37,885 | INFO | JARVIS.SecurityBootstrap | IOC Engine V3.5 загружен.
+2026-09-08 07:58:37,886 | INFO | JARVIS.SecurityBootstrap | Correlation Engine V3.0 загружен.
+2026-09-08 07:58:37,886 | INFO | JARVIS.SecurityBootstrap | Threat Chain V3.2 загружен.
+2026-09-08 07:58:37,887 | INFO | JARVIS.SecurityBootstrap | Risk Engine V3.1 загружен.
+2026-09-08 07:58:37,887 | INFO | JARVIS.SecurityBootstrap | Incident Manager V3.3 загружен.
+2026-09-08 07:58:37,888 | INFO | JARVIS.SecurityBootstrap | Security Event Store V3.4 загружен.
+2026-09-08 07:58:37,888 | INFO | JARVIS.SecurityBootstrap | [4/9] Сборка Security V4...
+2026-09-08 07:58:37,888 | INFO | JARVIS.SecurityBootstrap | Security Pipeline V4.0 загружен.
+2026-09-08 07:58:37,889 | INFO | JARVIS.SecurityBootstrap | Decision Engine V4.1 загружен.
+2026-09-08 07:58:37,889 | INFO | JARVIS.SecurityBootstrap | Response Engine V4.2 загружен.
+2026-09-08 07:58:37,890 | INFO | JARVIS.SecurityBootstrap | Security Policy V4.3 загружен.
+2026-09-08 07:58:37,890 | INFO | JARVIS.SecurityBootstrap | Security Controller V4.4 загружен.
+2026-09-08 07:58:37,890 | INFO | JARVIS.SecurityBootstrap | [5/9] Загрузка Security V6...
+2026-09-08 07:58:37,891 | INFO | JARVIS.SecurityBootstrap | Security Automation V6.0 загружен.
+2026-09-08 07:58:37,891 | INFO | JARVIS.SecurityBootstrap | Auto Response V6.1 загружен.
+2026-09-08 07:58:37,891 | INFO | JARVIS.SecurityBootstrap | Remediation Engine V6.2 загружен.
+2026-09-08 07:58:37,892 | INFO | JARVIS.SecurityBootstrap | Recovery Manager V6.3 загружен.
+2026-09-08 07:58:37,892 | INFO | JARVIS.SecurityBootstrap | [6/9] Загрузка Security API...
+2026-09-08 07:58:37,892 | INFO | JARVIS.SecurityBootstrap | Security API V7.0 загружен.
+2026-09-08 07:58:37,892 | INFO | JARVIS.SecurityBootstrap | [7/9] Загрузка Security V8...
+2026-09-08 07:58:37,893 | INFO | JARVIS.SecurityBootstrap | Security Notifications загружены.
+2026-09-08 07:58:37,900 | INFO | JARVIS.SecurityBootstrap | Security Alert Manager V8.3 загружен.
+2026-09-08 07:58:37,901 | INFO | JARVIS.SecurityBootstrap | JARVIS Security Bridge V8.0 загружен.
+2026-09-08 07:58:37,901 | INFO | JARVIS.SecurityBootstrap | Security Command Handler V8.1 загружен.
+2026-09-08 07:58:37,903 | INFO | JARVIS.SecurityBootstrap | Security Voice Interface V8.2 загружен.
+2026-09-08 07:58:37,903 | INFO | JARVIS.SecurityBootstrap | Голосовое управление Security ожидает JARVIS.
+2026-09-08 07:58:37,903 | INFO | JARVIS.SecurityBootstrap | [8/9] Запуск Security IPC Server...
+2026-09-08 07:58:37,909 | INFO | JARVIS.SecurityBootstrap | Security IPC Server запущен.
+2026-09-08 07:58:37,909 | INFO | JARVIS.SecurityBootstrap | Адрес: 127.0.0.1:8765
+2026-09-08 07:58:37,909 | INFO | JARVIS.SecurityBootstrap | [9/9] Загрузка Security Interface...
+2026-09-08 07:58:38,150 | INFO | JARVIS.SecurityBootstrap | Security Interface загружен.
+2026-09-08 07:58:38,150 | INFO | JARVIS.SecurityBootstrap | Проверка собранной Security-системы...
+2026-09-08 07:58:38,150 | INFO | JARVIS.SecurityBootstrap | Проверка компонентов завершена успешно.
+2026-09-08 07:58:38,150 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-08 07:58:38,150 | INFO | JARVIS.SecurityBootstrap | SECURITY УСПЕШНО ЗАПУЩЕН.
+2026-09-08 07:58:38,150 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-08 07:58:38,150 | INFO | JARVIS.SecurityBootstrap | Security IPC Server: 127.0.0.1:8765
+2026-09-08 07:58:38,150 | INFO | JARVIS.SecurityBootstrap | Голосовое управление ожидает подключения JARVIS.
+2026-09-08 07:58:38,150 | INFO | JARVIS.SecurityBootstrap | Все основные компоненты загружены.
+2026-09-08 07:58:38,150 | INFO | JARVIS.SecurityBootstrap | ======================================================================
+2026-09-08 07:58:38,150 | INFO | JARVIS.SecurityBootstrap | Security работает независимо от JARVIS.
+2026-09-08 07:58:38,150 | INFO | JARVIS.SecurityBootstrap | Запуск Security Interface...
+2026-09-08 08:19:53,282 | INFO | JARVIS.SecurityBootstrap | Остановка Security...
+2026-09-08 08:19:53,282 | INFO | JARVIS.SecurityBootstrap | Security IPC Server остановлен.
+2026-09-08 08:19:53,282 | INFO | JARVIS.SecurityBootstrap | Security остановлен.
+2026-09-08 08:19:53,282 | INFO | JARVIS.SecurityBootstrap | JARVIS SECURITY STOP

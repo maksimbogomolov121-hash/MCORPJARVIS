@@ -1,0 +1,2083 @@
+{
+    "tool": "JARVIS USB prepare_usb.py",
+    "report_version": "1.0",
+    "analysis_started": "2026-09-08T13:11:32.730957",
+    "analysis_finished": "2026-09-08T13:11:34.829125",
+    "paths": {
+        "project_dir": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11",
+        "usb_dir": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB"
+    },
+    "system": {
+        "os": "Windows",
+        "os_version": "10.0.26200",
+        "platform": "Windows-11-10.0.26200-SP0",
+        "architecture": "64bit",
+        "machine": "AMD64"
+    },
+    "python": {
+        "python_executable": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\.venv\\Scripts\\python.exe",
+        "python_version": "3.12.10",
+        "python_implementation": "CPython",
+        "architecture": "64bit",
+        "platform": "Windows-11-10.0.26200-SP0",
+        "venv_path": null,
+        "venv_exists": false,
+        "venv_size_bytes": 0,
+        "venv_size_human": "0 B"
+    },
+    "packages": {
+        "count": 142,
+        "important": {
+            "torch": {
+                "installed": true,
+                "name": "torch",
+                "version": "2.13.0"
+            },
+            "torchaudio": {
+                "installed": true,
+                "name": "torchaudio",
+                "version": "2.11.0"
+            },
+            "numpy": {
+                "installed": true,
+                "name": "numpy",
+                "version": "2.4.4"
+            },
+            "scipy": {
+                "installed": true,
+                "name": "scipy",
+                "version": "1.18.0"
+            },
+            "librosa": {
+                "installed": true,
+                "name": "librosa",
+                "version": "1.0.0"
+            },
+            "vosk": {
+                "installed": true,
+                "name": "vosk",
+                "version": "0.3.45"
+            },
+            "SpeechRecognition": {
+                "installed": true,
+                "name": "SpeechRecognition",
+                "version": "3.15.1"
+            },
+            "PyAudio": {
+                "installed": true,
+                "name": "PyAudio",
+                "version": "0.2.14"
+            },
+            "sounddevice": {
+                "installed": true,
+                "name": "sounddevice",
+                "version": "0.5.5"
+            },
+            "soundfile": {
+                "installed": true,
+                "name": "soundfile",
+                "version": "0.14.0"
+            },
+            "pyttsx3": {
+                "installed": true,
+                "name": "pyttsx3",
+                "version": "2.99"
+            },
+            "pycaw": {
+                "installed": true,
+                "name": "pycaw",
+                "version": "20251023"
+            },
+            "pywin32": {
+                "installed": true,
+                "name": "pywin32",
+                "version": "311"
+            },
+            "PyAutoGUI": {
+                "installed": true,
+                "name": "PyAutoGUI",
+                "version": "0.9.54"
+            },
+            "Kivy": {
+                "installed": true,
+                "name": "Kivy",
+                "version": "2.3.1"
+            },
+            "google-genai": {
+                "installed": true,
+                "name": "google-genai",
+                "version": "2.0.1"
+            },
+            "silero": {
+                "installed": true,
+                "name": "silero",
+                "version": "0.5.5"
+            }
+        },
+        "all": [
+            {
+                "name": "altgraph",
+                "version": "0.17.5"
+            },
+            {
+                "name": "annotated-types",
+                "version": "0.7.0"
+            },
+            {
+                "name": "antlr4-python3-runtime",
+                "version": "4.9.3"
+            },
+            {
+                "name": "anyio",
+                "version": "4.13.0"
+            },
+            {
+                "name": "asgiref",
+                "version": "3.10.0"
+            },
+            {
+                "name": "attrs",
+                "version": "25.4.0"
+            },
+            {
+                "name": "autobahn",
+                "version": "25.12.1"
+            },
+            {
+                "name": "Automat",
+                "version": "25.4.16"
+            },
+            {
+                "name": "babel",
+                "version": "2.17.0"
+            },
+            {
+                "name": "backrefs",
+                "version": "6.1"
+            },
+            {
+                "name": "beautifulsoup4",
+                "version": "4.14.3"
+            },
+            {
+                "name": "black",
+                "version": "25.11.0"
+            },
+            {
+                "name": "cbor2",
+                "version": "5.7.1"
+            },
+            {
+                "name": "cement",
+                "version": "2.6.2"
+            },
+            {
+                "name": "certifi",
+                "version": "2025.11.12"
+            },
+            {
+                "name": "cffi",
+                "version": "2.0.0"
+            },
+            {
+                "name": "charset-normalizer",
+                "version": "3.4.4"
+            },
+            {
+                "name": "click",
+                "version": "8.3.1"
+            },
+            {
+                "name": "colorama",
+                "version": "0.4.6"
+            },
+            {
+                "name": "comtypes",
+                "version": "1.4.16"
+            },
+            {
+                "name": "constantly",
+                "version": "23.10.4"
+            },
+            {
+                "name": "cryptography",
+                "version": "46.0.3"
+            },
+            {
+                "name": "daphne",
+                "version": "4.2.1"
+            },
+            {
+                "name": "decorator",
+                "version": "5.3.1"
+            },
+            {
+                "name": "distro",
+                "version": "1.9.0"
+            },
+            {
+                "name": "Django",
+                "version": "5.2.8"
+            },
+            {
+                "name": "docutils",
+                "version": "0.22.4"
+            },
+            {
+                "name": "droopescan",
+                "version": "1.45.1"
+            },
+            {
+                "name": "filelock",
+                "version": "3.32.4"
+            },
+            {
+                "name": "filetype",
+                "version": "1.2.0"
+            },
+            {
+                "name": "fsspec",
+                "version": "2026.7.0"
+            },
+            {
+                "name": "ghp-import",
+                "version": "2.1.0"
+            },
+            {
+                "name": "google-auth",
+                "version": "2.52.0"
+            },
+            {
+                "name": "google-genai",
+                "version": "2.0.1"
+            },
+            {
+                "name": "h11",
+                "version": "0.16.0"
+            },
+            {
+                "name": "httpcore",
+                "version": "1.0.9"
+            },
+            {
+                "name": "httpx",
+                "version": "0.28.1"
+            },
+            {
+                "name": "hyperlink",
+                "version": "21.0.0"
+            },
+            {
+                "name": "idna",
+                "version": "3.11"
+            },
+            {
+                "name": "Incremental",
+                "version": "24.11.0"
+            },
+            {
+                "name": "instaloader",
+                "version": "4.15"
+            },
+            {
+                "name": "Jinja2",
+                "version": "3.1.6"
+            },
+            {
+                "name": "joblib",
+                "version": "1.5.3"
+            },
+            {
+                "name": "Kivy",
+                "version": "2.3.1"
+            },
+            {
+                "name": "kivy-deps.angle",
+                "version": "0.4.0"
+            },
+            {
+                "name": "kivy-deps.glew",
+                "version": "0.3.1"
+            },
+            {
+                "name": "Kivy-Garden",
+                "version": "0.1.5"
+            },
+            {
+                "name": "kivy_deps.sdl2",
+                "version": "0.8.0"
+            },
+            {
+                "name": "lazy-loader",
+                "version": "0.5"
+            },
+            {
+                "name": "librosa",
+                "version": "1.0.0"
+            },
+            {
+                "name": "llvmlite",
+                "version": "0.49.0"
+            },
+            {
+                "name": "Markdown",
+                "version": "3.10"
+            },
+            {
+                "name": "MarkupSafe",
+                "version": "3.0.3"
+            },
+            {
+                "name": "mergedeep",
+                "version": "1.3.4"
+            },
+            {
+                "name": "mkdocs",
+                "version": "1.6.1"
+            },
+            {
+                "name": "mkdocs-get-deps",
+                "version": "0.2.0"
+            },
+            {
+                "name": "mkdocs-material",
+                "version": "9.7.1"
+            },
+            {
+                "name": "mkdocs-material-extensions",
+                "version": "1.3.1"
+            },
+            {
+                "name": "MouseInfo",
+                "version": "0.1.3"
+            },
+            {
+                "name": "mpmath",
+                "version": "1.3.0"
+            },
+            {
+                "name": "msgpack",
+                "version": "1.1.2"
+            },
+            {
+                "name": "mypy_extensions",
+                "version": "1.1.0"
+            },
+            {
+                "name": "narwhals",
+                "version": "2.25.0"
+            },
+            {
+                "name": "networkx",
+                "version": "3.6.1"
+            },
+            {
+                "name": "numba",
+                "version": "0.67.0"
+            },
+            {
+                "name": "numpy",
+                "version": "2.4.4"
+            },
+            {
+                "name": "omegaconf",
+                "version": "2.3.1"
+            },
+            {
+                "name": "packaging",
+                "version": "25.0"
+            },
+            {
+                "name": "paginate",
+                "version": "0.5.7"
+            },
+            {
+                "name": "pathspec",
+                "version": "0.12.1"
+            },
+            {
+                "name": "pefile",
+                "version": "2024.8.26"
+            },
+            {
+                "name": "pip",
+                "version": "25.1.1"
+            },
+            {
+                "name": "platformdirs",
+                "version": "4.5.0"
+            },
+            {
+                "name": "playsound",
+                "version": "1.2.2"
+            },
+            {
+                "name": "pooch",
+                "version": "1.9.0"
+            },
+            {
+                "name": "psutil",
+                "version": "7.2.2"
+            },
+            {
+                "name": "py-ubjson",
+                "version": "0.16.1"
+            },
+            {
+                "name": "pyasn1",
+                "version": "0.6.1"
+            },
+            {
+                "name": "pyasn1_modules",
+                "version": "0.4.2"
+            },
+            {
+                "name": "PyAudio",
+                "version": "0.2.14"
+            },
+            {
+                "name": "PyAutoGUI",
+                "version": "0.9.54"
+            },
+            {
+                "name": "pycaw",
+                "version": "20251023"
+            },
+            {
+                "name": "pycparser",
+                "version": "2.23"
+            },
+            {
+                "name": "pydantic",
+                "version": "2.13.4"
+            },
+            {
+                "name": "pydantic_core",
+                "version": "2.46.4"
+            },
+            {
+                "name": "PyGetWindow",
+                "version": "0.0.9"
+            },
+            {
+                "name": "Pygments",
+                "version": "2.19.2"
+            },
+            {
+                "name": "pyinstaller",
+                "version": "6.18.0"
+            },
+            {
+                "name": "pyinstaller-hooks-contrib",
+                "version": "2025.11"
+            },
+            {
+                "name": "pymdown-extensions",
+                "version": "10.19.1"
+            },
+            {
+                "name": "PyMsgBox",
+                "version": "2.0.1"
+            },
+            {
+                "name": "pyOpenSSL",
+                "version": "25.3.0"
+            },
+            {
+                "name": "pyperclip",
+                "version": "1.11.0"
+            },
+            {
+                "name": "pypiwin32",
+                "version": "223"
+            },
+            {
+                "name": "PyRect",
+                "version": "0.2.0"
+            },
+            {
+                "name": "PyScreeze",
+                "version": "1.0.1"
+            },
+            {
+                "name": "pyserial",
+                "version": "3.5"
+            },
+            {
+                "name": "pystache",
+                "version": "0.6.8"
+            },
+            {
+                "name": "python-dateutil",
+                "version": "2.9.0.post0"
+            },
+            {
+                "name": "python-dotenv",
+                "version": "1.2.2"
+            },
+            {
+                "name": "pytokens",
+                "version": "0.3.0"
+            },
+            {
+                "name": "pyttsx3",
+                "version": "2.99"
+            },
+            {
+                "name": "pytweening",
+                "version": "1.2.0"
+            },
+            {
+                "name": "pywin32",
+                "version": "311"
+            },
+            {
+                "name": "pywin32-ctypes",
+                "version": "0.2.3"
+            },
+            {
+                "name": "PyYAML",
+                "version": "6.0.3"
+            },
+            {
+                "name": "pyyaml_env_tag",
+                "version": "1.1"
+            },
+            {
+                "name": "RapidFuzz",
+                "version": "3.14.5"
+            },
+            {
+                "name": "requests",
+                "version": "2.32.5"
+            },
+            {
+                "name": "scikit-learn",
+                "version": "1.9.0"
+            },
+            {
+                "name": "scipy",
+                "version": "1.18.0"
+            },
+            {
+                "name": "service-identity",
+                "version": "24.2.0"
+            },
+            {
+                "name": "setuptools",
+                "version": "80.9.0"
+            },
+            {
+                "name": "silero",
+                "version": "0.5.5"
+            },
+            {
+                "name": "six",
+                "version": "1.17.0"
+            },
+            {
+                "name": "sms",
+                "version": "0.4"
+            },
+            {
+                "name": "sniffio",
+                "version": "1.3.1"
+            },
+            {
+                "name": "sounddevice",
+                "version": "0.5.5"
+            },
+            {
+                "name": "soundfile",
+                "version": "0.14.0"
+            },
+            {
+                "name": "soupsieve",
+                "version": "2.8.1"
+            },
+            {
+                "name": "soxr",
+                "version": "1.1.0"
+            },
+            {
+                "name": "SpeechRecognition",
+                "version": "3.15.1"
+            },
+            {
+                "name": "sqlparse",
+                "version": "0.5.3"
+            },
+            {
+                "name": "srt",
+                "version": "3.5.3"
+            },
+            {
+                "name": "sympy",
+                "version": "1.14.0"
+            },
+            {
+                "name": "tenacity",
+                "version": "9.1.4"
+            },
+            {
+                "name": "threadpoolctl",
+                "version": "3.6.0"
+            },
+            {
+                "name": "torch",
+                "version": "2.13.0"
+            },
+            {
+                "name": "torchaudio",
+                "version": "2.11.0"
+            },
+            {
+                "name": "tqdm",
+                "version": "4.67.3"
+            },
+            {
+                "name": "Twisted",
+                "version": "25.5.0"
+            },
+            {
+                "name": "txaio",
+                "version": "25.12.2"
+            },
+            {
+                "name": "typing-inspection",
+                "version": "0.4.2"
+            },
+            {
+                "name": "typing_extensions",
+                "version": "4.15.0"
+            },
+            {
+                "name": "tzdata",
+                "version": "2025.2"
+            },
+            {
+                "name": "ujson",
+                "version": "5.11.0"
+            },
+            {
+                "name": "urllib3",
+                "version": "2.5.0"
+            },
+            {
+                "name": "vosk",
+                "version": "0.3.45"
+            },
+            {
+                "name": "watchdog",
+                "version": "6.0.0"
+            },
+            {
+                "name": "websockets",
+                "version": "16.0"
+            },
+            {
+                "name": "winshell",
+                "version": "0.6"
+            },
+            {
+                "name": "zope.interface",
+                "version": "8.1.1"
+            }
+        ]
+    },
+    "imports": {
+        "torch": {
+            "module": "torch",
+            "available": true
+        },
+        "torchaudio": {
+            "module": "torchaudio",
+            "available": true
+        },
+        "numpy": {
+            "module": "numpy",
+            "available": true
+        },
+        "scipy": {
+            "module": "scipy",
+            "available": true
+        },
+        "librosa": {
+            "module": "librosa",
+            "available": true
+        },
+        "vosk": {
+            "module": "vosk",
+            "available": true
+        },
+        "speech_recognition": {
+            "module": "speech_recognition",
+            "available": true
+        },
+        "pyaudio": {
+            "module": "pyaudio",
+            "available": true
+        },
+        "sounddevice": {
+            "module": "sounddevice",
+            "available": true
+        },
+        "soundfile": {
+            "module": "soundfile",
+            "available": true
+        },
+        "pyttsx3": {
+            "module": "pyttsx3",
+            "available": true
+        },
+        "pycaw": {
+            "module": "pycaw",
+            "available": true
+        },
+        "win32api": {
+            "module": "win32api",
+            "available": true
+        },
+        "pyautogui": {
+            "module": "pyautogui",
+            "available": true
+        },
+        "kivy": {
+            "module": "kivy",
+            "available": true
+        },
+        "google.genai": {
+            "module": "google.genai",
+            "available": true
+        },
+        "silero": {
+            "module": "silero",
+            "available": true
+        }
+    },
+    "models": [
+        {
+            "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\VOICE\\v5_ru.pt",
+            "relative_path": "VOICE\\v5_ru.pt",
+            "name": "v5_ru.pt",
+            "extension": ".pt",
+            "size_bytes": 145382211,
+            "size_human": "138.65 MB"
+        }
+    ],
+    "vosk": {
+        "directories": [
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\Models",
+                "size_bytes": 91289240,
+                "size_human": "87.06 MB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\MODELS",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\MODELS\\VOSK",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            }
+        ],
+        "files": [],
+        "vosk_package": {
+            "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\.venv\\Lib\\site-packages\\vosk",
+            "size_bytes": 54103003,
+            "size_human": "51.60 MB"
+        }
+    },
+    "silero": {
+        "models": [
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\VOICE\\v5_ru.pt",
+                "relative_path": "VOICE\\v5_ru.pt",
+                "name": "v5_ru.pt",
+                "size_bytes": 145382211,
+                "size_human": "138.65 MB"
+            }
+        ],
+        "packages": [
+            {
+                "name": "silero",
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\.venv\\Lib\\site-packages\\silero",
+                "size_bytes": 44001,
+                "size_human": "42.97 KB"
+            }
+        ]
+    },
+    "jarvis_files": {
+        "count": 142,
+        "files": [
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\config.py",
+                "relative_path": "config.py",
+                "name": "config.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\main.py",
+                "relative_path": "main.py",
+                "name": "main.py",
+                "size_bytes": 8971,
+                "size_human": "8.76 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\version.py",
+                "relative_path": "version.py",
+                "name": "version.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\API\\api.py",
+                "relative_path": "API\\api.py",
+                "name": "api.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\API\\integrations.py",
+                "relative_path": "API\\integrations.py",
+                "name": "integrations.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\API\\news_api.py",
+                "relative_path": "API\\news_api.py",
+                "name": "news_api.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\API\\weather_api.py",
+                "relative_path": "API\\weather_api.py",
+                "name": "weather_api.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\AUTOMATION\\chains.py",
+                "relative_path": "AUTOMATION\\chains.py",
+                "name": "chains.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\AUTOMATION\\macros.py",
+                "relative_path": "AUTOMATION\\macros.py",
+                "name": "macros.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\AUTOMATION\\smart_commands.py",
+                "relative_path": "AUTOMATION\\smart_commands.py",
+                "name": "smart_commands.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\AUTOMATION\\triggers.py",
+                "relative_path": "AUTOMATION\\triggers.py",
+                "name": "triggers.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\AUTOMATION\\workflow.py",
+                "relative_path": "AUTOMATION\\workflow.py",
+                "name": "workflow.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\CALENDAR\\calendar_core.py",
+                "relative_path": "CALENDAR\\calendar_core.py",
+                "name": "calendar_core.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\CALENDAR\\events.py",
+                "relative_path": "CALENDAR\\events.py",
+                "name": "events.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\CALENDAR\\planner.py",
+                "relative_path": "CALENDAR\\planner.py",
+                "name": "planner.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\CALENDAR\\reminder.py",
+                "relative_path": "CALENDAR\\reminder.py",
+                "name": "reminder.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\COMMANDS\\app_commands.py",
+                "relative_path": "COMMANDS\\app_commands.py",
+                "name": "app_commands.py",
+                "size_bytes": 7188,
+                "size_human": "7.02 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\COMMANDS\\browser_commands.py",
+                "relative_path": "COMMANDS\\browser_commands.py",
+                "name": "browser_commands.py",
+                "size_bytes": 3503,
+                "size_human": "3.42 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\COMMANDS\\command_handler.py",
+                "relative_path": "COMMANDS\\command_handler.py",
+                "name": "command_handler.py",
+                "size_bytes": 9148,
+                "size_human": "8.93 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\COMMANDS\\media_commands.py",
+                "relative_path": "COMMANDS\\media_commands.py",
+                "name": "media_commands.py",
+                "size_bytes": 12589,
+                "size_human": "12.29 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\COMMANDS\\media_controller.py",
+                "relative_path": "COMMANDS\\media_controller.py",
+                "name": "media_controller.py",
+                "size_bytes": 3396,
+                "size_human": "3.32 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\COMMANDS\\security_commands.py",
+                "relative_path": "COMMANDS\\security_commands.py",
+                "name": "security_commands.py",
+                "size_bytes": 9784,
+                "size_human": "9.55 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\COMMANDS\\system_commands.py",
+                "relative_path": "COMMANDS\\system_commands.py",
+                "name": "system_commands.py",
+                "size_bytes": 11529,
+                "size_human": "11.26 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\COMMANDS\\universal_open.py",
+                "relative_path": "COMMANDS\\universal_open.py",
+                "name": "universal_open.py",
+                "size_bytes": 18156,
+                "size_human": "17.73 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\COMMANDS\\utility_commands.py",
+                "relative_path": "COMMANDS\\utility_commands.py",
+                "name": "utility_commands.py",
+                "size_bytes": 6594,
+                "size_human": "6.44 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\COMMANDS\\volume_manager.py",
+                "relative_path": "COMMANDS\\volume_manager.py",
+                "name": "volume_manager.py",
+                "size_bytes": 5877,
+                "size_human": "5.74 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\CORE\\AI_brain.py",
+                "relative_path": "CORE\\AI_brain.py",
+                "name": "AI_brain.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\CORE\\context_engine.py",
+                "relative_path": "CORE\\context_engine.py",
+                "name": "context_engine.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\CORE\\events.py",
+                "relative_path": "CORE\\events.py",
+                "name": "events.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\CORE\\logger.py",
+                "relative_path": "CORE\\logger.py",
+                "name": "logger.py",
+                "size_bytes": 1286,
+                "size_human": "1.26 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\CORE\\memory.py",
+                "relative_path": "CORE\\memory.py",
+                "name": "memory.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\CORE\\startup.py",
+                "relative_path": "CORE\\startup.py",
+                "name": "startup.py",
+                "size_bytes": 1342,
+                "size_human": "1.31 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\CORE\\sсheduler.py",
+                "relative_path": "CORE\\sсheduler.py",
+                "name": "sсheduler.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\CREATIVE\\creative_AI.py",
+                "relative_path": "CREATIVE\\creative_AI.py",
+                "name": "creative_AI.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\CREATIVE\\image_generator.py",
+                "relative_path": "CREATIVE\\image_generator.py",
+                "name": "image_generator.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\CREATIVE\\logo_generator.py",
+                "relative_path": "CREATIVE\\logo_generator.py",
+                "name": "logo_generator.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\CREATIVE\\ui_designer.py",
+                "relative_path": "CREATIVE\\ui_designer.py",
+                "name": "ui_designer.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\DESKTOP\\active_target.py",
+                "relative_path": "DESKTOP\\active_target.py",
+                "name": "active_target.py",
+                "size_bytes": 6369,
+                "size_human": "6.22 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\DESKTOP\\desktop_vision.py",
+                "relative_path": "DESKTOP\\desktop_vision.py",
+                "name": "desktop_vision.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\DESKTOP\\install_jarvis_context_menu.py",
+                "relative_path": "DESKTOP\\install_jarvis_context_menu.py",
+                "name": "install_jarvis_context_menu.py",
+                "size_bytes": 4875,
+                "size_human": "4.76 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\DESKTOP\\jarvis_context_menu.py",
+                "relative_path": "DESKTOP\\jarvis_context_menu.py",
+                "name": "jarvis_context_menu.py",
+                "size_bytes": 5458,
+                "size_human": "5.33 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\DESKTOP\\object_detector.py",
+                "relative_path": "DESKTOP\\object_detector.py",
+                "name": "object_detector.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\DESKTOP\\screenshot.py",
+                "relative_path": "DESKTOP\\screenshot.py",
+                "name": "screenshot.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\DESKTOP\\ui_detector.py",
+                "relative_path": "DESKTOP\\ui_detector.py",
+                "name": "ui_detector.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\DEVELOPER\\code_generator.py",
+                "relative_path": "DEVELOPER\\code_generator.py",
+                "name": "code_generator.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\DEVELOPER\\debugger.py",
+                "relative_path": "DEVELOPER\\debugger.py",
+                "name": "debugger.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\DEVELOPER\\documentation.py",
+                "relative_path": "DEVELOPER\\documentation.py",
+                "name": "documentation.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\DEVELOPER\\optimizer.py",
+                "relative_path": "DEVELOPER\\optimizer.py",
+                "name": "optimizer.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\DEVELOPER\\project_builder.py",
+                "relative_path": "DEVELOPER\\project_builder.py",
+                "name": "project_builder.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\DEVELOPER\\tester.py",
+                "relative_path": "DEVELOPER\\tester.py",
+                "name": "tester.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\FINANCE\\analysis.py",
+                "relative_path": "FINANCE\\analysis.py",
+                "name": "analysis.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\FINANCE\\budget.py",
+                "relative_path": "FINANCE\\budget.py",
+                "name": "budget.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\FINANCE\\finance_AI.py",
+                "relative_path": "FINANCE\\finance_AI.py",
+                "name": "finance_AI.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\FINANCE\\goals.py",
+                "relative_path": "FINANCE\\goals.py",
+                "name": "goals.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\LEARNING\\habits.py",
+                "relative_path": "LEARNING\\habits.py",
+                "name": "habits.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\LEARNING\\knowledge_base.py",
+                "relative_path": "LEARNING\\knowledge_base.py",
+                "name": "knowledge_base.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\LEARNING\\learning_engine.py",
+                "relative_path": "LEARNING\\learning_engine.py",
+                "name": "learning_engine.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\LEARNING\\mentor.py",
+                "relative_path": "LEARNING\\mentor.py",
+                "name": "mentor.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\LEARNING\\progress.py",
+                "relative_path": "LEARNING\\progress.py",
+                "name": "progress.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\LEARNING\\recommendations.py",
+                "relative_path": "LEARNING\\recommendations.py",
+                "name": "recommendations.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\NEWS\\news_core.py",
+                "relative_path": "NEWS\\news_core.py",
+                "name": "news_core.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\NEWS\\parser.py",
+                "relative_path": "NEWS\\parser.py",
+                "name": "parser.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\NEWS\\recommendations.py",
+                "relative_path": "NEWS\\recommendations.py",
+                "name": "recommendations.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\NEWS\\summarizer.py",
+                "relative_path": "NEWS\\summarizer.py",
+                "name": "summarizer.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\auto_response.py",
+                "relative_path": "SECURITY\\auto_response.py",
+                "name": "auto_response.py",
+                "size_bytes": 20864,
+                "size_human": "20.38 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\behavior_engine.py",
+                "relative_path": "SECURITY\\behavior_engine.py",
+                "name": "behavior_engine.py",
+                "size_bytes": 14520,
+                "size_human": "14.18 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\correlation_engine.py",
+                "relative_path": "SECURITY\\correlation_engine.py",
+                "name": "correlation_engine.py",
+                "size_bytes": 23084,
+                "size_human": "22.54 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\decision_engine.py",
+                "relative_path": "SECURITY\\decision_engine.py",
+                "name": "decision_engine.py",
+                "size_bytes": 18565,
+                "size_human": "18.13 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\detection_engine.py",
+                "relative_path": "SECURITY\\detection_engine.py",
+                "name": "detection_engine.py",
+                "size_bytes": 41371,
+                "size_human": "40.40 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\dns_scanner.py",
+                "relative_path": "SECURITY\\dns_scanner.py",
+                "name": "dns_scanner.py",
+                "size_bytes": 13078,
+                "size_human": "12.77 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\firewall_scanner.py",
+                "relative_path": "SECURITY\\firewall_scanner.py",
+                "name": "firewall_scanner.py",
+                "size_bytes": 15281,
+                "size_human": "14.92 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\incident_manager.py",
+                "relative_path": "SECURITY\\incident_manager.py",
+                "name": "incident_manager.py",
+                "size_bytes": 28636,
+                "size_human": "27.96 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\ioc_engine.py",
+                "relative_path": "SECURITY\\ioc_engine.py",
+                "name": "ioc_engine.py",
+                "size_bytes": 38062,
+                "size_human": "37.17 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\jarvis_security_bridge.py",
+                "relative_path": "SECURITY\\jarvis_security_bridge.py",
+                "name": "jarvis_security_bridge.py",
+                "size_bytes": 37092,
+                "size_human": "36.22 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\network_scanner.py",
+                "relative_path": "SECURITY\\network_scanner.py",
+                "name": "network_scanner.py",
+                "size_bytes": 14377,
+                "size_human": "14.04 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\process_behavior.py",
+                "relative_path": "SECURITY\\process_behavior.py",
+                "name": "process_behavior.py",
+                "size_bytes": 15809,
+                "size_human": "15.44 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\process_scanner.py",
+                "relative_path": "SECURITY\\process_scanner.py",
+                "name": "process_scanner.py",
+                "size_bytes": 5996,
+                "size_human": "5.86 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\quarantine.py",
+                "relative_path": "SECURITY\\quarantine.py",
+                "name": "quarantine.py",
+                "size_bytes": 10889,
+                "size_human": "10.63 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\recovery_manager.py",
+                "relative_path": "SECURITY\\recovery_manager.py",
+                "name": "recovery_manager.py",
+                "size_bytes": 21141,
+                "size_human": "20.65 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\remediation_engine.py",
+                "relative_path": "SECURITY\\remediation_engine.py",
+                "name": "remediation_engine.py",
+                "size_bytes": 20524,
+                "size_human": "20.04 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\response_engine.py",
+                "relative_path": "SECURITY\\response_engine.py",
+                "name": "response_engine.py",
+                "size_bytes": 34329,
+                "size_human": "33.52 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\risk_engine.py",
+                "relative_path": "SECURITY\\risk_engine.py",
+                "name": "risk_engine.py",
+                "size_bytes": 13944,
+                "size_human": "13.62 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\scanner.py",
+                "relative_path": "SECURITY\\scanner.py",
+                "name": "scanner.py",
+                "size_bytes": 6872,
+                "size_human": "6.71 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\security_alert_manager.py",
+                "relative_path": "SECURITY\\security_alert_manager.py",
+                "name": "security_alert_manager.py",
+                "size_bytes": 49186,
+                "size_human": "48.03 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\security_api.py",
+                "relative_path": "SECURITY\\security_api.py",
+                "name": "security_api.py",
+                "size_bytes": 22089,
+                "size_human": "21.57 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\security_automation.py",
+                "relative_path": "SECURITY\\security_automation.py",
+                "name": "security_automation.py",
+                "size_bytes": 24092,
+                "size_human": "23.53 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\security_bootstrap.py",
+                "relative_path": "SECURITY\\security_bootstrap.py",
+                "name": "security_bootstrap.py",
+                "size_bytes": 39858,
+                "size_human": "38.92 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\security_command_handler.py",
+                "relative_path": "SECURITY\\security_command_handler.py",
+                "name": "security_command_handler.py",
+                "size_bytes": 45371,
+                "size_human": "44.31 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\security_controller.py",
+                "relative_path": "SECURITY\\security_controller.py",
+                "name": "security_controller.py",
+                "size_bytes": 13922,
+                "size_human": "13.60 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\security_core.py",
+                "relative_path": "SECURITY\\security_core.py",
+                "name": "security_core.py",
+                "size_bytes": 24851,
+                "size_human": "24.27 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\security_dashboard.py",
+                "relative_path": "SECURITY\\security_dashboard.py",
+                "name": "security_dashboard.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\security_event_store.py",
+                "relative_path": "SECURITY\\security_event_store.py",
+                "name": "security_event_store.py",
+                "size_bytes": 22515,
+                "size_human": "21.99 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\security_interface.py",
+                "relative_path": "SECURITY\\security_interface.py",
+                "name": "security_interface.py",
+                "size_bytes": 63402,
+                "size_human": "61.92 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\security_ipc_server.py",
+                "relative_path": "SECURITY\\security_ipc_server.py",
+                "name": "security_ipc_server.py",
+                "size_bytes": 28532,
+                "size_human": "27.86 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\security_logger.py",
+                "relative_path": "SECURITY\\security_logger.py",
+                "name": "security_logger.py",
+                "size_bytes": 8426,
+                "size_human": "8.23 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\security_notifications.py",
+                "relative_path": "SECURITY\\security_notifications.py",
+                "name": "security_notifications.py",
+                "size_bytes": 41634,
+                "size_human": "40.66 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\security_orchestrator.py",
+                "relative_path": "SECURITY\\security_orchestrator.py",
+                "name": "security_orchestrator.py",
+                "size_bytes": 17748,
+                "size_human": "17.33 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\security_pipeline.py",
+                "relative_path": "SECURITY\\security_pipeline.py",
+                "name": "security_pipeline.py",
+                "size_bytes": 36709,
+                "size_human": "35.85 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\security_policy.py",
+                "relative_path": "SECURITY\\security_policy.py",
+                "name": "security_policy.py",
+                "size_bytes": 27279,
+                "size_human": "26.64 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\security_report.py",
+                "relative_path": "SECURITY\\security_report.py",
+                "name": "security_report.py",
+                "size_bytes": 10694,
+                "size_human": "10.44 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\security_scheduler.py",
+                "relative_path": "SECURITY\\security_scheduler.py",
+                "name": "security_scheduler.py",
+                "size_bytes": 17422,
+                "size_human": "17.01 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\security_voice_interface.py",
+                "relative_path": "SECURITY\\security_voice_interface.py",
+                "name": "security_voice_interface.py",
+                "size_bytes": 67638,
+                "size_human": "66.05 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\startup_behavior.py",
+                "relative_path": "SECURITY\\startup_behavior.py",
+                "name": "startup_behavior.py",
+                "size_bytes": 17996,
+                "size_human": "17.57 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\startup_scanner.py",
+                "relative_path": "SECURITY\\startup_scanner.py",
+                "name": "startup_scanner.py",
+                "size_bytes": 6765,
+                "size_human": "6.61 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\threat_analyzer.py",
+                "relative_path": "SECURITY\\threat_analyzer.py",
+                "name": "threat_analyzer.py",
+                "size_bytes": 11059,
+                "size_human": "10.80 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\threat_chain.py",
+                "relative_path": "SECURITY\\threat_chain.py",
+                "name": "threat_chain.py",
+                "size_bytes": 25550,
+                "size_human": "24.95 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\usb_scanner.py",
+                "relative_path": "SECURITY\\usb_scanner.py",
+                "name": "usb_scanner.py",
+                "size_bytes": 6261,
+                "size_human": "6.11 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY\\__init__.py",
+                "relative_path": "SECURITY\\__init__.py",
+                "name": "__init__.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\STRATEGY\\decision_engine.py",
+                "relative_path": "STRATEGY\\decision_engine.py",
+                "name": "decision_engine.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\STRATEGY\\planner.py",
+                "relative_path": "STRATEGY\\planner.py",
+                "name": "planner.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\STRATEGY\\probability.py",
+                "relative_path": "STRATEGY\\probability.py",
+                "name": "probability.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\STRATEGY\\risk_analysis.py",
+                "relative_path": "STRATEGY\\risk_analysis.py",
+                "name": "risk_analysis.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\STRATEGY\\scenario_advisor.py",
+                "relative_path": "STRATEGY\\scenario_advisor.py",
+                "name": "scenario_advisor.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SYSTEM\\app_launcher.py",
+                "relative_path": "SYSTEM\\app_launcher.py",
+                "name": "app_launcher.py",
+                "size_bytes": 1992,
+                "size_human": "1.95 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SYSTEM\\backup_manager.py",
+                "relative_path": "SYSTEM\\backup_manager.py",
+                "name": "backup_manager.py",
+                "size_bytes": 1765,
+                "size_human": "1.72 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SYSTEM\\confirmation_manager.py",
+                "relative_path": "SYSTEM\\confirmation_manager.py",
+                "name": "confirmation_manager.py",
+                "size_bytes": 1200,
+                "size_human": "1.17 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SYSTEM\\disk_manager.py",
+                "relative_path": "SYSTEM\\disk_manager.py",
+                "name": "disk_manager.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SYSTEM\\file_manager.py",
+                "relative_path": "SYSTEM\\file_manager.py",
+                "name": "file_manager.py",
+                "size_bytes": 3772,
+                "size_human": "3.68 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SYSTEM\\jarvis_manager.py",
+                "relative_path": "SYSTEM\\jarvis_manager.py",
+                "name": "jarvis_manager.py",
+                "size_bytes": 655,
+                "size_human": "655.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SYSTEM\\night_mode.py",
+                "relative_path": "SYSTEM\\night_mode.py",
+                "name": "night_mode.py",
+                "size_bytes": 954,
+                "size_human": "954.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SYSTEM\\PC_monitor.py",
+                "relative_path": "SYSTEM\\PC_monitor.py",
+                "name": "PC_monitor.py",
+                "size_bytes": 7756,
+                "size_human": "7.57 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SYSTEM\\process_manager.py",
+                "relative_path": "SYSTEM\\process_manager.py",
+                "name": "process_manager.py",
+                "size_bytes": 3761,
+                "size_human": "3.67 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SYSTEM\\resource_manager.py",
+                "relative_path": "SYSTEM\\resource_manager.py",
+                "name": "resource_manager.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SYSTEM\\screen_manager.py",
+                "relative_path": "SYSTEM\\screen_manager.py",
+                "name": "screen_manager.py",
+                "size_bytes": 1035,
+                "size_human": "1.01 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SYSTEM\\window_manager.py",
+                "relative_path": "SYSTEM\\window_manager.py",
+                "name": "window_manager.py",
+                "size_bytes": 2205,
+                "size_human": "2.15 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\UTILITIES\\calculator.py",
+                "relative_path": "UTILITIES\\calculator.py",
+                "name": "calculator.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\UTILITIES\\coin_flip.py",
+                "relative_path": "UTILITIES\\coin_flip.py",
+                "name": "coin_flip.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\UTILITIES\\congratulations.py",
+                "relative_path": "UTILITIES\\congratulations.py",
+                "name": "congratulations.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\UTILITIES\\decision_wheel.py",
+                "relative_path": "UTILITIES\\decision_wheel.py",
+                "name": "decision_wheel.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\UTILITIES\\duplicate_finder.py",
+                "relative_path": "UTILITIES\\duplicate_finder.py",
+                "name": "duplicate_finder.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\UTILITIES\\easter_eggs.py",
+                "relative_path": "UTILITIES\\easter_eggs.py",
+                "name": "easter_eggs.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\UTILITIES\\facts.py",
+                "relative_path": "UTILITIES\\facts.py",
+                "name": "facts.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\UTILITIES\\focus_mode.py",
+                "relative_path": "UTILITIES\\focus_mode.py",
+                "name": "focus_mode.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\UTILITIES\\quotes.py",
+                "relative_path": "UTILITIES\\quotes.py",
+                "name": "quotes.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\UTILITIES\\random_numbers.py",
+                "relative_path": "UTILITIES\\random_numbers.py",
+                "name": "random_numbers.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\UTILITIES\\statistics.py",
+                "relative_path": "UTILITIES\\statistics.py",
+                "name": "statistics.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\UTILITIES\\stopwatch.py",
+                "relative_path": "UTILITIES\\stopwatch.py",
+                "name": "stopwatch.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\VOICE\\emotion_engine.py",
+                "relative_path": "VOICE\\emotion_engine.py",
+                "name": "emotion_engine.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\VOICE\\speech_output.py",
+                "relative_path": "VOICE\\speech_output.py",
+                "name": "speech_output.py",
+                "size_bytes": 22298,
+                "size_human": "21.78 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\VOICE\\speech_recognition.py",
+                "relative_path": "VOICE\\speech_recognition.py",
+                "name": "speech_recognition.py",
+                "size_bytes": 6801,
+                "size_human": "6.64 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\VOICE\\voice_commands.py",
+                "relative_path": "VOICE\\voice_commands.py",
+                "name": "voice_commands.py",
+                "size_bytes": 11717,
+                "size_human": "11.44 KB"
+            },
+            {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\VOICE\\wake_word.py",
+                "relative_path": "VOICE\\wake_word.py",
+                "name": "wake_word.py",
+                "size_bytes": 2166,
+                "size_human": "2.12 KB"
+            }
+        ]
+    },
+    "project_structure": {
+        "project_path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11",
+        "exists": true,
+        "directories": {
+            "API": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\API",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 0,
+                "size_human": "0.00 B",
+                "file_count": 4,
+                "directory_count": 0
+            },
+            "ASSETS": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\ASSETS",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 0,
+                "size_human": "0.00 B",
+                "file_count": 0,
+                "directory_count": 0
+            },
+            "AUTOMATION": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\AUTOMATION",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 0,
+                "size_human": "0.00 B",
+                "file_count": 5,
+                "directory_count": 0
+            },
+            "CALENDAR": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\CALENDAR",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 0,
+                "size_human": "0.00 B",
+                "file_count": 4,
+                "directory_count": 0
+            },
+            "COMMANDS": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\COMMANDS",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 164614,
+                "size_human": "160.76 KB",
+                "file_count": 20,
+                "directory_count": 1
+            },
+            "CORE": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\CORE",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 7562,
+                "size_human": "7.38 KB",
+                "file_count": 10,
+                "directory_count": 1
+            },
+            "CREATIVE": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\CREATIVE",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 0,
+                "size_human": "0.00 B",
+                "file_count": 4,
+                "directory_count": 0
+            },
+            "DESKTOP": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\DESKTOP",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 24376,
+                "size_human": "23.80 KB",
+                "file_count": 8,
+                "directory_count": 1
+            },
+            "DEVELOPER": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\DEVELOPER",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 0,
+                "size_human": "0.00 B",
+                "file_count": 6,
+                "directory_count": 0
+            },
+            "FINANCE": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\FINANCE",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 0,
+                "size_human": "0.00 B",
+                "file_count": 4,
+                "directory_count": 0
+            },
+            "LEARNING": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\LEARNING",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 0,
+                "size_human": "0.00 B",
+                "file_count": 6,
+                "directory_count": 0
+            },
+            "LOGS": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\LOGS",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 161613,
+                "size_human": "157.83 KB",
+                "file_count": 2,
+                "directory_count": 0
+            },
+            "Models": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\Models",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 91289240,
+                "size_human": "87.06 MB",
+                "file_count": 14,
+                "directory_count": 7
+            },
+            "NEWS": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\NEWS",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 0,
+                "size_human": "0.00 B",
+                "file_count": 4,
+                "directory_count": 0
+            },
+            "SECURITY": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 1764748,
+                "size_human": "1.68 MB",
+                "file_count": 85,
+                "directory_count": 1
+            },
+            "SECURITY_LOGS": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_LOGS",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 215813,
+                "size_human": "210.75 KB",
+                "file_count": 1,
+                "directory_count": 0
+            },
+            "SECURITY_QUARANTINE": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_QUARANTINE",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 788,
+                "size_human": "788.00 B",
+                "file_count": 1,
+                "directory_count": 0
+            },
+            "SECURITY_REPORTS": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_REPORTS",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 9613,
+                "size_human": "9.39 KB",
+                "file_count": 4,
+                "directory_count": 0
+            },
+            "SOUNDS": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SOUNDS",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 0,
+                "size_human": "0.00 B",
+                "file_count": 0,
+                "directory_count": 0
+            },
+            "STRATEGY": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\STRATEGY",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 0,
+                "size_human": "0.00 B",
+                "file_count": 5,
+                "directory_count": 0
+            },
+            "SYSTEM": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SYSTEM",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 43724,
+                "size_human": "42.70 KB",
+                "file_count": 19,
+                "directory_count": 1
+            },
+            "UTILITIES": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\UTILITIES",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 0,
+                "size_human": "0.00 B",
+                "file_count": 12,
+                "directory_count": 0
+            },
+            "VOICE": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\VOICE",
+                "exists": true,
+                "is_directory": true,
+                "size_bytes": 145459561,
+                "size_human": "138.72 MB",
+                "file_count": 10,
+                "directory_count": 1
+            }
+        },
+        "files": {
+            "config.py": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\config.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            },
+            "main.py": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\main.py",
+                "size_bytes": 8971,
+                "size_human": "8.76 KB"
+            },
+            "requirements.txt": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\requirements.txt",
+                "size_bytes": 2577,
+                "size_human": "2.52 KB"
+            },
+            "start_jarvis.bat": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\start_jarvis.bat",
+                "size_bytes": 60,
+                "size_human": "60.00 B"
+            },
+            "start_jarvis.vbs": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\start_jarvis.vbs",
+                "size_bytes": 278,
+                "size_human": "278.00 B"
+            },
+            "version.py": {
+                "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\version.py",
+                "size_bytes": 0,
+                "size_human": "0.00 B"
+            }
+        }
+    },
+    "usb_space": {
+        "total_bytes": 1023187873792,
+        "total_human": "952.92 GB",
+        "used_bytes": 276554321920,
+        "used_human": "257.56 GB",
+        "free_bytes": 746633551872,
+        "free_human": "695.36 GB"
+    },
+    "size": {
+        "venv_size_bytes": 0,
+        "venv_size_human": "0.00 B",
+        "models_size_bytes": 145382211,
+        "models_size_human": "138.65 MB",
+        "known_components_bytes": 145382211,
+        "known_components_human": "138.65 MB"
+    },
+    "security": {
+        "security_module_included": false,
+        "reason": "JARVIS USB не должен содержать основной Security-модуль JARVIS PC."
+    },
+    "notes": [
+        "Этот отчёт является анализом, а не процессом сборки.",
+        "Ничего из существующего JARVIS не изменялось.",
+        "Финальный состав Portable Edition будет определён после анализа.",
+        "Portable Edition должна содержать локальный runtime, библиотеки и модели.",
+        "Загрузка компонентов из интернета при первом запуске не планируется."
+    ]
+}

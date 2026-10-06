@@ -1,0 +1,46 @@
+
+Debug launcher started: 1.0.0
+[+] manifest.json загружен
+
+======================================================================
+ПРОВЕРКА ФАЙЛОВ
+======================================================================
+[+] Portable Python: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\JARVIS_USB\RUNTIME\Python\python.exe
+[+] JARVIS main.py: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\JARVIS_USB\JARVIS\main.py
+[+] MODELS: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\JARVIS_USB\MODELS
+[+] CONFIG: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\JARVIS_USB\CONFIG
+[+] DATA: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\JARVIS_USB\DATA
+[+] LOGS: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\JARVIS_USB\LOGS
+
+======================================================================
+ПРОВЕРКА PORTABLE PYTHON
+======================================================================
+EXECUTABLE=C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\JARVIS_USB\RUNTIME\Python\python.exe
+PREFIX=C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\JARVIS_USB\RUNTIME\Python
+BASE_PREFIX=C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\JARVIS_USB\RUNTIME\Python
+VERSION=3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]
+CTYPES=OK
+SOCKET=OK
+[+] Portable Python работает ✓
+
+======================================================================
+ЗАПУСК JARVIS
+======================================================================
+[i] Python: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\JARVIS_USB\RUNTIME\Python\python.exe
+[i] JARVIS: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\JARVIS_USB\JARVIS\main.py
+[i] Working directory: C:\Users\Пользователь\Desktop\Работа с Jarvis\JARVIS V11\JARVIS_V11\JARVIS_USB\JARVIS
+
+[i] Запускаем main.py...
+[i] ВАЖНО: окно НЕ будет скрыто.
+[i] Если JARVIS упадёт — traceback останется здесь.
+
+[+] Процесс JARVIS запущен. PID: 16252
+
+[i] Ожидаем завершения JARVIS...
+[i] Не закрывай это окно.
+
+
+======================================================================
+[!] JARVIS завершился. Exit code: 0
+======================================================================
+[i] JARVIS завершился без ошибки.

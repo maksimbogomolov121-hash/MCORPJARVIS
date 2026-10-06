@@ -1,0 +1,32 @@
+{
+    "portable": true,
+    "edition": "JARVIS USB",
+    "version": "2.0.0",
+    "internet_required": false,
+    "download_required": false,
+    "installation_required": false,
+    "security_module": false,
+    "runtime": {
+        "type": "portable",
+        "python": "RUNTIME/Python/python.exe"
+    },
+    "paths": {
+        "jarvis": "JARVIS",
+        "models": "MODELS",
+        "config": "CONFIG",
+        "data": "DATA",
+        "logs": "LOGS",
+        "cache": "CACHE",
+        "backup": "BACKUP"
+    },
+    "models": {
+        "local_only": true,
+        "vosk": true,
+        "silero": true
+    },
+    "sync": {
+        "enabled": false,
+        "mode": "future"
+    },
+    "created_at": "2026-09-08T18:10:29.370373"
+}

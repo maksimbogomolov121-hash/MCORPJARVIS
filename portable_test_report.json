@@ -1,0 +1,749 @@
+{
+    "test": {
+        "name": "JARVIS USB Portable Runtime Test",
+        "version": "1.0",
+        "time": "2026-09-08T13:36:25.976055",
+        "status": "FAIL"
+    },
+    "environment": {
+        "tester_python": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\.venv\\Scripts\\python.exe",
+        "tester_python_version": "3.12.10",
+        "tester_architecture": "64bit",
+        "usb_directory": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB"
+    },
+    "summary": {
+        "total": 46,
+        "passed": 30,
+        "failed": 16,
+        "overall_passed": false
+    },
+    "tests": [
+        {
+            "name": "STRUCTURE: RUNTIME",
+            "passed": true,
+            "details": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME",
+            "warning": null
+        },
+        {
+            "name": "STRUCTURE: RUNTIME/Python",
+            "passed": true,
+            "details": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python",
+            "warning": null
+        },
+        {
+            "name": "STRUCTURE: RUNTIME/Python/python.exe",
+            "passed": true,
+            "details": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\python.exe",
+            "warning": null
+        },
+        {
+            "name": "STRUCTURE: JARVIS",
+            "passed": true,
+            "details": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS",
+            "warning": null
+        },
+        {
+            "name": "STRUCTURE: MODELS",
+            "passed": true,
+            "details": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\MODELS",
+            "warning": null
+        },
+        {
+            "name": "STRUCTURE: CONFIG",
+            "passed": true,
+            "details": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\CONFIG",
+            "warning": null
+        },
+        {
+            "name": "STRUCTURE: DATA",
+            "passed": true,
+            "details": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\DATA",
+            "warning": null
+        },
+        {
+            "name": "STRUCTURE: LOGS",
+            "passed": true,
+            "details": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\LOGS",
+            "warning": null
+        },
+        {
+            "name": "STRUCTURE: CACHE",
+            "passed": true,
+            "details": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\CACHE",
+            "warning": null
+        },
+        {
+            "name": "STRUCTURE: BACKUP",
+            "passed": true,
+            "details": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\BACKUP",
+            "warning": null
+        },
+        {
+            "name": "STRUCTURE: manifest.json",
+            "passed": true,
+            "details": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\manifest.json",
+            "warning": null
+        },
+        {
+            "name": "Portable Python запускается",
+            "passed": true,
+            "details": {
+                "return_code": 0,
+                "stdout": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]\nC:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\python.exe\nC:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\nC:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\n64bit",
+                "stderr": ""
+            },
+            "warning": null
+        },
+        {
+            "name": "Python работает из USB Runtime",
+            "passed": true,
+            "details": {
+                "executable": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\python.exe",
+                "expected": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\python.exe",
+                "prefix": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python",
+                "base_prefix": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python"
+            },
+            "warning": null
+        },
+        {
+            "name": "sys.path содержит Portable Runtime",
+            "passed": true,
+            "details": [
+                "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\python312.zip",
+                "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python",
+                "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib",
+                "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages",
+                "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\win32",
+                "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\win32\\lib",
+                "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\Pythonwin"
+            ],
+            "warning": null
+        },
+        {
+            "name": "PACKAGE: torch",
+            "passed": false,
+            "details": {
+                "import": false,
+                "version": null,
+                "error": "Traceback (most recent call last):\n  File \"<string>\", line 3, in <module>\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\importlib\\__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\torch\\__init__.py\", line 14, in <module>\n    import ctypes\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\ctypes\\__init__.py\", line 8, in <module>\n    from _ctypes import Union, Structure, Array\nModuleNotFoundError: No module named '_ctypes'"
+            },
+            "warning": null
+        },
+        {
+            "name": "PACKAGE: torchaudio",
+            "passed": false,
+            "details": {
+                "import": false,
+                "version": null,
+                "error": "Traceback (most recent call last):\n  File \"<string>\", line 3, in <module>\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\importlib\\__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\torchaudio\\__init__.py\", line 4, in <module>\n    import torch\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\torch\\__init__.py\", line 14, in <module>\n    import ctypes\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\ctypes\\__init__.py\", line 8, in <module>\n    from _ctypes import Union, Structure, Array\nModuleNotFoundError: No module named '_ctypes'"
+            },
+            "warning": null
+        },
+        {
+            "name": "PACKAGE: numpy",
+            "passed": true,
+            "details": {
+                "import": true,
+                "version": "2.4.4",
+                "error": null
+            },
+            "warning": null
+        },
+        {
+            "name": "PACKAGE: scipy",
+            "passed": false,
+            "details": {
+                "import": false,
+                "version": null,
+                "error": "Traceback (most recent call last):\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\scipy\\__init__.py\", line 95, in <module>\n    from scipy._lib._ccallback import LowLevelCallable\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\scipy\\_lib\\_ccallback.py\", line 1, in <module>\n    from . import _ccallback_c\n  File \"scipy/_lib/_ccallback_c.pyx\", line 205, in init scipy._lib._ccallback_c\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\ctypes\\__init__.py\", line 8, in <module>\n    from _ctypes import Union, Structure, Array\nModuleNotFoundError: No module named '_ctypes'\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"<string>\", line 3, in <module>\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\importlib\\__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\scipy\\__init__.py\", line 100, in <module>\n    raise ImportError(msg) from e\nImportError: The `scipy` install you are using seems to be broken, (extension modules cannot be imported), please try reinstalling."
+            },
+            "warning": null
+        },
+        {
+            "name": "PACKAGE: librosa",
+            "passed": true,
+            "details": {
+                "import": true,
+                "version": "1.0.0",
+                "error": null
+            },
+            "warning": null
+        },
+        {
+            "name": "PACKAGE: vosk",
+            "passed": false,
+            "details": {
+                "import": false,
+                "version": null,
+                "error": "Traceback (most recent call last):\n  File \"<string>\", line 3, in <module>\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\importlib\\__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\vosk\\__init__.py\", line 7, in <module>\n    import requests\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\requests\\__init__.py\", line 43, in <module>\n    import urllib3\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\urllib3\\__init__.py\", line 14, in <module>\n    from . import exceptions\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\urllib3\\exceptions.py\", line 3, in <module>\n    import socket\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\socket.py\", line 52, in <module>\n    import _socket\nModuleNotFoundError: No module named '_socket'"
+            },
+            "warning": null
+        },
+        {
+            "name": "PACKAGE: speech_recognition",
+            "passed": false,
+            "details": {
+                "import": false,
+                "version": null,
+                "error": "Traceback (most recent call last):\n  File \"<string>\", line 3, in <module>\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\importlib\\__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\speech_recognition\\__init__.py\", line 28, in <module>\n    from urllib.request import Request, urlopen\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\urllib\\request.py\", line 88, in <module>\n    import http.client\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\http\\client.py\", line 71, in <module>\n    import email.parser\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\email\\parser.py\", line 12, in <module>\n    from email.feedparser import FeedParser, BytesFeedParser\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\email\\feedparser.py\", line 27, in <module>\n    from email._policybase import compat32\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\email\\_policybase.py\", line 9, in <module>\n    from email.utils import _has_surrogates\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\email\\utils.py\", line 29, in <module>\n    import socket\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\socket.py\", line 52, in <module>\n    import _socket\nModuleNotFoundError: No module named '_socket'"
+            },
+            "warning": null
+        },
+        {
+            "name": "PACKAGE: pyaudio",
+            "passed": true,
+            "details": {
+                "import": true,
+                "version": "0.2.14",
+                "error": null
+            },
+            "warning": null
+        },
+        {
+            "name": "PACKAGE: sounddevice",
+            "passed": false,
+            "details": {
+                "import": false,
+                "version": null,
+                "error": "Traceback (most recent call last):\n  File \"<string>\", line 3, in <module>\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\importlib\\__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\sounddevice.py\", line 58, in <module>\n    from ctypes.util import find_library as _find_library\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\ctypes\\__init__.py\", line 8, in <module>\n    from _ctypes import Union, Structure, Array\nModuleNotFoundError: No module named '_ctypes'"
+            },
+            "warning": null
+        },
+        {
+            "name": "PACKAGE: soundfile",
+            "passed": false,
+            "details": {
+                "import": false,
+                "version": null,
+                "error": "Traceback (most recent call last):\n  File \"<string>\", line 3, in <module>\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\importlib\\__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\soundfile.py\", line 17, in <module>\n    from ctypes.util import find_library as _find_library\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\ctypes\\__init__.py\", line 8, in <module>\n    from _ctypes import Union, Structure, Array\nModuleNotFoundError: No module named '_ctypes'"
+            },
+            "warning": null
+        },
+        {
+            "name": "PACKAGE: pyttsx3",
+            "passed": true,
+            "details": {
+                "import": true,
+                "version": "unknown",
+                "error": null
+            },
+            "warning": null
+        },
+        {
+            "name": "PACKAGE: pycaw",
+            "passed": true,
+            "details": {
+                "import": true,
+                "version": "unknown",
+                "error": null
+            },
+            "warning": null
+        },
+        {
+            "name": "PACKAGE: win32api",
+            "passed": true,
+            "details": {
+                "import": true,
+                "version": "unknown",
+                "error": null
+            },
+            "warning": null
+        },
+        {
+            "name": "PACKAGE: pyautogui",
+            "passed": false,
+            "details": {
+                "import": false,
+                "version": null,
+                "error": "Traceback (most recent call last):\n  File \"<string>\", line 3, in <module>\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\importlib\\__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\pyautogui\\__init__.py\", line 542, in <module>\n    from . import _pyautogui_win as platformModule\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\pyautogui\\_pyautogui_win.py\", line 5, in <module>\n    import ctypes\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\ctypes\\__init__.py\", line 8, in <module>\n    from _ctypes import Union, Structure, Array\nModuleNotFoundError: No module named '_ctypes'"
+            },
+            "warning": null
+        },
+        {
+            "name": "PACKAGE: kivy",
+            "passed": true,
+            "details": {
+                "import": true,
+                "version": "2.3.1",
+                "error": "[\u001b[1;32mINFO\u001b[0m   ] [Logger      ] Record log in C:\\Users\\Пользователь\\.kivy\\logs\\kivy_26-09-08_0.txt\n[\u001b[1;32mINFO\u001b[0m   ] [deps        ] Successfully imported \"kivy_deps.angle\" 0.4.0\n[\u001b[1;32mINFO\u001b[0m   ] [deps        ] Successfully imported \"kivy_deps.glew\" 0.3.1\n[\u001b[1;32mINFO\u001b[0m   ] [deps        ] Successfully imported \"kivy_deps.sdl2\" 0.8.0\n[\u001b[1;32mINFO\u001b[0m   ] [Kivy        ] v2.3.1\n[\u001b[1;32mINFO\u001b[0m   ] [Kivy        ] Installed at \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\kivy\\__init__.py\"\n[\u001b[1;32mINFO\u001b[0m   ] [Python      ] v3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]\n[\u001b[1;32mINFO\u001b[0m   ] [Python      ] Interpreter at \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\python.exe\"\n[\u001b[1;32mINFO\u001b[0m   ] [Logger      ] Purge log fired. Processing...\n[\u001b[1;32mINFO\u001b[0m   ] [Logger      ] Purge finished!"
+            },
+            "warning": null
+        },
+        {
+            "name": "PACKAGE: google.genai",
+            "passed": false,
+            "details": {
+                "import": false,
+                "version": null,
+                "error": "Traceback (most recent call last):\n  File \"<string>\", line 3, in <module>\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\importlib\\__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\google\\genai\\__init__.py\", line 18, in <module>\n    from . import interactions\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\google\\genai\\interactions.py\", line 17, in <module>\n    from ._interactions.types import *\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\google\\genai\\_interactions\\__init__.py\", line 20, in <module>\n    from . import types\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\google\\genai\\_interactions\\types\\__init__.py\", line 20, in <module>\n    from .step import Step as Step\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\google\\genai\\_interactions\\types\\step.py\", line 21, in <module>\n    from .._utils import PropertyInfo\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\google\\genai\\_interactions\\_utils\\__init__.py\", line 17, in <module>\n    from ._sync import asyncify as asyncify\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\google\\genai\\_interactions\\_utils\\_sync.py\", line 18, in <module>\n    import asyncio\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\asyncio\\__init__.py\", line 8, in <module>\n    from .base_events import *\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\asyncio\\base_events.py\", line 23, in <module>\n    import socket\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\socket.py\", line 52, in <module>\n    import _socket\nModuleNotFoundError: No module named '_socket'"
+            },
+            "warning": null
+        },
+        {
+            "name": "PACKAGE: silero",
+            "passed": false,
+            "details": {
+                "import": false,
+                "version": null,
+                "error": "Traceback (most recent call last):\n  File \"<string>\", line 3, in <module>\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\importlib\\__init__.py\", line 90, in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap>\", line 1387, in _gcd_import\n  File \"<frozen importlib._bootstrap>\", line 1360, in _find_and_load\n  File \"<frozen importlib._bootstrap>\", line 1331, in _find_and_load_unlocked\n  File \"<frozen importlib._bootstrap>\", line 935, in _load_unlocked\n  File \"<frozen importlib._bootstrap_external>\", line 999, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\silero\\__init__.py\", line 1, in <module>\n    from .silero import (\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\silero\\silero.py\", line 2, in <module>\n    import torch\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\torch\\__init__.py\", line 14, in <module>\n    import ctypes\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\ctypes\\__init__.py\", line 8, in <module>\n    from _ctypes import Union, Structure, Array\nModuleNotFoundError: No module named '_ctypes'"
+            },
+            "warning": null
+        },
+        {
+            "name": "PyTorch",
+            "passed": false,
+            "details": {
+                "stdout": "",
+                "stderr": "Traceback (most recent call last):\n  File \"<string>\", line 2, in <module>\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\torch\\__init__.py\", line 14, in <module>\n    import ctypes\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\ctypes\\__init__.py\", line 8, in <module>\n    from _ctypes import Union, Structure, Array\nModuleNotFoundError: No module named '_ctypes'"
+            },
+            "warning": null
+        },
+        {
+            "name": "Torchaudio",
+            "passed": false,
+            "details": {
+                "stdout": "",
+                "stderr": "Traceback (most recent call last):\n  File \"<string>\", line 2, in <module>\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\torchaudio\\__init__.py\", line 4, in <module>\n    import torch\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\torch\\__init__.py\", line 14, in <module>\n    import ctypes\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\ctypes\\__init__.py\", line 8, in <module>\n    from _ctypes import Union, Structure, Array\nModuleNotFoundError: No module named '_ctypes'"
+            },
+            "warning": null
+        },
+        {
+            "name": "Vosk",
+            "passed": false,
+            "details": {
+                "stdout": "",
+                "stderr": "Traceback (most recent call last):\n  File \"<string>\", line 2, in <module>\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\vosk\\__init__.py\", line 7, in <module>\n    import requests\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\requests\\__init__.py\", line 43, in <module>\n    import urllib3\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\urllib3\\__init__.py\", line 14, in <module>\n    from . import exceptions\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\urllib3\\exceptions.py\", line 3, in <module>\n    import socket\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\socket.py\", line 52, in <module>\n    import _socket\nModuleNotFoundError: No module named '_socket'"
+            },
+            "warning": null
+        },
+        {
+            "name": "Vosk model",
+            "passed": true,
+            "details": [
+                "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22",
+                "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\vosk",
+                "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\vosk-0.3.45.dist-info"
+            ],
+            "warning": null
+        },
+        {
+            "name": "Silero",
+            "passed": false,
+            "details": {
+                "stdout": "",
+                "stderr": "Traceback (most recent call last):\n  File \"<string>\", line 2, in <module>\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\silero\\__init__.py\", line 1, in <module>\n    from .silero import (\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\silero\\silero.py\", line 2, in <module>\n    import torch\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\torch\\__init__.py\", line 14, in <module>\n    import ctypes\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\ctypes\\__init__.py\", line 8, in <module>\n    from _ctypes import Union, Structure, Array\nModuleNotFoundError: No module named '_ctypes'"
+            },
+            "warning": null
+        },
+        {
+            "name": "Silero model",
+            "passed": true,
+            "details": [
+                {
+                    "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\VOICE\\v5_ru.pt",
+                    "size_bytes": 145382211,
+                    "size_human": "138.65 MB"
+                },
+                {
+                    "path": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\MODELS\\VOICE\\v5_ru.pt",
+                    "size_bytes": 145382211,
+                    "size_human": "138.65 MB"
+                }
+            ],
+            "warning": null
+        },
+        {
+            "name": "Silero model load",
+            "passed": false,
+            "details": {
+                "model": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\VOICE\\v5_ru.pt",
+                "stdout": "",
+                "stderr": "Traceback (most recent call last):\n  File \"<string>\", line 2, in <module>\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\site-packages\\torch\\__init__.py\", line 14, in <module>\n    import ctypes\n  File \"C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\Lib\\ctypes\\__init__.py\", line 8, in <module>\n    from _ctypes import Union, Structure, Array\nModuleNotFoundError: No module named '_ctypes'"
+            },
+            "warning": null
+        },
+        {
+            "name": "JARVIS source files",
+            "passed": true,
+            "details": {
+                "count": 98
+            },
+            "warning": null
+        },
+        {
+            "name": "JARVIS Python compilation",
+            "passed": true,
+            "details": {
+                "files_checked": 98,
+                "errors": []
+            },
+            "warning": null
+        },
+        {
+            "name": "Security excluded",
+            "passed": true,
+            "details": [],
+            "warning": null
+        },
+        {
+            "name": "Old absolute paths",
+            "passed": false,
+            "details": [
+                {
+                    "file": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\SYSTEM\\backup_manager.py",
+                    "marker": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis"
+                }
+            ],
+            "warning": null
+        },
+        {
+            "name": "Portable config",
+            "passed": true,
+            "details": {
+                "portable": true,
+                "edition": "JARVIS USB",
+                "version": "1.0",
+                "internet_required": false,
+                "download_required": false,
+                "security_module": false,
+                "runtime": {
+                    "type": "portable",
+                    "python": "RUNTIME/Python/python.exe"
+                },
+                "paths": {
+                    "jarvis": "JARVIS",
+                    "models": "MODELS",
+                    "config": "CONFIG",
+                    "data": "DATA",
+                    "logs": "LOGS",
+                    "cache": "CACHE",
+                    "backup": "BACKUP"
+                },
+                "models": {
+                    "vosk": true,
+                    "silero": true,
+                    "local_only": true
+                },
+                "sync": {
+                    "enabled": false,
+                    "mode": "future"
+                },
+                "created_at": "2026-09-08T13:23:32.966276"
+            },
+            "warning": null
+        },
+        {
+            "name": "Models directory",
+            "passed": true,
+            "details": {
+                "count": 1,
+                "size": 145382211
+            },
+            "warning": null
+        },
+        {
+            "name": "manifest.json",
+            "passed": true,
+            "details": {
+                "manifest_version": "1.0",
+                "product": {
+                    "name": "JARVIS USB",
+                    "edition": "Portable Edition",
+                    "version": "1.0.0"
+                },
+                "builder": {
+                    "version": "1.0",
+                    "built_at": "2026-09-08T13:23:36.656033"
+                },
+                "source": {
+                    "project": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11",
+                    "python": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\.venv\\Scripts\\python.exe",
+                    "python_version": "3.12.10"
+                },
+                "portable": {
+                    "fully_local": true,
+                    "internet_required": false,
+                    "download_required": false,
+                    "installation_required": false
+                },
+                "security": {
+                    "included": false,
+                    "excluded": true
+                },
+                "runtime": {
+                    "base_python": "C:\\Users\\Пользователь\\AppData\\Local\\Python\\pythoncore-3.12-64",
+                    "venv": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\.venv",
+                    "site_packages": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\.venv\\Lib\\site-packages",
+                    "portable_python": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python",
+                    "python_version": "3.12.10",
+                    "copied_files": 65135,
+                    "copied_bytes": 1447685411,
+                    "copied_human": "1.35 GB"
+                },
+                "project": {
+                    "source": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11",
+                    "destination": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS",
+                    "copied_files": 118,
+                    "skipped_files": 0,
+                    "copied_bytes": 237020121,
+                    "copied_human": "226.04 MB",
+                    "excluded_directories": [
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_LOGS",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_QUARANTINE",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_REPORTS",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\COMMANDS\\__pycache__",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\CORE\\__pycache__",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\DESKTOP\\__pycache__",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SYSTEM\\__pycache__",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\VOICE\\__pycache__"
+                    ]
+                },
+                "models": {
+                    "count": 1,
+                    "total_bytes": 145382211,
+                    "total_human": "138.65 MB",
+                    "models": [
+                        {
+                            "source": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\VOICE\\v5_ru.pt",
+                            "relative_path": "VOICE\\v5_ru.pt",
+                            "destination": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\MODELS\\VOICE\\v5_ru.pt",
+                            "name": "v5_ru.pt",
+                            "extension": ".pt",
+                            "size_bytes": 145382211,
+                            "size_human": "138.65 MB",
+                            "sha256": "7ba04d42340fe0398042eed2e0d12d62e23096d626b1b9feff4dcb1309197ab4"
+                        }
+                    ]
+                },
+                "packages": {
+                    "torch": {
+                        "available": false
+                    },
+                    "torchaudio": {
+                        "available": false
+                    },
+                    "numpy": {
+                        "available": false
+                    },
+                    "scipy": {
+                        "available": false
+                    },
+                    "librosa": {
+                        "available": false
+                    },
+                    "vosk": {
+                        "available": false
+                    },
+                    "SpeechRecognition": {
+                        "available": false
+                    },
+                    "PyAudio": {
+                        "available": false
+                    },
+                    "sounddevice": {
+                        "available": false
+                    },
+                    "soundfile": {
+                        "available": false
+                    },
+                    "pyttsx3": {
+                        "available": false
+                    },
+                    "pycaw": {
+                        "available": false
+                    },
+                    "pywin32": {
+                        "available": false
+                    },
+                    "PyAutoGUI": {
+                        "available": false
+                    },
+                    "Kivy": {
+                        "available": false
+                    },
+                    "google-genai": {
+                        "available": false
+                    },
+                    "silero": {
+                        "available": false
+                    }
+                },
+                "security_verification": {
+                    "removed": false,
+                    "forbidden_paths": [
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\API",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\ASSETS",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\AUTOMATION",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\CALENDAR",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\COMMANDS",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\config.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\CORE",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\CREATIVE",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\DESKTOP",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\DEVELOPER",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\FINANCE",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\LEARNING",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\LOGS",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\main.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\NEWS",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\requirements.txt",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\SOUNDS",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\start_jarvis.bat",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\start_jarvis.vbs",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\STRATEGY",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\SYSTEM",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\UTILITIES",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\version.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\VOICE",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\API\\api.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\API\\integrations.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\API\\news_api.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\API\\weather_api.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\AUTOMATION\\chains.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\AUTOMATION\\macros.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\AUTOMATION\\smart_commands.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\AUTOMATION\\triggers.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\AUTOMATION\\workflow.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\CALENDAR\\calendar_core.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\CALENDAR\\events.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\CALENDAR\\planner.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\CALENDAR\\reminder.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\COMMANDS\\app_commands.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\COMMANDS\\browser_commands.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\COMMANDS\\command_handler.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\COMMANDS\\media_commands.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\COMMANDS\\media_controller.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\COMMANDS\\security_commands.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\COMMANDS\\system_commands.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\COMMANDS\\universal_open.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\COMMANDS\\utility_commands.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\COMMANDS\\volume_manager.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\CORE\\AI_brain.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\CORE\\context_engine.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\CORE\\events.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\CORE\\logger.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\CORE\\memory.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\CORE\\startup.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\CORE\\sсheduler.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\CREATIVE\\creative_AI.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\CREATIVE\\image_generator.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\CREATIVE\\logo_generator.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\CREATIVE\\ui_designer.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\DESKTOP\\active_target.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\DESKTOP\\desktop_vision.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\DESKTOP\\install_jarvis_context_menu.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\DESKTOP\\jarvis_context_menu.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\DESKTOP\\object_detector.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\DESKTOP\\screenshot.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\DESKTOP\\ui_detector.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\DEVELOPER\\code_generator.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\DEVELOPER\\debugger.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\DEVELOPER\\documentation.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\DEVELOPER\\optimizer.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\DEVELOPER\\project_builder.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\DEVELOPER\\tester.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\FINANCE\\analysis.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\FINANCE\\budget.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\FINANCE\\finance_AI.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\FINANCE\\goals.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\LEARNING\\habits.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\LEARNING\\knowledge_base.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\LEARNING\\learning_engine.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\LEARNING\\mentor.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\LEARNING\\progress.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\LEARNING\\recommendations.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\LOGS\\jarvis.log",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\LOGS\\security_bootstrap.log",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\silero",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\NEWS\\news_core.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\NEWS\\parser.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\NEWS\\recommendations.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\NEWS\\summarizer.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\STRATEGY\\decision_engine.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\STRATEGY\\planner.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\STRATEGY\\probability.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\STRATEGY\\risk_analysis.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\STRATEGY\\scenario_advisor.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\SYSTEM\\app_launcher.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\SYSTEM\\backup_manager.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\SYSTEM\\confirmation_manager.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\SYSTEM\\disk_manager.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\SYSTEM\\file_manager.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\SYSTEM\\jarvis_manager.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\SYSTEM\\night_mode.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\SYSTEM\\PC_monitor.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\SYSTEM\\process_manager.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\SYSTEM\\resource_manager.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\SYSTEM\\screen_manager.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\SYSTEM\\window_manager.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\UTILITIES\\calculator.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\UTILITIES\\coin_flip.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\UTILITIES\\congratulations.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\UTILITIES\\decision_wheel.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\UTILITIES\\duplicate_finder.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\UTILITIES\\easter_eggs.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\UTILITIES\\facts.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\UTILITIES\\focus_mode.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\UTILITIES\\quotes.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\UTILITIES\\random_numbers.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\UTILITIES\\statistics.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\UTILITIES\\stopwatch.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\VOICE\\emotion_engine.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\VOICE\\speech_output.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\VOICE\\speech_recognition.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\VOICE\\v5_ru.pt",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\VOICE\\voice_commands.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\VOICE\\wake_word.py",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22\\am",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22\\conf",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22\\graph",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22\\ivector",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22\\README",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22\\am\\final.mdl",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22\\conf\\mfcc.conf",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22\\conf\\model.conf",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22\\graph\\disambig_tid.int",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22\\graph\\Gr.fst",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22\\graph\\HCLr.fst",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22\\graph\\phones",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22\\ivector\\final.dubm",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22\\ivector\\final.ie",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22\\ivector\\final.mat",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22\\ivector\\global_cmvn.stats",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22\\ivector\\online_cmvn.conf",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22\\ivector\\splice.conf",
+                        "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\Models\\vosk-model-small-ru-0.22\\graph\\phones\\word_boundary.int"
+                    ]
+                },
+                "structure": {
+                    "runtime": "RUNTIME",
+                    "libraries": "LIB",
+                    "jarvis": "JARVIS",
+                    "models": "MODELS",
+                    "config": "CONFIG",
+                    "data": "DATA",
+                    "logs": "LOGS",
+                    "cache": "CACHE",
+                    "backup": "BACKUP"
+                }
+            },
+            "warning": null
+        },
+        {
+            "name": "Portable Edition size",
+            "passed": true,
+            "details": {
+                "total_bytes": 1816346429,
+                "total_human": "1.69 GB",
+                "runtime": "1.34 GB",
+                "jarvis": "226.04 MB",
+                "models": "138.65 MB"
+            },
+            "warning": null
+        }
+    ]
+}

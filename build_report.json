@@ -1,0 +1,185 @@
+{
+    "builder": {
+        "name": "JARVIS USB Builder",
+        "version": "2.0"
+    },
+    "build": {
+        "status": "completed",
+        "time": "2026-09-08T18:10:44.441624"
+    },
+    "size": {
+        "bytes": 1892776346,
+        "human": "1.76 GB"
+    },
+    "runtime_test": {
+        "passed": true,
+        "return_code": 0,
+        "stdout": "EXECUTABLE=C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\\python.exe\nVERSION=3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]\nPREFIX=C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\nBASE_PREFIX=C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python\nARCH=64bit\nCTYPES=OK\nSOCKET=OK",
+        "stderr": ""
+    },
+    "packages": {
+        "passed": [
+            "torch",
+            "torchaudio",
+            "numpy",
+            "scipy",
+            "librosa",
+            "vosk",
+            "speech_recognition",
+            "pyaudio",
+            "sounddevice",
+            "soundfile",
+            "pyttsx3",
+            "pycaw",
+            "win32api",
+            "pyautogui",
+            "kivy",
+            "google.genai",
+            "silero"
+        ],
+        "failed": [],
+        "total": 17
+    },
+    "manifest": {
+        "manifest_version": "2.0",
+        "product": {
+            "name": "JARVIS USB",
+            "edition": "Portable Edition",
+            "version": "2.0.0"
+        },
+        "builder": {
+            "name": "JARVIS USB Builder",
+            "version": "2.0",
+            "built_at": "2026-09-08T18:10:29.406546"
+        },
+        "portable": {
+            "fully_local": true,
+            "internet_required": false,
+            "download_required": false,
+            "installation_required": false
+        },
+        "security": {
+            "included": false,
+            "excluded": true
+        },
+        "source": {
+            "project": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11",
+            "project_root": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11",
+            "python": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\.venv\\Scripts\\python.exe",
+            "python_version": "3.12.10"
+        },
+        "runtime": {
+            "source": "C:\\Users\\Пользователь\\AppData\\Local\\Python\\pythoncore-3.12-64",
+            "portable": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\RUNTIME\\Python",
+            "version": "3.12.10",
+            "architecture": "64bit",
+            "copied_files": 66909,
+            "copied_bytes": 1509972001,
+            "size": "1.41 GB",
+            "site_packages_files": 63254,
+            "site_packages_bytes": 1388384544,
+            "site_packages_size": "1.29 GB"
+        },
+        "jarvis": {
+            "source": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11",
+            "destination": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS",
+            "copied_files": 118,
+            "copied_bytes": 237020121,
+            "size": "226.04 MB",
+            "skipped_files": 0,
+            "excluded_directories": [
+                "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB",
+                "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY",
+                "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_LOGS",
+                "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_QUARANTINE",
+                "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SECURITY_REPORTS",
+                "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\COMMANDS\\__pycache__",
+                "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\CORE\\__pycache__",
+                "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\DESKTOP\\__pycache__",
+                "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\SYSTEM\\__pycache__",
+                "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\VOICE\\__pycache__"
+            ]
+        },
+        "models": {
+            "count": 1,
+            "total_bytes": 145382211,
+            "total_size": "138.65 MB",
+            "models": [
+                {
+                    "name": "v5_ru.pt",
+                    "source": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\VOICE\\v5_ru.pt",
+                    "relative_path": "VOICE\\v5_ru.pt",
+                    "destination": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\MODELS\\VOICE\\v5_ru.pt",
+                    "size_bytes": 145382211,
+                    "size": "138.65 MB",
+                    "sha256": "7ba04d42340fe0398042eed2e0d12d62e23096d626b1b9feff4dcb1309197ab4"
+                }
+            ]
+        },
+        "config": {
+            "portable": true,
+            "edition": "JARVIS USB",
+            "version": "2.0.0",
+            "internet_required": false,
+            "download_required": false,
+            "installation_required": false,
+            "security_module": false,
+            "runtime": {
+                "type": "portable",
+                "python": "RUNTIME/Python/python.exe"
+            },
+            "paths": {
+                "jarvis": "JARVIS",
+                "models": "MODELS",
+                "config": "CONFIG",
+                "data": "DATA",
+                "logs": "LOGS",
+                "cache": "CACHE",
+                "backup": "BACKUP"
+            },
+            "models": {
+                "local_only": true,
+                "vosk": true,
+                "silero": true
+            },
+            "sync": {
+                "enabled": false,
+                "mode": "future"
+            },
+            "created_at": "2026-09-08T18:10:29.370373"
+        },
+        "security_verification": {
+            "passed": true,
+            "found": []
+        },
+        "old_paths": {
+            "passed": false,
+            "found": [
+                {
+                    "file": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis\\JARVIS V11\\JARVIS_V11\\JARVIS_USB\\JARVIS\\SYSTEM\\backup_manager.py",
+                    "marker": "C:\\Users\\Пользователь\\Desktop\\Работа с Jarvis"
+                }
+            ]
+        },
+        "structure": {
+            "runtime": "RUNTIME",
+            "python": "RUNTIME/Python",
+            "jarvis": "JARVIS",
+            "models": "MODELS",
+            "config": "CONFIG",
+            "data": "DATA",
+            "logs": "LOGS",
+            "cache": "CACHE",
+            "backup": "BACKUP"
+        }
+    },
+    "notes": [
+        "Security полностью исключён.",
+        "Интернет не использовался.",
+        "pip не запускался.",
+        "Основной JARVIS не изменялся.",
+        "Portable Python создан отдельно.",
+        "site-packages взят из рабочего .venv.",
+        "Модели скопированы локально."
+    ]
+}
